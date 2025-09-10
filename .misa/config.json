@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "db_path": "data.db",
+  "ai_api": "mock",
+  "log_level": "INFO"
+}
