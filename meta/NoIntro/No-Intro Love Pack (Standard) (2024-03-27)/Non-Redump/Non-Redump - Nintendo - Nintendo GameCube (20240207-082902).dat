@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>160</id>
+		<name>Non-Redump - Nintendo - Nintendo GameCube</name>
+		<description>Non-Redump - Nintendo - Nintendo GameCube</description>
+		<subset>Non-Redump</subset>
+		<version>20240207-082902</version>
+		<author>bikerspade, Gefflon, Hiccup, NovaAurora, rarenight, relax, Seventy7, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Asterix &amp; Obelix XXL (Europe) (Beta) (2004-02-25)" id="0040">
+		<description>Asterix &amp; Obelix XXL (Europe) (Beta) (2004-02-25)</description>
+		<rom name="Asterix &amp; Obelix XXL (Europe) (Beta) (2004-02-25).iso" size="1459978240" crc="488ab477" md5="6246c365f1ca90f0e60a049fdd6b6b4b" sha1="d25ee7dd8393a599ad7aab912765089a4eb2d7b6" sha256="23ed969a3bca369caabed16fe55a3297f864823e105f81e3e06430dcd4c12a2a" serial="GAGPEL"/>
+	</game>
+	<game name="ATV - Quad Power Racing 2 (Europe) (Beta) (2002-10-11)" id="0007">
+		<description>ATV - Quad Power Racing 2 (Europe) (Beta) (2002-10-11)</description>
+		<rom name="ATV - Quad Power Racing 2 (Europe) (Beta) (2002-10-11).iso" size="1459978240" crc="0f846161" md5="66510231651603ef1e5ac025ba4ac1e5" sha1="d544794ff064c22b87f1072b8874c3f833ea7060" serial="RELSAB"/>
+	</game>
+	<game name="Baldur's Gate - Dark Alliance (USA) (Beta) (2002-10-14)" id="0008">
+		<description>Baldur's Gate - Dark Alliance (USA) (Beta) (2002-10-14)</description>
+		<rom name="Baldur's Gate - Dark Alliance (USA) (Beta) (2002-10-14).iso" size="1459978240" crc="c2c80167" md5="190c448f60217f42705e78ee3a77477c" sha1="0790aafd32fe9f8c3f220859b5878444f1fcfb74" serial="GDEE71"/>
+	</game>
+	<game name="BattleBots (USA) (Proto)" id="0006">
+		<description>BattleBots (USA) (Proto)</description>
+		<rom name="BattleBots (USA) (Proto).iso" size="1459978240" crc="1f19869c" md5="ddfc8488bb5b03990ef643f87c7b06b9" sha1="ba4d305a62a1ff9f47dbe990929bbaf663930120" serial="GB8E78"/>
+	</game>
+	<game name="Biohazard 4 (Japan) (Beta) (2004-09-08)" id="0059">
+		<category>Games</category>
+		<description>Biohazard 4 (Japan) (Beta) (2004-09-08)</description>
+		<rom name="Biohazard 4 (Japan) (Beta) (2004-09-08).iso" size="1459978240" crc="ec06ecf3" md5="f74681ccdfbc43fbabf5687ff3717ccc" sha1="1090207ef2d25bcc646b9808d1a6f9bc3b96c738" sha256="dee4da6368736bd13d8130011b20c6d86d5273044deb9e1ac778c95f623bbe2a" serial="P4BJ08"/>
+	</game>
+	<game name="Biohazard 4 (Japan) (Beta) (2004-09-10)" id="0060">
+		<category>Games</category>
+		<description>Biohazard 4 (Japan) (Beta) (2004-09-10)</description>
+		<rom name="Biohazard 4 (Japan) (Beta) (2004-09-10).iso" size="1459978240" crc="5c165aaf" md5="1e4ba72f69a5ced86195a255a928d6c9" sha1="440a6b70af661e0331824fb0d1c9ca828fa956fa" sha256="bb3f4c7f18ebc7fdd70773d228532b99f189f93fd0be12b6d5cbff7ff69b45ef" serial="P4BJ08"/>
+	</game>
+	<game name="Diag Ver 3.1.1 (Japan)" id="0039">
+		<description>Diag Ver 3.1.1 (Japan)</description>
+		<rom name="Diag Ver 3.1.1 (Japan).iso" size="1459978240" crc="94c088df" md5="febff18dc6ea81c43be555cf343cacb2" sha1="29d432426b69dc8eb5483447ad4b2695f1907f82" sha256="b16667ea28cd2309d43579f58001eec667f3b2bbb1583e1b518d3328d43bd9dc" serial="060J01"/>
+	</game>
+	<game name="Disney's Hide &amp; Sneak (Japan) (Beta) (2003-12-01)" id="0009">
+		<description>Disney's Hide &amp; Sneak (Japan) (Beta) (2003-12-01)</description>
+		<rom name="Disney's Hide &amp; Sneak (Japan) (Beta) (2003-12-01).iso" size="1459978240" crc="cff85dc4" md5="ddebe2515b8196ade500d224f4ca6203" sha1="1c6b2bd340995ff0a1df48f57f86f9381ed3ebd4" serial="GAAJ08"/>
+	</game>
+	<game name="Dodger (Unknown) (Tech Demo) [b]" id="0010">
+		<description>Dodger (Unknown) (Tech Demo) [b]</description>
+		<rom name="Dodger (Unknown) (Tech Demo) [b].iso" size="26833286" crc="6254fb97" md5="7e47e5fb2801e9d1f5bf68dc03c716a7" sha1="544f6834179ff207e9f0f4f6a9994d4543605055" status="baddump" serial="TESTNA"/>
+	</game>
+	<game name="Dr. Muto (Europe) (Beta) (2003-02-12)" id="0011">
+		<description>Dr. Muto (Europe) (Beta) (2003-02-12)</description>
+		<rom name="Dr. Muto (Europe) (Beta) (2003-02-12).iso" size="1459978240" crc="d442a6bf" md5="87b369b3bbd00c3fb45eadd0fcbf2d56" sha1="7d9fbe8f84d4a90edec9ca44a8bc5cc37175c070" serial="GMUP5D"/>
+	</game>
+	<game name="Freestyle Street Soccer (USA) (Beta) (2003-11-24)" id="0045">
+		<description>Freestyle Street Soccer (USA) (Beta) (2003-11-24)</description>
+		<rom name="Freestyle Street Soccer (USA) (Beta) (2003-11-24).iso" size="1459978240" crc="32ed3ebf" md5="2e1235ff71f174c45b00fd3e14da6a8f" sha1="a20a5d3f178c062e2f0fcfcf84c9b7ecdb5a0b87" sha256="e1debc8b8be1794d5eb83dd017b6db5256a04e9fa54c875f7af00728115ae51d" serial="GUVE51"/>
+	</game>
+	<game name="Gekkan Nintendo Tentou Demo 2002.4.4 (Japan)" id="0001">
+		<category>Demos</category>
+		<description>Gekkan Nintendo Tentou Demo 2002.4.4 (Japan)</description>
+		<rom name="Gekkan Nintendo Tentou Demo 2002.4.4 (Japan).iso" size="1459978240" crc="8efbb42b" md5="7fbf8c610ccfbd6719d9e60ddef23278" sha1="f44226bb6e041f40b6e6d61e3c4a8dd62abc63b5" serial="D28J01"/>
+	</game>
+	<game name="Gladius (USA) (Beta) (2003-05-21)" id="0044">
+		<description>Gladius (USA) (Beta) (2003-05-21)</description>
+		<rom name="Gladius (USA) (Beta) (2003-05-21).iso" size="1459978240" crc="87a41cc0" md5="0eb18056c445d16b059cc35f2e46d0be" sha1="4e9aa9174f80a1323dcf35d9cf5dc18ae04acf90" sha256="6ca4e23418a17bfdbe2c8846f8da8beb2f2d6c8df9ac3d2cfa45b5ce1947a7a9" serial="RELSAB"/>
+	</game>
+	<game name="Killer7 (Europe) (Disc 2) (Beta)" id="0053" cloneofid="0052">
+		<description>Killer7 (Europe) (Disc 2) (Beta)</description>
+		<rom name="Killer7 (Europe) (Disc 2) (Beta).iso" size="1459978240" crc="389e399b" md5="69793e8688b781f6ae0b86b96293cf68" sha1="73e7035acb5d9bc64b7c37d54829837ae62d1db3" sha256="29b99463507093389d62db9868f82201bb49c9e9d43f5d801c4e02c763ad9534" serial="GK7E08"/>
+	</game>
+	<game name="Killer7 (Europe) (Disc 1) (Beta)" id="0052">
+		<description>Killer7 (Europe) (Disc 1) (Beta)</description>
+		<rom name="Killer7 (Europe) (Disc 1) (Beta).iso" size="1459978240" crc="af55eef2" md5="af3fb27be289dbfbefd18ee917384e45" sha1="357bc4a71c7a494dc601f4eb245d4e1a5b9a2631" sha256="eb1b7a45766ca685c6c7381105163824b10f15d878699913c5b6976adac6b252" serial="GK7E08"/>
+	</game>
+	<game name="Killer7 (Europe) (Disc 2) (Beta) (2005-05-11)" id="0051" cloneofid="0050">
+		<description>Killer7 (Europe) (Disc 2) (Beta) (2005-05-11)</description>
+		<rom name="Killer7 (Europe) (Disc 2) (Beta) (2005-05-11).iso" size="1459978240" crc="112d7e2f" md5="9d2b347b7d0c12d71dc55ae6676efb6a" sha1="21e80bcbe7e3921ea965304cb30b743b7328843a" sha256="34b876ab39d3b9a3a8363f885ba092283b6e6b7cf51ff508b415103028e19a71" serial="GK7P08"/>
+	</game>
+	<game name="Killer7 (Europe) (Disc 1) (Beta) (2005-05-11)" id="0050">
+		<description>Killer7 (Europe) (Disc 1) (Beta) (2005-05-11)</description>
+		<rom name="Killer7 (Europe) (Disc 1) (Beta) (2005-05-11).iso" size="1459978240" crc="75ea229a" md5="f24e4954df26ffd0ae0cf9234b00fdf0" sha1="9a8d2f01aec68eb2bc94ede4fd93f04d5c99fd05" sha256="74497d7cabd356b7bba2d5112e928d039316377110d3ef24a8bf437a5c64a465" serial="GK7P08"/>
+	</game>
+	<game name="Killer7 (Japan) (Disc 2) (Beta) (2005-06-03)" id="0049" cloneofid="0048">
+		<description>Killer7 (Japan) (Disc 2) (Beta) (2005-06-03)</description>
+		<rom name="Killer7 (Japan) (Disc 2) (Beta) (2005-06-03).iso" size="1459978240" crc="c6ed714d" md5="c5630de280f0796d94574eb1efd80ec5" sha1="c8f93739e3446210b7916ba2e40405ae600dc7d4" sha256="9e32c5723f17937f2e0901f36f4d2f1fe4440cc6adc158dfe841a114e3e546de" serial="GK7J08"/>
+	</game>
+	<game name="Killer7 (Japan) (Disc 1) (Beta) (2005-06-03)" id="0048">
+		<description>Killer7 (Japan) (Disc 1) (Beta) (2005-06-03)</description>
+		<rom name="Killer7 (Japan) (Disc 1) (Beta) (2005-06-03).iso" size="1459978240" crc="949da393" md5="6a032b7c16b1d1a52aa30d1a858ea11b" sha1="490fbfe917239776ee079ab022b38ba21f41c894" sha256="8974e0729f80fc35c1afa5c12368ff9263a74f531b0665a974a3cd309a9c737b" serial="GK7J08"/>
+	</game>
+	<game name="Major League Baseball 2K6 (USA) (Beta) (2006-05-18)" id="0012">
+		<description>Major League Baseball 2K6 (USA) (Beta) (2006-05-18)</description>
+		<rom name="Major League Baseball 2K6 (USA) (Beta) (2006-05-18).iso" size="1459978240" crc="2e97a802" md5="707168f95134d4847278472b84c7657b" sha1="d18ee85aeb558bb7d357bd0fc2a6c6a4bda2467c" serial="G62ET2"/>
+	</game>
+	<game name="Mega Man X - Command Mission (USA) (Beta)" id="0038">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mega Man X - Command Mission (USA) (Beta)</description>
+		<rom name="Mega Man X - Command Mission (USA) (Beta).iso" size="1459978240" crc="7b88690e" md5="801aeb70186915ac0a53494006ff74f8" sha1="24d72340954cd62e142a6d11a6582fc5f40ba994" sha256="de74aab25978ee3523e7de522d9da9e7f65690eb161094163d342c423d55d25c" serial="GXRE08"/>
+	</game>
+	<game name="Metal Gear Solid - The Twin Snakes (USA) (Disc 2) (Beta)" id="0014">
+		<description>Metal Gear Solid - The Twin Snakes (USA) (Disc 2) (Beta)</description>
+		<rom name="Metal Gear Solid - The Twin Snakes (USA) (Disc 2) (Beta).iso" size="1459978240" crc="85409e81" md5="ac1181d6223c1b82596b41ddac9e40e7" sha1="523b0e82b84c91946da05a48841914df6729e747" serial="GGSEA4"/>
+	</game>
+	<game name="Metal Gear Solid - The Twin Snakes (USA) (Disc 1) (Beta)" id="0013">
+		<description>Metal Gear Solid - The Twin Snakes (USA) (Disc 1) (Beta)</description>
+		<rom name="Metal Gear Solid - The Twin Snakes (USA) (Disc 1) (Beta).iso" size="1459978240" crc="d1b33770" md5="df40a79fc8a3a98511de6e8cf38f25b2" sha1="194b887bf202a08f7392a5d0c0538d96b1b91b8b" serial="GGSEA4"/>
+	</game>
+	<game name="NDDEMO (Unknown) (Tech Demo)" id="0005">
+		<description>NDDEMO (Unknown) (Tech Demo)</description>
+		<rom name="NDDEMO (Unknown) (Tech Demo).iso" size="1459978240" crc="bf114cb3" md5="7c7b4c1317b5824ade2fcdc5b20eb1c3" sha1="386647dc9828e11e7bc18cc677239281c5376a9d" sha256="1329731ce130202941d55a161f4c5d32ffd5a8a141e34bd76eb8cb6c71529ad6" serial="00 E01"/>
+	</game>
+	<game name="Need for Speed - Underground (Europe) (Beta) (2003-09-10)" id="0016">
+		<description>Need for Speed - Underground (Europe) (Beta) (2003-09-10)</description>
+		<rom name="Need for Speed - Underground (Europe) (Beta) (2003-09-10).iso" size="1459978240" crc="81525825" md5="92300453ffca62c0a72586306e236d2b" sha1="df5bd053333e732d38f74b28276636bb0f2ffa44" serial="GNDP8P"/>
+	</game>
+	<game name="Need for Speed - Underground (Europe) (PZHP) [b]" id="0057">
+		<category>Games</category>
+		<description>Need for Speed - Underground (Europe) (PZHP) [b]</description>
+		<rom name="Need for Speed - Underground (Europe) (PZHP) [b].iso" size="1459978240" crc="3873b78f" md5="bb87941bef76e658dff90d98b6a1e6a2" sha1="798c8e855cdf883ca2f00558e18439155fb08815" sha256="c81a783818dff80a0c7acae42fcaf21756612fc228b4694bc1c365ff6fb66253" status="baddump" serial="PZHP69"/>
+	</game>
+	<game name="P.N.03 (USA) (Beta) (2003-05-08)" id="0017">
+		<description>P.N.03 (USA) (Beta) (2003-05-08)</description>
+		<rom name="P.N.03 (USA) (Beta) (2003-05-08).iso" size="1459978240" crc="d42d1079" md5="db71f796f73edfe35c3594fecb0da127" sha1="29fdb400f409cdf8dbd74eb136e3d13fcb3a506b" serial="GPNE08"/>
+	</game>
+	<game name="Pokemon Distributing Machine (USA) (v2.0.1) [b]" id="0075">
+		<category>Applications</category>
+		<description>Pokemon Distributing Machine (USA) (v2.0.1) [b]</description>
+		<rom name="Pokemon Distributing Machine (USA) (v2.0.1) [b].iso" size="89082112" crc="56742ba5" md5="be8fad613e66889bba049646050aeb95" sha1="25c07cff86cadcf2ef66cb357521e9e9a8b2c36a" status="baddump" serial="D58J01"/>
+	</game>
+	<game name="Pokemon Distributing Machine (USA) (v1.0.1) [b]" id="0074">
+		<category>Applications</category>
+		<description>Pokemon Distributing Machine (USA) (v1.0.1) [b]</description>
+		<rom name="Pokemon Distributing Machine (USA) (v1.0.1) [b].iso" size="80760160" crc="b230e452" md5="597699f7a6f25277dae3046f82340978" sha1="b9be90051601652aaef897847a1d0d851e720179" status="baddump" serial="GAMEA4"/>
+	</game>
+	<game name="Radio Allergy (USA) (Proto) (2007-03-23)" id="0054">
+		<description>Radio Allergy (USA) (Proto) (2007-03-23)</description>
+		<rom name="Radio Allergy (USA) (Proto) (2007-03-23).iso" size="1460305920" crc="c411f2f8" md5="92310ee5b982127300af5cec6c64c070" sha1="eb600fe129501a3e82b711fe835f398dd9223e1b" sha256="17577a3befb59e0fc57cb63eca7bd7b0eaf4e365035ed888f1f615fa17a7f9b1" serial="GLJEGG"/>
+	</game>
+	<game name="Rayman Arena (USA) (En,Fr,Es) (Beta) (2002-03-12)" id="0018">
+		<description>Rayman Arena (USA) (En,Fr,Es) (Beta) (2002-03-12)</description>
+		<rom name="Rayman Arena (USA) (En,Fr,Es) (Beta) (2002-03-12).iso" size="1459978240" crc="bb46463a" md5="826fda52ebafdc2abdaf0e0a48d63ab5" sha1="2b946a7eae2795bbe03af1418535d059ff5eee64" serial="RELSAB"/>
+	</game>
+	<game name="Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 1) (Beta) (2005-01-17)" id="0062">
+		<category>Games</category>
+		<description>Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 1) (Beta) (2005-01-17)</description>
+		<rom name="Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 1) (Beta) (2005-01-17).iso" size="1459978240" crc="31f5d8ad" md5="e555bd361bce9923265e677905ba8651" sha1="0c93d4bcd943eb52f29714d564cde3b619b94eea" sha256="fd26b7527b385f4a70aef8c02d54db75cb6a72dc5cb56b9b64d943e37248992e" serial="G4BP08"/>
+	</game>
+	<game name="Resident Evil 4 (USA) (Disc 1) (Beta) (2004-11-25)" id="0019">
+		<description>Resident Evil 4 (USA) (Disc 1) (Beta) (2004-11-25)</description>
+		<rom name="Resident Evil 4 (USA) (Disc 1) (Beta) (2004-11-25).iso" size="1459978240" crc="f42c8796" md5="055f195c7044aa7c8b8fc47f64d6ac02" sha1="3a0925e6e9d86f7c7533b6fab37f740d63630039" serial="G4BE08"/>
+	</game>
+	<game name="Resident Evil 4 (USA) (Disc 2) (Beta) (2004-11-25)" id="0065">
+		<category>Games</category>
+		<description>Resident Evil 4 (USA) (Disc 2) (Beta) (2004-11-25)</description>
+		<rom name="Resident Evil 4 (USA) (Disc 2) (Beta) (2004-11-25).iso" size="1459978240" crc="fba12c43" md5="6a6f1aa9d0f6137a640a4f8a2fd76186" sha1="fd2d154e30b8602c65e6b1294af3a9d63e4de0c0" sha256="118640eb02953d5a8234d3f9e27ea535e75b0346b9cf22aa764b65c3d76f1b12" serial="G4BE08"/>
+	</game>
+	<game name="Resident Evil 4 (USA) (Disc 1) (Beta) (2004-09-27)" id="0064">
+		<category>Games</category>
+		<description>Resident Evil 4 (USA) (Disc 1) (Beta) (2004-09-27)</description>
+		<rom name="Resident Evil 4 (USA) (Disc 1) (Beta) (2004-09-27).iso" size="1459978240" crc="dcca4674" md5="4dfb0d78225bd860b709ac91a8149537" sha1="b07214fd4ea31a0f4a5b2a763ee3b12ce9b84fde" sha256="8b1556450a897b99fe567e678299924abc60f363c3eacfd52ba735bef7de3a34" serial="P4BJ08"/>
+	</game>
+	<game name="Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 2) (Beta) (2005-01-17)" id="0063">
+		<category>Games</category>
+		<description>Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 2) (Beta) (2005-01-17)</description>
+		<rom name="Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 2) (Beta) (2005-01-17).iso" size="1459978240" crc="69ad405c" md5="c5c7e1e94b8289f7c6ee922577ab3a38" sha1="87ef90323bf8bccf06bc788ee545a079e89c986f" sha256="0af85a2360a6b5d75b871c72f499450781ecd7686de560a0e897553b30aeecb4" serial="G4BP08"/>
+	</game>
+	<game name="Resident Evil 4 (USA) (Beta) (E3 Ver.) (2004-04-13)" id="0058">
+		<category>Games</category>
+		<description>Resident Evil 4 (USA) (Beta) (E3 Ver.) (2004-04-13)</description>
+		<rom name="Resident Evil 4 (USA) (Beta) (E3 Ver.) (2004-04-13).iso" size="1459978240" crc="d752514d" md5="2442a4fe7a4fc262e3984eb25723f9dc" sha1="fe9c287aeed5d3ffe3b7110cd39326bacf2bc198" sha256="2334c5d2baab8660a2b66eb75f9f1cd6f7d7701185986960da15823cdd799df1" serial="GBIJ08"/>
+	</game>
+	<game name="Smashing Drive (USA) (Beta) (2001-11-05)" id="0020">
+		<description>Smashing Drive (USA) (Beta) (2001-11-05)</description>
+		<rom name="Smashing Drive (USA) (Beta) (2001-11-05).iso" size="1459978240" crc="a553bec9" md5="979e4ef79072f73200a8b980d26c4875" sha1="7e90e21d144bf1eafb131b33665e483e833f9bf6" serial="RELSAB"/>
+	</game>
+	<game name="Sonic Adventure 2 - Battle (USA) (Beta)" id="0022">
+		<description>Sonic Adventure 2 - Battle (USA) (Beta)</description>
+		<rom name="Sonic Adventure 2 - Battle (USA) (Beta).iso" size="1459978240" crc="9e1674e2" md5="2afc8f0732f33d24c138fe596a0dc7a7" sha1="fb1e54456a98b995de85a174f81c6675f52487b0" serial="GSNE8P"/>
+	</game>
+	<game name="Sonic Adventure 2 - Battle (Japan) (Beta) (2001-11-29)" id="0021">
+		<description>Sonic Adventure 2 - Battle (Japan) (Beta) (2001-11-29)</description>
+		<rom name="Sonic Adventure 2 - Battle (Japan) (Beta) (2001-11-29).iso" size="1459978240" crc="37188aba" md5="edd1968ec3075efce68eb8409dd73d6c" sha1="cc9c4c896c6e252d8aa791acd9ee82f5441d4463" serial="GSBJ8P"/>
+	</game>
+	<game name="Sonic Adventure DX (Japan) (Beta)" id="0023">
+		<description>Sonic Adventure DX (Japan) (Beta)</description>
+		<rom name="Sonic Adventure DX (Japan) (Beta).iso" size="1459978240" crc="55314c4d" md5="8459bdd0dc20003830481ed00dbae626" sha1="b8fa7d16a87ad40e0b2410b199a664f0249c6afe" serial="RELSAB"/>
+	</game>
+	<game name="Sonic Adventure DX - Director's Cut (USA) (Beta)" id="0024">
+		<description>Sonic Adventure DX - Director's Cut (USA) (Beta)</description>
+		<rom name="Sonic Adventure DX - Director's Cut (USA) (Beta).iso" size="1459978240" crc="dd918ad1" md5="169f373fa74d5a3c0329c405a0c4faae" sha1="7f46e13e4ac513485f116e7db7bc1a9f8f89da53" serial="GASE8P"/>
+	</game>
+	<game name="Sonic Heroes (USA) (Beta) (2003-10-08)" id="0025">
+		<description>Sonic Heroes (USA) (Beta) (2003-10-08)</description>
+		<rom name="Sonic Heroes (USA) (Beta) (2003-10-08).iso" size="1459978240" crc="9570b84d" md5="4f55e21beb2a25db24c827a056c84139" sha1="c6892effec697920cd68d034b47321f1821c9b23" serial="G9SE8P"/>
+	</game>
+	<game name="Sonic Heroes (USA) (Beta) (2003-11-18)" id="0026">
+		<description>Sonic Heroes (USA) (Beta) (2003-11-18)</description>
+		<rom name="Sonic Heroes (USA) (Beta) (2003-11-18).iso" size="1459978240" crc="82d09071" md5="dce6283ecb5197762da0badd6fdc2fb4" sha1="52567253ea9773fb2c0e127a39f65b4d5ab192e3" serial="G9SE8P"/>
+	</game>
+	<game name="Sonic Heroes (USA) (Beta) (E3)" id="0028">
+		<description>Sonic Heroes (USA) (Beta) (E3)</description>
+		<rom name="Sonic Heroes (USA) (Beta) (E3).iso" size="1459978240" crc="141d0a04" md5="6f47a1f910139e173822541b12fa58c6" sha1="2674576afb57b265967d6558630e4cb1ff8292d2" serial="RELSAB"/>
+	</game>
+	<game name="Sonic Mega Collection (USA) (Beta) (2005-08-15)" id="0030">
+		<description>Sonic Mega Collection (USA) (Beta) (2005-08-15)</description>
+		<rom name="Sonic Mega Collection (USA) (Beta) (2005-08-15).iso" size="1459978240" crc="c90a1327" md5="43189d9775654254951e5f75cfaa2c40" sha1="05753b27506560ca070c87a88a4f54b79cd4aeaa" serial="GSOE8P"/>
+	</game>
+	<game name="Super Mario Sunshine (World) (En,Ja,Fr,De,Es,It) (Super Mario 3D All-Stars)" id="0037">
+		<description>Super Mario Sunshine (World) (En,Ja,Fr,De,Es,It) (Super Mario 3D All-Stars)</description>
+		<rom name="Super Mario Sunshine (World) (En,Ja,Fr,De,Es,It) (Super Mario 3D All-Stars).iso" size="404324352" crc="f968261a" md5="1bb45c2ffb0360d3d8d8eb87c6771a2f" sha1="651af1295d6874102b276a264b0da37ab38303f7" sha256="c79005cd08ecd4b537a86993a1d39bfc7d89f30bedcc4115feded81a8e8c1576" status="verified" serial="GMSP01"/>
+	</game>
+	<game name="WWE Day of Reckoning 2 (Europe) (Beta)" id="0055">
+		<description>WWE Day of Reckoning 2 (Europe) (Beta)</description>
+		<rom name="WWE Day of Reckoning 2 (Europe) (Beta).iso" size="1459978240" crc="4e7543ec" md5="824208bb158d6bc814f40a5ad6a9beb2" sha1="ea4994e0c28b40e2eff13f1e348f2732fd4fcd95" sha256="b39d88430b3c85b7e83e0bf4e37eef7297f83f70d6d7ff1db3cd046d8b1b3a5a" serial="GWPP78"/>
+	</game>
+	<game name="XGIII - Extreme G Racing (Europe) (Beta) (2002-02-19) [b]" id="0056">
+		<description>XGIII - Extreme G Racing (Europe) (Beta) (2002-02-19) [b]</description>
+		<rom name="XGIII - Extreme G Racing (Europe) (Beta) (2002-02-19) [b].iso" size="648282112" crc="395187d3" md5="1773392ef7bacfe5dc6b1b7bbc464a79" sha1="6d468f79b26c885594ddba19fd416e8a4a2750cf" sha256="467211b5a9d6c0102c468cfc58afcd9473eed36e21f64c397b68b364555ca733" status="baddump" serial="G3EP51"/>
+	</game>
+	<game name="Zapper (USA) (Beta) (2002-09-12)" id="0033">
+		<description>Zapper (USA) (Beta) (2002-09-12)</description>
+		<rom name="Zapper (USA) (Beta) (2002-09-12).iso" size="1459978240" crc="bc256fcd" md5="1c56b175220a034440af33b9d9fd06b8" sha1="0b1ae97ef9d83917f309564246f244c81eec20c1" serial="GZPE70"/>
+	</game>
+</datafile>

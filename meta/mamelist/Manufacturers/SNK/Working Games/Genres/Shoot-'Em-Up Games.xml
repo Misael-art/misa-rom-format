@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>SNK / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="alpham2" index="" image="">
+	<description>Alpha Mission II / ASO II - Last Guardian (NGM-007 ~ NGH-007)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1991</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aso" index="" image="">
+	<description>ASO - Armored Scrum Object</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bermudat" index="" image="">
+	<description>Bermuda Triangle (World?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="chopper" index="" image="">
+	<description>Chopper I (US Ver 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gpilots" index="" image="">
+	<description>Ghost Pilots (NGM-020 ~ NGH-020)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1991</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gwar" index="" image="">
+	<description>Guerrilla War (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hal21" index="" image="">
+	<description>HAL21</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ikari" index="" image="">
+	<description>Ikari Warriors (US JAMMA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ikari3" index="" image="">
+	<description>Ikari III - The Rescue (World version 1, 8-Way Joystick)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lasso" index="" image="">
+	<description>Lasso</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lresort" index="" image="">
+	<description>Last Resort</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1992</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="madcrash" index="" image="">
+	<description>Mad Crasher</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ozmawars" index="" image="">
+	<description>Ozma Wars (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pballoon" index="" image="">
+	<description>Pioneer Balloon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="prehisle" index="" image="">
+	<description>Prehistoric Isle in 1930 (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="satansat" index="" image="">
+	<description>Satan of Saturn (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="searchar" index="" image="">
+	<description>SAR - Search And Rescue (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skysoldr" index="" image="">
+	<description>Sky Soldiers (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Alpha Denshi Co. (SNK of America/Romstar license)</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timesold" index="" image="">
+	<description>Time Soldiers (US Rev 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Alpha Denshi Co. (SNK/Romstar license)</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tnextspc" index="" image="">
+	<description>The Next Space (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tnk3" index="" image="">
+	<description>T.N.K III (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="twinspri" index="" image="">
+	<description>Twinkle Star Sprites</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>ADK / SNK</manufacturer>
+	<year>1996</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vangrd2" index="" image="">
+	<description>Vanguard II</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vanguard" index="" image="">
+	<description>Vanguard (SNK)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="victroad" index="" image="">
+	<description>Victory Road</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="worldwar" index="" image="">
+	<description>World Wars (World?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

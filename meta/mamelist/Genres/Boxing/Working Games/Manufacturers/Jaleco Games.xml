@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Boxing / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="bbbxing" index="" image="">
+	<description>Best Bout Boxing (ver 1.3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1994</year>
+	<genre>Boxing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

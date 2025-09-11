@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>2P alt / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="bankp" index="" image="">
+	<description>Bank Panic</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sanritsu / Sega</manufacturer>
+	<year>1984</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="battlnts" index="" image="">
+	<description>Battlantis (program code G)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="combh" index="" image="">
+	<description>Combat Hawk</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sanritsu / Sega</manufacturer>
+	<year>1987</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ctornado" index="" image="">
+	<description>Tornado (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1982</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="deadang" index="" image="">
+	<description>Dead Angle</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1988</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="empcity" index="" image="">
+	<description>Empire City: 1931 (bootleg?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1986</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="indianbt" index="" image="">
+	<description>Indian Battle</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1980</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pooyan" index="" image="">
+	<description>Pooyan</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1982</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sasuke" index="" image="">
+	<description>Sasuke vs. Commander</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1980</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="shootout" index="" image="">
+	<description>Shoot Out (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East USA</manufacturer>
+	<year>1985</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tinstar" index="" image="">
+	<description>The Tin Star (A10, 4 PCB version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1983</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wantsega" index="" image="">
+	<description>Wanted (Sega)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

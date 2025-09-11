@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Seibu Kaihatsu / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="dbldynj" index="" image="">
+	<description>The Double Dynamites (Japan, 13NOV89)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1989</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="deadang" index="" image="">
+	<description>Dead Angle</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1988</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dynduke" index="" image="">
+	<description>Dynamite Duke (Europe, 03SEP89)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1989</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="empcity" index="" image="">
+	<description>Empire City: 1931 (bootleg?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1986</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

@@ -1,0 +1,20 @@
+emulators,link,type,file,folder,exe,version
+RetroFe,http://retrofe.nl/Download/Release/RetroFE_full_0.10.31.zip,FrontEnd,RetroFe.7z,RetroFe,retroarch.exe,0.10.31
+RetroArch,https://buildbot.libretro.com/nightly/windows/x86_64/RetroArch.7z,emulators,RetroArch-Win64.7z,RetroArch-Win64,null,last
+RetroArch,https://buildbot.libretro.com/nightly/windows/x86_64/RetroArch_cores.7z,complement,RetroArch_cores.7z,RetroArch-Win64,null,last
+RetroArch,https://buildbot.libretro.com/nightly/windows/x86_64/RetroArch_update.7z,update,RetroArch_update.7z,RetroArch-Win64,null,last
+RetroArch,https://github.com/Abdess/retroarch_system/releases/download/v20220308/RetroArch_v1.10.1.zip,complement,RetroArch_v1.10.1.zip,No_folder,null,v1.10.1
+Nintendo Switch,https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1252/yuzu-windows-msvc-20221126-37873d2d6.7z,emulators,yuzu-windows-msvc-20221126-37873d2d6.7z,yuzu-windows-msvc,yuzu.exe,20221126-37873d2d6
+Nintendo Switch (Ryujinx),https://github.com/Ryujinx/release-channel-master/releases/download/1.1.390/ryujinx-1.1.390-win_x64.zip,emulators,ryujinx-1.1.390-win_x64.zip,publish,ryujinx.exe,1.1.390
+Nintendo Switch,https://mega.nz/file/8JwUQK6R#CpNCgmtQrjpNgem6Omo51qDEYw7MhrNF7jcZSNmprRo,complement, Firmware 15.0.1 .zip,No_folder,null,15.0.1
+Sony Playstation 2,https://github.com/PCSX2/pcsx2/releases/download/v1.6.0/pcsx2-1.6.0-binaries.7z,emulators,pcsx2-1.6.0-binaries.7z,PCSX2 1.6.0,pcsx2.exe,1.6.0
+Sony Playstation 2 (AVX2-Qt),https://github.com/PCSX2/pcsx2/releases/download/v1.7.3646/pcsx2-v1.7.3646-windows-64bit-AVX2-Qt.7z,emulators,pcsx2-v1.7.3646-windows-64bit-AVX2-Qt.7z,No_folder,pcsx2-qtx64-avx2.exe,v1.7.3646
+Sony Playstation 2 (QTX64),https://github.com/PCSX2/pcsx2/releases/download/v1.7.3646/pcsx2-v1.7.3646-windows-64bit-SSE4-Qt.7z,emulators,pcsx2-v1.7.3646-windows-64bit-SSE4-Qt.7z,No_folder,pcsx2-qtx64.exe,v1.7.3646
+Nintendo Wii,https://dl.dolphin-emu.org/builds/25/5f/dolphin-master-5.0-17269-x64.7z,emulators,dolphin-master-5.0-17269-x64.7z,Dolphin-x64,Dolphin.exe,5.0-17269
+Microsoft Xbox 360,https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip,emulators,xenia_master.zip,No_folder,xenia.exe,v1.0.2775
+Microsoft Xbox (Xemu),https://github.com/mborgerson/xemu/releases/download/v0.7.71/xemu-win-release.zip,emulators,xemu-win-release.zip,No_folder,xemu.exe,v0.7.71
+Nintendo 3DS,https://github.com/citra-emu/citra-nightly/releases/download/nightly-1816/citra-windows-msvc-20221124-d117132.7z,emulators,citra-windows-msvc-20221124-d117132.7z,nightly-mingw,citra.exe,20221124-d117132
+Nintendo 3DS (Canary ),https://github.com/citra-emu/citra-canary/releases/download/canary-2324/citra-windows-msvc-20221121-e608d0f.7z,emulators,citra-windows-msvc-20221121-e608d0f.7z,head,citra.exe,20221121-e608d0f
+Sony PlayStation Portable,http://www.ppsspp.org/files/1_13_2/ppsspp_win.zip,emulators,ppsspp_win.zip,No_folder,ppsspp.exe,v1.13.2
+Scraper,https://github.com/sselph/scraper/releases/download/v1.4.6/scraper_windows_amd64.zip,tools,scraper_windows_amd64.zip,No_folder,scraper.exe,v1.4.6
+RocketLauncher,https://mega.nz/file/yBsCwKRZ#dG7u1kly3H81pJuwgOK54mkJF1cPEQEJT9T3XIGKXI8,tools,RocketLauncher.zip,No_folder,RocketLauncher.exe,v1.0

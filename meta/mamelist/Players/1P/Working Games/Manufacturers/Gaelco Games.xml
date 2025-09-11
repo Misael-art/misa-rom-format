@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>1P / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="biomtoy" index="" image="">
+	<description>Biomechanical Toy (ver. 1.0.1885, checksum 69f5e032)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco / Zeus</manufacturer>
+	<year>1995</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lastkm" index="" image="">
+	<description>Last KM (ver 1.0.0275, checksum 13bff751, prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco / Zeus</manufacturer>
+	<year>1995</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="radikalb" index="" image="">
+	<description>Radikal Bikers (Version 2.02)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco</manufacturer>
+	<year>1998</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sltpstep" index="" image="">
+	<description>Pro Stepper Tele Cardioline (Salter Fitness Stepper V.1.0, Checksum F208)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Salter Fitness / Gaelco</manufacturer>
+	<year>1997</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="speedup" index="" image="">
+	<description>Speed Up (Version 2.20)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco</manufacturer>
+	<year>1996</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="surfplnt" index="" image="">
+	<description>Surf Planet (Version 4.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco (Atari license)</manufacturer>
+	<year>1997</year>
+	<genre>Skiing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

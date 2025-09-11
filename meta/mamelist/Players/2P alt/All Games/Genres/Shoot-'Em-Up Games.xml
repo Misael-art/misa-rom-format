@@ -1,0 +1,2589 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>2P alt / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="005" index="" image="">
+	<description>005</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="1942" index="" image="">
+	<description>1942 (Revision B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="4dwarrio" index="" image="">
+	<description>4-D Warriors (315-5162)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Coreland / Sega</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="afighter" index="" image="">
+	<description>Action Fighter (FD1089A 317-0018)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ajax" index="" image="">
+	<description>Ajax</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="akkaarrh" index="" image="">
+	<description>Akka Arrh (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="alcon" index="" image="">
+	<description>Alcon (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Toaplan / Taito America Corp.</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aliensec" index="" image="">
+	<description>Alien Sector</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="amazon" index="" image="">
+	<description>Soldier Girl Amazon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="argus" index="" image="">
+	<description>Argus</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>NMK (Jaleco license)</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="armedf" index="" image="">
+	<description>Armed F (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aso" index="" image="">
+	<description>ASO - Armored Scrum Object</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="astdelux" index="" image="">
+	<description>Asteroids Deluxe (rev 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="asteroid" index="" image="">
+	<description>Asteroids (rev 4)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="astrob" index="" image="">
+	<description>Astro Blaster (version 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="astrof" index="" image="">
+	<description>Astro Fighter (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aurail" index="" image="">
+	<description>Aurail (set 3, US) (unprotected)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega / Westone</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bakutotu" index="" image="">
+	<description>Bakutotsu Kijuutei</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ballbomb" index="" image="">
+	<description>Balloon Bomber</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="battlane" index="" image="">
+	<description>Battle Lane! Vol. 5 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Technos Japan (Taito license)</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="battroad" index="" image="">
+	<description>The Battle-Road</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bchopper" index="" image="">
+	<description>Battle Chopper (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bioatack" index="" image="">
+	<description>Bio Attack</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation (Fox Video Games license)</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="blastoff" index="" image="">
+	<description>Blast Off (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="blazer" index="" image="">
+	<description>Blazer (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bnglngby" index="" image="">
+	<description>Vs. Raid on Bungeling Bay (RD4-2 B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo / Broderbund Software Inc.</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bombsa" index="" image="">
+	<description>Bombs Away (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="boomrang" index="" image="">
+	<description>Boomer Rang&apos;r / Genesis (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bosco" index="" image="">
+	<description>Bosconian - Star Destroyer (version 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="brain" index="" image="">
+	<description>Brain</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Coreland / Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="brdrline" index="" image="">
+	<description>Borderline</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="brkthru" index="" image="">
+	<description>Break Thru (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East USA</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="burnforc" index="" image="">
+	<description>Burning Force (Japan, new version (Rev C))</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bwidow" index="" image="">
+	<description>Black Widow</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bwings" index="" image="">
+	<description>B-Wings (Japan new Ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bygone" index="" image="">
+	<description>Bygone (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="carnival" index="" image="">
+	<description>Carnival (upright, AY8912 music)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="castfant" index="" image="">
+	<description>Astro Fantasia (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cexplore" index="" image="">
+	<description>Explorer (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cfboy0a1" index="" image="">
+	<description>Flash Boy (vertical) (DECO Cassette MD) (No.12/Ver.0/Set.1,Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="choplift" index="" image="">
+	<description>Choplifter (8751 315-5151)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega (licensed from Dan Gorlin)</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="chopper" index="" image="">
+	<description>Chopper I (US Ver 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="chukatai" index="" image="">
+	<description>Chuka Taisen (World) (P0-028-A PCB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="chwy" index="" image="">
+	<description>Highway Chase (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="citybomb" index="" image="">
+	<description>City Bomber (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cloak" index="" image="">
+	<description>Cloak &amp; Dagger (rev 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cloud9" index="" image="">
+	<description>Cloud 9 (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cmissnx" index="" image="">
+	<description>Mission-X (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cnightst" index="" image="">
+	<description>Night Star (DECO Cassette) (US) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cobracom" index="" image="">
+	<description>Cobra-Command (World/US revision 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="colony7" index="" image="">
+	<description>Colony 7 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="commando" index="" image="">
+	<description>Commando (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="commsega" index="" image="">
+	<description>Commando (Sega)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cosmccop" index="" image="">
+	<description>Cosmic Cop (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1991</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cotton" index="" image="">
+	<description>Cotton (set 4, World) (FD1094 317-0181a)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Success / Sega</manufacturer>
+	<year>1991</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="crater" index="" image="">
+	<description>Crater Raider</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="csuperas" index="" image="">
+	<description>Super Astro Fighter (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cterrani" index="" image="">
+	<description>Terranean (DECO Cassette) (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dacholer" index="" image="">
+	<description>Dacholer</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="daikaiju" index="" image="">
+	<description>Daikaiju no Gyakushu</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dangar" index="" image="">
+	<description>Ufo Robo Dangar (4/09/1987)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dangseed" index="" image="">
+	<description>Dangerous Seed (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="darwin" index="" image="">
+	<description>Darwin 4078 (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dbreed" index="" image="">
+	<description>Dragon Breed (World, M81 hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddayjlc" index="" image="">
+	<description>D-Day (Jaleco set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="defender" index="" image="">
+	<description>Defender (Red label)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="demndrgn" index="" image="">
+	<description>Demons &amp; Dragons (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Dave Nutting Associates / Bally Midway</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="demoneye" index="" image="">
+	<description>Demoneye-X</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="divebomb" index="" image="">
+	<description>Kyuukoukabakugekitai - Dive Bomber Squad (Japan, prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="drtoppel" index="" image="">
+	<description>Dr. Toppel&apos;s Adventure (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Kaneko / Taito Corporation Japan</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dspirit" index="" image="">
+	<description>Dragon Spirit (new version (DS3))</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="exerion" index="" image="">
+	<description>Exerion</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="exzisus" index="" image="">
+	<description>Exzisus (Japan, dedicated)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fantastc" index="" image="">
+	<description>Fantastic (Galaga conversion on Galaxian hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito do Brasil</manufacturer>
+	<year>198?</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fantzn2x" index="" image="">
+	<description>Fantasy Zone II - The Tears of Opa-Opa (System 16C version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega / M2</manufacturer>
+	<year>2008</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fantzone" index="" image="">
+	<description>Fantasy Zone (Rev A, unprotected)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fcombat" index="" image="">
+	<description>Field Combat</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fhawk" index="" image="">
+	<description>Fighting Hawk (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="finalizr" index="" image="">
+	<description>Finalizer - Super Transformation (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="firebatl" index="" image="">
+	<description>Fire Battle</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Woodplace Inc. (Taito license)</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="formatz" index="" image="">
+	<description>Formation Z</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="frontlin" index="" image="">
+	<description>Front Line (AA1, 4 PCB version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fshark" index="" image="">
+	<description>Flying Shark (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Toaplan / Taito Corporation</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fspiderb" index="" image="">
+	<description>Frog &amp; Spiders (bootleg?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="futspy" index="" image="">
+	<description>Future Spy (315-5061)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galactic" index="" image="">
+	<description>Galactica - Batalha Espacial</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito do Brasil</manufacturer>
+	<year>1980?</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galaga" index="" image="">
+	<description>Galaga (Namco rev. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galaga88" index="" image="">
+	<description>Galaga &apos;88</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galaxian" index="" image="">
+	<description>Galaxian (Namco set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gaplus" index="" image="">
+	<description>Gaplus (GP2 rev. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gardia" index="" image="">
+	<description>Gardia (317-0006)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Coreland / Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gorf" index="" image="">
+	<description>Gorf</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Dave Nutting Associates / Midway</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gradius3" index="" image="">
+	<description>Gradius III (World, program code R)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gradius4" index="" image="">
+	<description>Gradius IV: Fukkatsu (ver JAC)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gradiusb" index="" image="">
+	<description>Gradius (Bubble System)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gravitar" index="" image="">
+	<description>Gravitar (version 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="grobda" index="" image="">
+	<description>Grobda (New Ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gunsmoke" index="" image="">
+	<description>Gun.Smoke (World, 851115)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="halleysc" index="" image="">
+	<description>Halley&apos;s Comet (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito America Corporation (Coin-It license)</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="helifire" index="" image="">
+	<description>HeliFire (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="highsplt" index="" image="">
+	<description>SF-HiSplitter (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="horizon" index="" image="">
+	<description>Horizon (Irem)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hvymetal" index="" image="">
+	<description>Heavy Metal (315-5135)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hvyunit" index="" image="">
+	<description>Heavy Unit (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Kaneko / Taito</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="imgfight" index="" image="">
+	<description>Image Fight (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="insectx" index="" image="">
+	<description>Insector X (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invaders" index="" image="">
+	<description>Space Invaders / Space Invaders M</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito / Midway</manufacturer>
+	<year>1978</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invadpt2" index="" image="">
+	<description>Space Invaders Part II (Taito, bigger ROMs)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invinco" index="" image="">
+	<description>Invinco</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="irobot" index="" image="">
+	<description>I, Robot</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ixion" index="" image="">
+	<description>Ixion (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="jungler" index="" image="">
+	<description>Jungler</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="junofrst" index="" image="">
+	<description>Juno First</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kickboy" index="" image="">
+	<description>Kick Boy</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kikikai" index="" image="">
+	<description>KiKi KaiKai</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kingball" index="" image="">
+	<description>King &amp; Balloon (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kroozr" index="" image="">
+	<description>Kozmik Kroozr</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lasso" index="" image="">
+	<description>Lasso</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lastmisn" index="" image="">
+	<description>Last Mission (World revision 8)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="liberate" index="" image="">
+	<description>Liberation</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="liberatr" index="" image="">
+	<description>Liberator (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lrescue" index="" image="">
+	<description>Lunar Rescue</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lsasquad" index="" image="">
+	<description>Land Sea Air Squad / Riku Kai Kuu Saizensen</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="m660" index="" image="">
+	<description>Mission 660 (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Wood Place Co. Ltd. (Taito America Corporation license)</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="madalien" index="" image="">
+	<description>Mad Alien (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="madcrash" index="" image="">
+	<description>Mad Crasher</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="magmax" index="" image="">
+	<description>Mag Max (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="masterw" index="" image="">
+	<description>Master of Weapon (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="megazone" index="" image="">
+	<description>Mega Zone (program code L)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="metlfrzr" index="" image="">
+	<description>Metal Freezer (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mhavoc" index="" image="">
+	<description>Major Havoc (rev 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="milliped" index="" image="">
+	<description>Millipede</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="missile" index="" image="">
+	<description>Missile Command (rev 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mmaze" index="" image="">
+	<description>Marchen Maze (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="moonal2" index="" image="">
+	<description>Moon Alien Part 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Nichibutsu</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mooncrst" index="" image="">
+	<description>Moon Cresta (Nichibutsu)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="moonqsr" index="" image="">
+	<description>Moon Quasar</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mpatrol" index="" image="">
+	<description>Moon Patrol</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mrviking" index="" image="">
+	<description>Mister Viking (315-5041)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mshuttle" index="" image="">
+	<description>Moon Shuttle (US? set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="msisaac" index="" image="">
+	<description>Metal Soldier Isaac II</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mt_fz" index="" image="">
+	<description>Fantasy Zone (Mega-Tech, SMS based)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mx5000" index="" image="">
+	<description>MX5000</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="naughtyb" index="" image="">
+	<description>Naughty Boy</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="navarone" index="" image="">
+	<description>Navarone</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nemesis" index="" image="">
+	<description>Nemesis (ROM version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ninjemak" index="" image="">
+	<description>Ninja Emaki (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nsub" index="" image="">
+	<description>N-Sub (upright)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="omegrace" index="" image="">
+	<description>Omega Race (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ozmawars" index="" image="">
+	<description>Ozma Wars (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="parodius" index="" image="">
+	<description>Parodius DA! (World, set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pballoon" index="" image="">
+	<description>Pioneer Balloon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pc_1942" index="" image="">
+	<description>1942 (PlayChoice-10)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pc_grdus" index="" image="">
+	<description>Gradius (PlayChoice-10)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="perfrman" index="" image="">
+	<description>Performan (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Toaplan / Data East Corporation</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="phelios" index="" image="">
+	<description>Phelios</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pistoldm" index="" image="">
+	<description>Pistol Daimyo no Bouken (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="plusalph" index="" image="">
+	<description>Plus Alpha</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="polaris" index="" image="">
+	<description>Polaris (latest version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="popflame" index="" image="">
+	<description>Pop Flamer (protected)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pulsar" index="" image="">
+	<description>Pulsar</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="radarscp" index="" image="">
+	<description>Radar Scope (TRS02, rev. D)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="radrad" index="" image="">
+	<description>Radical Radial (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu USA</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="raflesia" index="" image="">
+	<description>Rafflesia (315-5162)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Coreland / Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="redalert" index="" image="">
+	<description>Red Alert</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem (GDI license)</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="redclash" index="" image="">
+	<description>Red Clash</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Kaneko</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="regulus" index="" image="">
+	<description>Regulus (315-5033, Rev A.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="repulse" index="" image="">
+	<description>Repulse</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Crux / Sega</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rescraid" index="" image="">
+	<description>Rescue Raider (5/11/87) (non-cartridge)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="retofinv" index="" image="">
+	<description>Return of the Invaders</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="robotron" index="" image="">
+	<description>Robotron: 2084 (Solid Blue label)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rtype" index="" image="">
+	<description>R-Type (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rtype2" index="" image="">
+	<description>R-Type II (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="satansat" index="" image="">
+	<description>Satan of Saturn (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="saturnzi" index="" image="">
+	<description>Saturn</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Zilec Electronics / Jaleco</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="scobra" index="" image="">
+	<description>Super Cobra</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="scramble" index="" image="">
+	<description>Scramble</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="scyclone" index="" image="">
+	<description>Space Cyclone</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sdungeon" index="" image="">
+	<description>Space Dungeon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sectionz" index="" image="">
+	<description>Section Z (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="seganinj" index="" image="">
+	<description>Sega Ninja (315-5102)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="seicross" index="" image="">
+	<description>Seicross (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu / Alice</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sfposeid" index="" image="">
+	<description>Sea Fighter Poseidon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sfx" index="" image="">
+	<description>SF-X</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nihon Game (Nichibutsu license)</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sheriff" index="" image="">
+	<description>Sheriff</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="shollow" index="" image="">
+	<description>Satan&apos;s Hollow (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sianniv" index="" image="">
+	<description>Space Invaders Anniversary (V2.02J)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito</manufacturer>
+	<year>2003</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sinistar" index="" image="">
+	<description>Sinistar (revision 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skychut" index="" image="">
+	<description>Sky Chuter</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skydest" index="" image="">
+	<description>Sky Destroyer (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skyfox" index="" image="">
+	<description>Sky Fox</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco (Nichibutsu USA license)</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skyrobo" index="" image="">
+	<description>Sky Robo</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="skyskipr" index="" image="">
+	<description>Sky Skipper</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="solarfox" index="" image="">
+	<description>Solar Fox (upright)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sonicbom" index="" image="">
+	<description>Sonic Boom (FD1094 317-0053)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacbeam" index="" image="">
+	<description>Space Beam</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacecr" index="" image="">
+	<description>Space Cruiser</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacefb" index="" image="">
+	<description>Space Firebird (rev. 04-u)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacefev" index="" image="">
+	<description>Space Fever (new version)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacelnc" index="" image="">
+	<description>Space Launcher</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spaceod" index="" image="">
+	<description>Space Odyssey (version 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacetrk" index="" image="">
+	<description>Space Trek (upright)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacezap" index="" image="">
+	<description>Space Zap</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spacfury" index="" image="">
+	<description>Space Fury (revision C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spcking2" index="" image="">
+	<description>Space King 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spfghmk2" index="" image="">
+	<description>Space Fighter Mark II (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="srdarwin" index="" image="">
+	<description>Super Real Darwin (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="srdmissn" index="" image="">
+	<description>S.R.D. Mission</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Kyugo / Taito Corporation</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="srumbler" index="" image="">
+	<description>The Speed Rumbler (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sspaceat" index="" image="">
+	<description>Space Attack (upright set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="stargate" index="" image="">
+	<description>Stargate</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starjack" index="" image="">
+	<description>Star Jacker (Sega)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="stdragon" index="" image="">
+	<description>Saint Dragon (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="stratgyx" index="" image="">
+	<description>Strategy X</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="swat" index="" image="">
+	<description>SWAT (315-5048)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Coreland / Sega</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="syvalion" index="" image="">
+	<description>Syvalion (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="szaxxon" index="" image="">
+	<description>Super Zaxxon (315-5013)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tacscan" index="" image="">
+	<description>Tac/Scan</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tactcian" index="" image="">
+	<description>Tactician (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami (Sega license)</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tankbatt" index="" image="">
+	<description>Tank Battalion</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tempest" index="" image="">
+	<description>Tempest (rev 3, Revised Hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="terracre" index="" image="">
+	<description>Terra Cresta (YM3526 set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="terraf" index="" image="">
+	<description>Terra Force</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="theend" index="" image="">
+	<description>The End</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tigerh" index="" image="">
+	<description>Tiger-Heli (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Toaplan / Taito America Corp.</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timefgtr" index="" image="">
+	<description>Time Fighter (Time Pilot conversion on Galaxian hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito do Brasil</manufacturer>
+	<year>198?</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timeplt" index="" image="">
+	<description>Time Pilot</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tnk3" index="" image="">
+	<description>T.N.K III (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tokio" index="" image="">
+	<description>Tokio / Scramble Formation (newer)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tokisens" index="" image="">
+	<description>Toki no Senshi - Chrono Soldier (MC-8123, 317-0040)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tomahawk" index="" image="">
+	<description>Tomahawk 777 (rev 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tp84" index="" image="">
+	<description>Time Pilot &apos;84 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tranqgun" index="" image="">
+	<description>Tranquillizer Gun</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="transfrm" index="" image="">
+	<description>Transformer</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tricktrp" index="" image="">
+	<description>Trick Trap (World?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="truxton" index="" image="">
+	<description>Truxton / Tatsujin</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Toaplan / Taito Corporation</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tutankhm" index="" image="">
+	<description>Tutankham</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ufosensi" index="" image="">
+	<description>Ufo Senshi Yohko Chan (MC-8123, 317-0064)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="uniwars" index="" image="">
+	<description>UniWar S</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="valtric" index="" image="">
+	<description>Valtric</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>NMK (Jaleco license)</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vangrd2" index="" image="">
+	<description>Vanguard II</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vanguard" index="" image="">
+	<description>Vanguard (SNK)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vsgradus" index="" image="">
+	<description>Vs. Gradius (US, set GR E)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vulcan" index="" image="">
+	<description>Vulcan Venture (New)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vulgus" index="" image="">
+	<description>Vulgus (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wacko" index="" image="">
+	<description>Wacko</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="warpwarp" index="" image="">
+	<description>Warp &amp; Warp</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wndrplnt" index="" image="">
+	<description>Wonder Planet (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1987</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wwestern" index="" image="">
+	<description>Wild Western (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="xevious" index="" image="">
+	<description>Xevious (Namco)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="xmultipl" index="" image="">
+	<description>X Multiply (World, M81 hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1989</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="yamagchi" index="" image="">
+	<description>Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Kaneko / Taito</manufacturer>
+	<year>1985</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="yamato" index="" image="">
+	<description>Yamato (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1983</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="youjyudn" index="" image="">
+	<description>Youjyuden (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Irem</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zaviga" index="" image="">
+	<description>Zaviga</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zaxxon" index="" image="">
+	<description>Zaxxon (set 1, rev D)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zektor" index="" image="">
+	<description>Zektor (revision B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zoar" index="" image="">
+	<description>Zoar</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East USA</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

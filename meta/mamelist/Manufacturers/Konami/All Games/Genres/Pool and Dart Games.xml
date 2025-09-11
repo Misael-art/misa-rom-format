@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Konami / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="hustler" index="" image="">
+	<description>Video Hustler</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Pool and Dart</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rackemup" index="" image="">
+	<description>Rack &apos;em Up (program code L)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Pool and Dart</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

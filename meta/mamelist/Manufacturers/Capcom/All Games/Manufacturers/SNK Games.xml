@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Capcom / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="capsnk" index="" image="">
+	<description>Capcom Vs. SNK: Millennium Fight 2000 (Rev C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / SNK</manufacturer>
+	<year>2000</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cvs2" index="" image="">
+	<description>Capcom Vs. SNK 2: Mark Of The Millennium 2001 (USA) (GDL-0008)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / SNK</manufacturer>
+	<year>2001</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cvsgd" index="" image="">
+	<description>Capcom Vs. SNK: Millennium Fight 2000 Pro (Japan) (GDL-0004)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / SNK</manufacturer>
+	<year>2001</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

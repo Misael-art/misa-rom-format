@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mahjong / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="goodejan" index="" image="">
+	<description>Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu (Tecmo license)</manufacturer>
+	<year>1991</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="totmejan" index="" image="">
+	<description>Tottemo E Jong</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Seibu Kaihatsu (Tecmo license)</manufacturer>
+	<year>1991</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

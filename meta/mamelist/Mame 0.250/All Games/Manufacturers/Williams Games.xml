@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mame 0.250 / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="afv_l4" index="" image="">
+	<description>Addams Family Values (Coin Dropper L-4)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="blaster" index="" image="">
+	<description>Blaster</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1983</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bubbles" index="" image="">
+	<description>Bubbles</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Maze</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="conquest" index="" image="">
+	<description>Conquest (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="defender" index="" image="">
+	<description>Defender (Red label)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1980</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hiimpact" index="" image="">
+	<description>High Impact Football (rev LA5 02/15/91)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1990</year>
+	<genre>Football</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hitice" index="" image="">
+	<description>Hit the Ice (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation (Williams license)</manufacturer>
+	<year>1990</year>
+	<genre>Hockey</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="inferno" index="" image="">
+	<description>Inferno (Williams)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1984</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="joust" index="" image="">
+	<description>Joust (Green label)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="joust2" index="" image="">
+	<description>Joust 2 - Survival of the Fittest (revision 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1986</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mysticm" index="" image="">
+	<description>Mystic Marathon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1983</year>
+	<genre>Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="narc" index="" image="">
+	<description>Narc (rev 7.00)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1988</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="playball" index="" image="">
+	<description>PlayBall! (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1983</year>
+	<genre>Ball &amp; Paddle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="robotron" index="" image="">
+	<description>Robotron: 2084 (Solid Blue label)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sinistar" index="" image="">
+	<description>Sinistar (revision 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="smashtv" index="" image="">
+	<description>Smash T.V. (rev 8.00)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spdball" index="" image="">
+	<description>Speed Ball - Contest at Neonworld (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1985</year>
+	<genre>Miscellaneous</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="splat" index="" image="">
+	<description>Splat!</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="stargate" index="" image="">
+	<description>Stargate</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams / Vid Kidz</manufacturer>
+	<year>1981</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starridr" index="" image="">
+	<description>Star Rider</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1984</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tshoot" index="" image="">
+	<description>Turkey Shoot (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Williams</manufacturer>
+	<year>1984</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

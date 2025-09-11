@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<menu>
+        <game name="Global - Retro Neo Dark" index="true" image="a">
+                <description>Theme Retro Neo Dark</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>TeamRetro</manufacturer>
+                <year>2020</year>
+                <genre>RetroMods</genre>
+        </game>
+		
+		<game name="Global - Retro Neo White" index="true" image="a">
+                <description>Theme Retro Neo White</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>TeamRetro</manufacturer>
+                <year>2020</year>
+                <genre>RetroMods</genre>
+        </game>
+		<game name="Tate Mode" index="true" image="a">
+                <description>Vertical Arcade</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>TeamRetro</manufacturer>
+                <year>2020</year>
+                <genre>RetroMods</genre>
+        </game>
+</menu>

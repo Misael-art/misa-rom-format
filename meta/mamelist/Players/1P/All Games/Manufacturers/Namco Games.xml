@@ -1,0 +1,809 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>1P / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="acedrive" index="" image="">
+	<description>Ace Driver: Racing Evolution (World, AD2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1994</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="adillor" index="" image="">
+	<description>Armadillo Racing (World, AM2 Ver.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="airco22b" index="" image="">
+	<description>Air Combat 22 (Japan, ACS1 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aircomb" index="" image="">
+	<description>Air Combat (AC2, US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1992</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="alpinerd" index="" image="">
+	<description>Alpine Racer (World, AR2 Ver.D)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1994</year>
+	<genre>Skiing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="alpinr2b" index="" image="">
+	<description>Alpine Racer 2 (World, ARS2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Skiing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aplarail" index="" image="">
+	<description>Attack Pla Rail (Japan, AP1/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Tomy</manufacturer>
+	<year>1998</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="aquajet" index="" image="">
+	<description>Aqua Jet (World, AJ2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="assault" index="" image="">
+	<description>Assault (Rev B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="boxyboy" index="" image="">
+	<description>Boxy Boy (World, SB2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1990</year>
+	<genre>Maze</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cobrata" index="" image="">
+	<description>Cobra: The Arcade (CBR1 Ver. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2005</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="crszone" index="" image="">
+	<description>Crisis Zone (World, CSZO4 Ver. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1999</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cybrcomm" index="" image="">
+	<description>Cyber Commando (Japan, CY1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1994</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cybrcycc" index="" image="">
+	<description>Cyber Cycles (World, CB2 Ver.C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cybsled" index="" image="">
+	<description>Cyber Sled (CY2, World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1993</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="danceyes" index="" image="">
+	<description>Dancing Eyes (World, DC2/VER.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dirtdash" index="" image="">
+	<description>Dirt Dash (World, DT2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dirtfoxj" index="" image="">
+	<description>Dirt Fox (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="downhill" index="" image="">
+	<description>Downhill Bikers (World, DH2 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="finalap2" index="" image="">
+	<description>Final Lap 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1990</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="finalap3" index="" image="">
+	<description>Final Lap 3 (World, Rev C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1992</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="finalapr" index="" image="">
+	<description>Final Lap R (Rev. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1994</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="finallap" index="" image="">
+	<description>Final Lap (Rev E)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1987</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fourtrax" index="" image="">
+	<description>Four Trax (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube" index="" image="">
+	<description>Funcube (v1.5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2000</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube2" index="" image="">
+	<description>Funcube 2 (v1.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube3" index="" image="">
+	<description>Funcube 3 (v1.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube4" index="" image="">
+	<description>Funcube 4 (v1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube5" index="" image="">
+	<description>Funcube 5 (v1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2002</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g13jnc" index="" image="">
+	<description>Golgo 13: Juusei no Chinkonka (Japan, GLT1 VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Eighting / Raizing / Namco</manufacturer>
+	<year>2001</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g13knd" index="" image="">
+	<description>Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Eighting / Raizing / Namco</manufacturer>
+	<year>2000</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="golgo13" index="" image="">
+	<description>Golgo 13 (Japan, GLG1/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Eighting / Raizing / Namco</manufacturer>
+	<year>1999</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kartduel" index="" image="">
+	<description>Kart Duel (Japan, KTD1/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaps / Namco</manufacturer>
+	<year>2000</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kungfur" index="" image="">
+	<description>Kung-Fu Roushi</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1987</year>
+	<genre>Miscellaneous</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="lbgrande" index="" image="">
+	<description>Libero Grande (World, LG2/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mazan" index="" image="">
+	<description>Mazan: Flash of the Blade (World, MAZ2 Ver.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2002</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="metlhawk" index="" image="">
+	<description>Metal Hawk (Rev C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mkartag2" index="" image="">
+	<description>Mario Kart Arcade GP 2 (Japan, MK21 Ver.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Nintendo</manufacturer>
+	<year>2007</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mkartagp" index="" image="">
+	<description>Mario Kart Arcade GP (Japan, MKA1 Ver.A1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Nintendo</manufacturer>
+	<year>2005</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="motogp" index="" image="">
+	<description>Moto GP (MGP1004-NA-B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2007</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="motoxgo" index="" image="">
+	<description>Motocross Go! (US, MG3 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mrdrillr" index="" image="">
+	<description>Mr. Driller (US, DRI3/VER.A2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="paceight" index="" image="">
+	<description>Pac-Eight</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="paclandp" index="" image="">
+	<description>Pac-Land (United Amusements PC Engine)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pacslot" index="" image="">
+	<description>Pac-Slot</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pocketrc" index="" image="">
+	<description>Pocket Racer (Japan, PKR1/VER.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="polepos" index="" image="">
+	<description>Pole Position (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1982</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="polepos2" index="" image="">
+	<description>Pole Position II (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1983</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="propcycl" index="" image="">
+	<description>Prop Cycle (World, PR2 Ver.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Sports</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="raverace" index="" image="">
+	<description>Rave Racer (World, RV2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ridgera2" index="" image="">
+	<description>Ridge Racer 2 (World, RRS2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1994</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ridgerac" index="" image="">
+	<description>Ridge Racer (World, RR2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1993</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rollext" index="" image="">
+	<description>ROLLing eX.tre.me (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Gaelco (Namco America license)</manufacturer>
+	<year>1999</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rrvac" index="" image="">
+	<description>Ridge Racer V Arcade Battle (RRV3 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2000</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="solvalou" index="" image="">
+	<description>Solvalou (SV1, Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1991</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="speedrcr" index="" image="">
+	<description>Speed Racer</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starblad" index="" image="">
+	<description>Starblade (ST2, World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1991</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starlstr" index="" image="">
+	<description>Vs. Star Luster</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1985</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="supxevs" index="" image="">
+	<description>Vs. Super Xevious</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1986</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="suzuk8h2" index="" image="">
+	<description>Suzuka 8 Hours 2 (World, Rev B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1993</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="suzuka8h" index="" image="">
+	<description>Suzuka 8 Hours (World, Rev C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1992</year>
+	<genre>Motorcycle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tceptor" index="" image="">
+	<description>Thunder Ceptor</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1986</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="technodr" index="" image="">
+	<description>Techno Drive (Japan, TH1/VER.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1998</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tekkencw" index="" image="">
+	<description>Tekken Card World</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Card Battle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timecris" index="" image="">
+	<description>Time Crisis (World, TS2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timecrs2" index="" image="">
+	<description>Time Crisis II (US, TSS3 Ver. B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1997</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timecrs3" index="" image="">
+	<description>Time Crisis 3 (TST1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2003</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="timecrs4" index="" image="">
+	<description>Time Crisis 4 (World, TSF1002-NA-A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2006</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tokyowar" index="" image="">
+	<description>Tokyo Wars (World, TW2 Ver.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="truckk" index="" image="">
+	<description>Truck Kyosokyoku (Japan, TKK2/VER.A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Metro / Namco</manufacturer>
+	<year>2000</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="turrett" index="" image="">
+	<description>Turret Tower</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Dell Electronics (Namco license)</manufacturer>
+	<year>2001</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tx1" index="" image="">
+	<description>TX-1 (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Tatsumi (Atari/Namco/Taito license)</manufacturer>
+	<year>1983</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="victlap" index="" image="">
+	<description>Ace Driver: Victory Lap (World, ADV2 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wanganmd" index="" image="">
+	<description>Wangan Midnight (WMN1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wanganmr" index="" image="">
+	<description>Wangan Midnight R (WMR1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2002</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wangmid" index="" image="">
+	<description>Wangan Midnight Maximum Tune (Export, Rev B) (GDX-0009B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2004</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wangmid2" index="" image="">
+	<description>Wangan Midnight Maximum Tune 2 (Export, Rev A) (GDX-0016A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2005</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="winrun" index="" image="">
+	<description>Winning Run (World) (89/06/06, Ver.09)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1988</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="winrun91" index="" image="">
+	<description>Winning Run &apos;91 (Japan) (1991/03/05, Main Ver 1.0, Sub Ver 1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1991</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="winrungp" index="" image="">
+	<description>Winning Run Suzuka Grand Prix (Japan) (89/12/03, Ver.02)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1989</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

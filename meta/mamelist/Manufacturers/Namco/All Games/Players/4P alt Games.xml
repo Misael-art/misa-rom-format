@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Namco / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="rbowlorama" index="" image="">
+	<description>Rockin&apos; Bowl-O-Rama (v2.1.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Cosmodog</manufacturer>
+	<year>2008</year>
+	<genre>Bowling</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

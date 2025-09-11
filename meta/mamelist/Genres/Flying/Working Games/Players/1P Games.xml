@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Flying / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="aburner2" index="" image="">
+	<description>After Burner II</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1987</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="airco22b" index="" image="">
+	<description>Air Combat 22 (Japan, ACS1 Ver.B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bshark" index="" image="">
+	<description>Battle Shark (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1989</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="buckrog" index="" image="">
+	<description>Buck Rogers: Planet of Zoom</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="esb" index="" image="">
+	<description>The Empire Strikes Back</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1985</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="firefox" index="" image="">
+	<description>Fire Fox (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1984</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gforce2" index="" image="">
+	<description>Galaxy Force 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1988</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gloc" index="" image="">
+	<description>G-LOC Air Battle (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1990</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="laststar" index="" image="">
+	<description>The Last Starfighter (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1984</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nightstr" index="" image="">
+	<description>Night Striker (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<year>1989</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="redbaron" index="" image="">
+	<description>Red Baron (Revised Hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1980</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sharrier" index="" image="">
+	<description>Space Harrier (Rev A, 8751 315-5163A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1985</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="shrike" index="" image="">
+	<description>Shrike Avenger (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1986</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="slrasslt" index="" image="">
+	<description>Solar Assault (ver UAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1997</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starblad" index="" image="">
+	<description>Starblade (ST2, World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1991</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starlstr" index="" image="">
+	<description>Vs. Star Luster</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1985</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starshp1" index="" image="">
+	<description>Starship 1</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1977</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="starwars" index="" image="">
+	<description>Star Wars (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1983</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="steeltal" index="" image="">
+	<description>Steel Talons (rev 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1991</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="strkfgtr" index="" image="">
+	<description>Strike Fighter (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1991</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="subroc3d" index="" image="">
+	<description>Subroc-3D</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tceptor" index="" image="">
+	<description>Thunder Ceptor</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1986</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="topgun" index="" image="">
+	<description>Vs. Top Gun</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tunhunt" index="" image="">
+	<description>Tunnel Hunt</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1979</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wingwar" index="" image="">
+	<description>Wing War (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1994</year>
+	<genre>Flying</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

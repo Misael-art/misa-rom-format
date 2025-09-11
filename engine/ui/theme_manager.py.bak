@@ -1,0 +1,289 @@
+"""
+MegaEmu DataBase ROMs - Theme Manager
+Gerenciador de temas da interface gráfica
+"""
+
+import tkinter as tk
+from tkinter import ttk
+import logging
+from typing import Dict, Optional
+
+class ThemeManager:
+    """Gerenciador de temas da interface."""
+    
+    def __init__(self, config=None):
+        """Inicializa o gerenciador de temas.
+        
+        Args:
+            config: Gerenciador de configuração
+        """
+        self.config = config
+        self.current_theme = "light"
+        self.style = ttk.Style()
+        
+        # Configura temas
+        self._configure_light_theme()
+        self._configure_dark_theme()
+    
+    def _configure_light_theme(self):
+        """Configura tema claro."""
+        try:
+            # Cores do tema
+            colors = {
+                "background": "#ffffff",
+                "foreground": "#000000",
+                "accent": "#007acc",
+                "button": "#f0f0f0",
+                "button_hover": "#e0e0e0",
+                "border": "#d0d0d0",
+                "selection": "#cce8ff",
+                "error": "#f44336",
+                "warning": "#ff9800",
+                "success": "#4caf50"
+            }
+            
+            # Configura estilo ttk
+            self.style.configure(
+                "Light.TFrame",
+                background=colors["background"]
+            )
+            
+            self.style.configure(
+                "Light.TLabel",
+                background=colors["background"],
+                foreground=colors["foreground"]
+            )
+            
+            self.style.configure(
+                "Light.TButton",
+                background=colors["button"],
+                foreground=colors["foreground"],
+                borderwidth=1,
+                relief="solid",
+                padding=5
+            )
+            
+            self.style.map(
+                "Light.TButton",
+                background=[("active", colors["button_hover"])]
+            )
+            
+            self.style.configure(
+                "Light.TEntry",
+                fieldbackground=colors["background"],
+                foreground=colors["foreground"],
+                borderwidth=1,
+                relief="solid"
+            )
+            
+            self.style.configure(
+                "Light.Treeview",
+                background=colors["background"],
+                foreground=colors["foreground"],
+                fieldbackground=colors["background"]
+            )
+            
+            self.style.map(
+                "Light.Treeview",
+                background=[("selected", colors["selection"])],
+                foreground=[("selected", colors["foreground"])]
+            )
+            
+            self.style.configure(
+                "Light.TProgressbar",
+                background=colors["accent"],
+                troughcolor=colors["button"],
+                borderwidth=0,
+                thickness=10
+            )
+            
+            # Salva cores
+            self._light_colors = colors
+            
+        except Exception as e:
+            logging.error(f"Erro ao configurar tema claro: {str(e)}", exc_info=True)
+    
+    def _configure_dark_theme(self):
+        """Configura tema escuro."""
+        try:
+            # Cores do tema
+            colors = {
+                "background": "#2d2d2d",
+                "foreground": "#ffffff",
+                "accent": "#007acc",
+                "button": "#3d3d3d",
+                "button_hover": "#4d4d4d",
+                "border": "#1d1d1d",
+                "selection": "#264f78",
+                "error": "#f44336",
+                "warning": "#ff9800",
+                "success": "#4caf50"
+            }
+            
+            # Configura estilo ttk
+            self.style.configure(
+                "Dark.TFrame",
+                background=colors["background"]
+            )
+            
+            self.style.configure(
+                "Dark.TLabel",
+                background=colors["background"],
+                foreground=colors["foreground"]
+            )
+            
+            self.style.configure(
+                "Dark.TButton",
+                background=colors["button"],
+                foreground=colors["foreground"],
+                borderwidth=1,
+                relief="solid",
+                padding=5
+            )
+            
+            self.style.map(
+                "Dark.TButton",
+                background=[("active", colors["button_hover"])]
+            )
+            
+            self.style.configure(
+                "Dark.TEntry",
+                fieldbackground=colors["background"],
+                foreground=colors["foreground"],
+                borderwidth=1,
+                relief="solid"
+            )
+            
+            self.style.configure(
+                "Dark.Treeview",
+                background=colors["background"],
+                foreground=colors["foreground"],
+                fieldbackground=colors["background"]
+            )
+            
+            self.style.map(
+                "Dark.Treeview",
+                background=[("selected", colors["selection"])],
+                foreground=[("selected", colors["foreground"])]
+            )
+            
+            self.style.configure(
+                "Dark.TProgressbar",
+                background=colors["accent"],
+                troughcolor=colors["button"],
+                borderwidth=0,
+                thickness=10
+            )
+            
+            # Salva cores
+            self._dark_colors = colors
+            
+        except Exception as e:
+            logging.error(f"Erro ao configurar tema escuro: {str(e)}", exc_info=True)
+    
+    def apply_theme(self, theme_name):
+        """
+        Aplica um tema.
+        
+        Args:
+            theme_name: Nome do tema ("light" ou "dark")
+            
+        Returns:
+            True se o tema foi aplicado com sucesso
+        """
+        try:
+            if theme_name not in ["light", "dark"]:
+                theme_name = "light"
+                
+            self.current_theme = theme_name
+            
+            # Aplica tema ttk
+            if theme_name == "light":
+                self._apply_light_theme()
+            else:
+                self._apply_dark_theme()
+                
+            # Atualiza configuração se disponível
+            if self.config and hasattr(self.config, 'set'):
+                try:
+                    self.config.set("theme", theme_name)
+                except Exception as config_error:
+                    logging.warning(f"Não foi possível salvar o tema na configuração: {str(config_error)}")
+                
+            logging.info(f"Tema aplicado: {theme_name}")
+            return True
+        except Exception as e:
+            logging.error(f"Erro ao aplicar tema: {str(e)}", exc_info=True)
+            return False
+    
+    def get_widget_style(self, widget: str) -> Dict[str, str]:
+        """
+        Retorna estilo de um widget.
+        
+        Args:
+            widget: Nome do widget
+            
+        Returns:
+            Dicionário com estilo
+        """
+        # Obtém cores do tema atual
+        colors = self._dark_colors if self.current_theme == "dark" else self._light_colors
+        
+        # Estilos por widget
+        styles = {
+            "TFrame": {
+                "background": colors["background"]
+            },
+            "TLabel": {
+                "background": colors["background"],
+                "foreground": colors["foreground"]
+            },
+            "TButton": {
+                "background": colors["button"],
+                "foreground": colors["foreground"],
+                "borderwidth": 1,
+                "relief": "solid",
+                "padding": 5
+            },
+            "TEntry": {
+                "fieldbackground": colors["background"],
+                "foreground": colors["foreground"],
+                "borderwidth": 1,
+                "relief": "solid"
+            },
+            "Treeview": {
+                "background": colors["background"],
+                "foreground": colors["foreground"],
+                "fieldbackground": colors["background"]
+            },
+            "TProgressbar": {
+                "background": colors["accent"],
+                "troughcolor": colors["button"],
+                "borderwidth": 0,
+                "thickness": 10
+            }
+        }
+        
+        return styles.get(widget, {})
+    
+    def get_color(self, name: str) -> Optional[str]:
+        """
+        Retorna uma cor do tema atual.
+        
+        Args:
+            name: Nome da cor
+            
+        Returns:
+            Código da cor ou None se não encontrada
+        """
+        colors = self._dark_colors if self.current_theme == "dark" else self._light_colors
+        return colors.get(name)
+    
+    def get_all_colors(self) -> Dict[str, str]:
+        """
+        Retorna todas as cores do tema atual.
+        
+        Returns:
+            Dicionário com cores
+        """
+        return self._dark_colors if self.current_theme == "dark" else self._light_colors

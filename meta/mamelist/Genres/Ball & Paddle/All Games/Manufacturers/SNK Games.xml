@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Ball &amp; Paddle / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="jongbou2" index="" image="">
+	<description>Mahjong Block Jongbou 2 (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1987</year>
+	<genre>Ball &amp; Paddle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="micon2" index="" image="">
+	<description>Micon-Kit Part II</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SNK</manufacturer>
+	<year>1978</year>
+	<genre>Ball &amp; Paddle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

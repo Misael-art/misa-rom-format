@@ -1,0 +1,437 @@
+﻿<menu>
+        <game name="1941">
+                <description>1941: Counter Attack</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="dino">
+                <description>Cadillacs and Dinosaurs</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="captcomm">
+                <description>Captain Commando</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="cawing">
+                <description>Carrier Air Wing</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="dynwar">
+                <description>Dynasty Wars</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="ffight">
+                <description>Final Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="forgottn">
+                <description>Forgotten Worlds</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="ghouls">
+                <description>Ghouls'n Ghosts</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="knights">
+                <description>Knights of the Round</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="msword">
+                <description>Magic Sword: Heroic Fantasy</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="megaman">
+                <description>Mega Man: The Power Battle</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="mtwins">
+                <description>Mega Twins</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="mercs">
+                <description>Mercs</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="mbombrd">
+                <description>Muscle Bomber Duo: Ultimate Team Battle</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="nemo">
+                <description>Nemo</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="pang3">
+                <description>Pang! 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="slammast">
+                <description>Saturday Night Slam Masters</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="sf2ce">
+                <description>Street Fighter II': Champion Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sf2hf">
+                <description>Street Fighter II': Hyper Fighting</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sf2">
+                <description>Street Fighter II: The World Warrior</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="strider">
+                <description>Strider</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="kod">
+                <description>The King of Dragons</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="punisher">
+                <description>The Punisher</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="3wonders">
+                <description>Three Wonders</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="unsquad">
+                <description>U.N. Squadron</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="varth">
+                <description>Varth: Operation Thunderstorm</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="wof">
+                <description>Warriors of Fate</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="willow">
+                <description>Willow</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+
+        <game name="1944">
+                <description>1944: The Loop Master</description>
+                <cloneof></cloneof>
+                <manufacturer>Eighting</manufacturer>
+                <year>2000</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="19xx">
+                <description>19XX: The War Against Destiny</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="avsp">
+                <description>Alien vs. Predator</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="armwar">
+                <description>Armored Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="batcir">
+                <description>Battle Circuit</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="csclub">
+                <description>Capcom Sports Club</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Sports / Multiplay</genre>
+        </game>
+        <game name="cybots">
+                <description>Cyberbots: Fullmetal Madness</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="dstlk">
+                <description>Darkstalkers: The Night Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="dimahoo">
+                <description>Dimahoo</description>
+                <cloneof></cloneof>
+                <manufacturer>Eighting</manufacturer>
+                <year>2000</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ddsom">
+                <description>Dungeons   Dragons: Shadow over Mystara</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="ddtod">
+                <description>Dungeons   Dragons: Tower of Doom</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="ecofghtr">
+                <description>Eco Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="gigawing">
+                <description>Giga Wing</description>
+                <cloneof></cloneof>
+                <manufacturer>Takumi (Capcom license)</manufacturer>
+                <year>1999</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="hsf2">
+                <description>Hyper Street Fighter II: The Anniversary Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>2004</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mmatrix">
+                <description>Mars Matrix: Hyper Solid Shooting</description>
+                <cloneof></cloneof>
+                <manufacturer>Takumi (Capcom license)</manufacturer>
+                <year>2000</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="msh">
+                <description>Marvel Super Heroes</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mshvsf">
+                <description>Marvel Super Heroes Vs. Street Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mvsc">
+                <description>Marvel Vs. Capcom: Clash of Super Heroes</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="megaman2">
+                <description>Mega Man 2: The Power Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="mpang">
+                <description>Mighty! Pang</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell (Capcom license)</manufacturer>
+                <year>2000</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="nwarr">
+                <description>Night Warriors: Darkstalkers' Revenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="progear">
+                <description>Progear</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Capcom license)</manufacturer>
+                <year>2001</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="pzloop2">
+                <description>Puzz Loop 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell (Capcom license)</manufacturer>
+                <year>2001</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="ringdest">
+                <description>Ring of Destruction: Slammasters II</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="sfa2">
+                <description>Street Fighter Alpha 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sfa3">
+                <description>Street Fighter Alpha 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sfa">
+                <description>Street Fighter Alpha: Warriors' Dreams</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sgemf">
+                <description>Super Gem Fighter Mini Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="spf2t">
+                <description>Super Puzzle Fighter II Turbo</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="ssf2t">
+                <description>Super Street Fighter II Turbo</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="ssf2">
+                <description>Super Street Fighter II: The New Challengers</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="vsav">
+                <description>Vampire Savior: The Lord of Vampire</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="xmvsf">
+                <description>X-Men Vs. Street Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="xmcota">
+                <description>X-Men: Children of the Atom</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+</menu>

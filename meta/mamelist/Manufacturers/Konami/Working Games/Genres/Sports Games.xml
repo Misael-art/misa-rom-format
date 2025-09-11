@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Konami / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="88games" index="" image="">
+	<description>&apos;88 Games</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1988</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bladestl" index="" image="">
+	<description>Blades of Steel (version T, Joystick)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Sports / Hockey</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bottom9" index="" image="">
+	<description>Bottom of the Ninth (version T)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1989</year>
+	<genre>Sports / Baseball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="combatsc" index="" image="">
+	<description>Combat School (joystick)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1988</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="darkhleg" index="" image="">
+	<description>Dark Horse Legend (GX706 VER. JAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Horse Racing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddboy" index="" image="">
+	<description>Dam Dam Boy (on dedicated PCB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1994</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddribble" index="" image="">
+	<description>Double Dribble</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1986</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="esckids" index="" image="">
+	<description>Escape Kids (Asia, 4 Players)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1991</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fbait2bc" index="" image="">
+	<description>Fisherman&apos;s Bait 2 - A Bass Challenge (GE865 VER. UAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Fishing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fbaitbc" index="" image="">
+	<description>Fisherman&apos;s Bait - A Bass Challenge (GE765 VER. UAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Fishing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fbaitmc" index="" image="">
+	<description>Fisherman&apos;s Bait - Marlin Challenge (GX889 VER. EA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1999</year>
+	<genre>Sports / Fishing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fiveside" index="" image="">
+	<description>Five a Side Soccer (ver UAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1995</year>
+	<genre>Sports / Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fround" index="" image="">
+	<description>The Final Round (version M)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1988</year>
+	<genre>Sports / Boxing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hangplt" index="" image="">
+	<description>Hang Pilot (ver JAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1997</year>
+	<genre>Sports</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hustler" index="" image="">
+	<description>Video Hustler</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1981</year>
+	<genre>Sports / Pool and Dart</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hyperath" index="" image="">
+	<description>Hyper Athlete (GV021 Japan 1.00)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1996</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hyperspt" index="" image="">
+	<description>Hyper Sports</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami (Centuri license)</manufacturer>
+	<year>1984</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="jppyex98" index="" image="">
+	<description>Jikkyou Powerful Pro Yakyuu EX &apos;98 (GC811 VER. JAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Baseball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kicknkick" index="" image="">
+	<description>Kick &amp; Kick (GNA36 VER. EAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>2001</year>
+	<genre>Sports / Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mainevt" index="" image="">
+	<description>The Main Event (4 Players ver. Y)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1988</year>
+	<genre>Sports / Wrestling</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="musclhit" index="" image="">
+	<description>Muscle Ranking Kinniku Banzuke Spray Hitter</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami / TBS</manufacturer>
+	<year>2000</year>
+	<genre>Sports / Baseball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nagano98" index="" image="">
+	<description>Nagano Winter Olympics &apos;98 (GX720 EAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nbapbp" index="" image="">
+	<description>NBA Play By Play (ver UAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pc_dbldr" index="" image="">
+	<description>Double Dribble (PlayChoice-10)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami (Nintendo of America license)</manufacturer>
+	<year>1987</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pc_tkfld" index="" image="">
+	<description>Track &amp; Field (PlayChoice-10)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami (Nintendo of America license)</manufacturer>
+	<year>1987</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pingpong" index="" image="">
+	<description>Konami&apos;s Ping-Pong</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1985</year>
+	<genre>Sports</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="powyak96" index="" image="">
+	<description>Jikkyou Powerful Pro Yakyuu &apos;96 (GV017 Japan 1.03)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1996</year>
+	<genre>Sports / Baseball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="powyakex" index="" image="">
+	<description>Jikkyou Powerful Pro Yakyuu EX (GX802 VER. JAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Sports / Baseball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="prmrsocr" index="" image="">
+	<description>Premier Soccer (ver EAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1993</year>
+	<genre>Sports / Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="punkshot" index="" image="">
+	<description>Punk Shot (US 4 Players)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1990</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rackemup" index="" image="">
+	<description>Rack &apos;em Up (program code L)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<genre>Sports / Pool and Dart</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rollerg" index="" image="">
+	<description>Rollergames (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1991</year>
+	<genre>Sports / Miscellaneous</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rungun" index="" image="">
+	<description>Run and Gun (ver EAA 1993 10.8)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1993</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rungun2" index="" image="">
+	<description>Run and Gun 2 (ver UAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1996</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rushhero" index="" image="">
+	<description>Rushing Heroes (ver UAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1996</year>
+	<genre>Sports / Football</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sbasketb" index="" image="">
+	<description>Super Basketball (version I, encrypted)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1984</year>
+	<genre>Sports / Basketball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="simpbowl" index="" image="">
+	<description>The Simpsons Bowling (GQ829 UAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>2000</year>
+	<genre>Sports / Bowling</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="soccerss" index="" image="">
+	<description>Soccer Superstars (ver EAC)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1994</year>
+	<genre>Sports / Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="trackfld" index="" image="">
+	<description>Track &amp; Field</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1983</year>
+	<genre>Sports / Track &amp; Field</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vsnetscr" index="" image="">
+	<description>Versus Net Soccer (ver EAD)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1996</year>
+	<genre>Sports / Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="winspike" index="" image="">
+	<description>Winning Spike (ver EAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1997</year>
+	<genre>Sports / Volleyball</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

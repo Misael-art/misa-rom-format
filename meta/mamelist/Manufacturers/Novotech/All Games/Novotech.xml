@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Novotech / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="ancienta" index="" image="">
+	<description>Ancient Atlantis (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bananas" index="" image="">
+	<description>Bananas Go Bahamas (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="beebop" index="" image="">
+	<description>Bee Bop (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="beetlem" index="" image="">
+	<description>Beetlemania (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bookra" index="" image="">
+	<description>Book Of Ra (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bsplash" index="" image="">
+	<description>Banana Splash (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bungeem" index="" image="">
+	<description>Bungee Monkey (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="chillicc" index="" image="">
+	<description>Chilli Con Cash (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="columbus" index="" image="">
+	<description>Columbus (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ditrio" index="" image="">
+	<description>Diamond Trio (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dolphinp" index="" image="">
+	<description>Dolphin&apos;s Pearl (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="eurogame" index="" image="">
+	<description>The Euro Game (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="firstcl" index="" image="">
+	<description>First Class Traveller (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u2" index="" image="">
+	<description>Games 4 U 2 (94 5.6-0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u3" index="" image="">
+	<description>Games 4 U 3 (94 5.6-4)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u4" index="" image="">
+	<description>Games 4 U 4 (94 5.6-5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u5" index="" image="">
+	<description>Games 4 U 5 (94 5.6-5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u6" index="" image="">
+	<description>Games 4 U 6 (94 5.6-5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="g4u7" index="" image="">
+	<description>Games 4 U 7 (94 5.6-5a)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt1" index="" image="">
+	<description>Gaminator 1 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt10" index="" image="">
+	<description>Gaminator 10 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt11" index="" image="">
+	<description>Gaminator 11 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt12" index="" image="">
+	<description>Gaminator 12 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt16" index="" image="">
+	<description>Gaminator 16 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt17" index="" image="">
+	<description>Gaminator 17 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt18" index="" image="">
+	<description>Gaminator 18 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt19" index="" image="">
+	<description>Gaminator 19 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt20" index="" image="">
+	<description>Gaminator 20 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt21" index="" image="">
+	<description>Gaminator 21 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt22" index="" image="">
+	<description>Gaminator 22 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt23" index="" image="">
+	<description>Gaminator 23 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt29" index="" image="">
+	<description>Gaminator 29 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt30" index="" image="">
+	<description>Gaminator 30 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt31" index="" image="">
+	<description>Gaminator 31 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt4" index="" image="">
+	<description>Gaminator 4 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt5" index="" image="">
+	<description>Gaminator 5 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt6" index="" image="">
+	<description>Gaminator 6 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt7" index="" image="">
+	<description>Gaminator 7 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt8" index="" image="">
+	<description>Gaminator 8 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gamt9" index="" image="">
+	<description>Gaminator 9 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hspot2" index="" image="">
+	<description>Hot Spot 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hspot3" index="" image="">
+	<description>Hot Spot 3</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="llcharm" index="" image="">
+	<description>Lucky Lady&apos;s Charm (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="megakat" index="" image="">
+	<description>Mega Katok 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Novotech</manufacturer>
+	<year>2002?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

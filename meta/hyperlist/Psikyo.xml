@@ -1,0 +1,100 @@
+﻿<menu>
+        <game name="btlkroad">
+                <description>Battle K-Road</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="dragnblz">
+                <description>Dragon Blaze</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>2000</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="gnbarich">
+                <description>Gunbarich</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>2001</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="gunbird">
+                <description>Gunbird</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="gunbird2">
+                <description>Gunbird 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="loderndf">
+                <description>Lode Runner - The Dig Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>2000</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="soldivid">
+                <description>Sol Divide - The Sword Of Darkness</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="sbomber">
+                <description>Space Bomber</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="s1945">
+                <description>Strikers 1945</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="s1945ii">
+                <description>Strikers 1945 II</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="s1945iii">
+                <description>Strikers 1945 III / Strikers 1999</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1999</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="s1945p">
+                <description>Strikers 1945 Plus</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1999</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tengai">
+                <description>Tengai</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="daraku">
+                <description>The Fallen Angels / Daraku Tenshi - The Fallen Angels</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo</manufacturer>
+                <year>1998</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+</menu>

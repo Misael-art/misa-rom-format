@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Handheld Game / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="tmkombat" index="" image="">
+	<description>Mortal Kombat (Tiger)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Tiger Electronics (licensed from Midway)</manufacturer>
+	<year>1993</year>
+	<genre>Handheld Game</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mahjong / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="aimode" index="" image="">
+	<description>Ai-mode - Pet Shiiku (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1999</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="bikiniko" index="" image="">
+	<description>BiKiNikko - Okinawa de Ippai Shichaimashita (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1999</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fuudol" index="" image="">
+	<description>Fuudol (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>2000</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="jangou" index="" image="">
+	<description>Jangou [BET] (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1983</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="junai" index="" image="">
+	<description>Junai - Manatsu no First Kiss (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1998</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="junai2" index="" image="">
+	<description>Junai 2 - White Love Story (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1998</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="royalmj" index="" image="">
+	<description>Royal Mahjong (Japan, v1.13)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1981</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="shabdama" index="" image="">
+	<description>LD Mahjong #4 Shabon-Dama (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1991</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="thenanpa" index="" image="">
+	<description>The Nanpa (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/Love Factory/eic</manufacturer>
+	<year>1999</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

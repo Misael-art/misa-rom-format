@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="aliencha">
+    <description>Alien Challenge (World)</description>
+    <cloneof />
+    <crc>e3432be3</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1994</year>
+    <genre />
+  </game>
+  <game name="dmnfrnt">
+    <description>Demon Front (ver. 102)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2002</year>
+    <genre>Platform</genre>
+  </game>
+   <game name="drgnwrld">
+    <description>Dragon World (World, V040O)</description>
+    <cloneof />
+    <crc>a6daa2b8</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle/Mature</genre>
+  </game>
+  <game name="grndtour">
+    <description>Grand Tour</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1993</year>
+    <genre>Puzzle</genre>
+  </game>
+  <game name="happy6">
+    <description>Happy 6-in-1 (ver. 101CN)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2004</year>
+    <genre>Multiplay</genre>
+  </game>
+  <game name="iqblock">
+    <description>IQ-Block</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1993</year>
+    <genre>Puzzle</genre>
+  </game>
+  <game name="killbld">
+    <description>The Killing Blade (ver. 109, Chinese Board)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="killbldp">
+    <description>The Killing Blade Plus (ver. 300)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2005</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kov">
+    <description>Knights of Valour / Sangoku Senki (ver. 117)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1999</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kov2">
+    <description>Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2000</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kov2p">
+    <description>Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M204XX)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2001</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kovplus">
+    <description>Knights of Valour Plus / Sangoku Senki Plus (ver. 119)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1999</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kovsh">
+    <description>Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1999</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="kovshp">
+    <description>Knights of Valour Super Heroes Plus / Sanguo</description>
+    <cloneof />
+    <crc>a6daa2b8</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2004</year>
+    <genre>ShooterMature</genre>
+  </game>
+  <game name="kov3">
+    <description>Knights of Valour 3 / Sanguo Zhan Ji 3</description>
+    <cloneof />
+    <crc />
+    <manufacturer>IGS (Huatong license)</manufacturer>
+    <year>2011</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="lordgun">
+    <description>Lord of Gun (USA)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1994</year>
+    <genre>Shooter</genre>
+  </game>
+  <game name="martmast">
+    <description>Martial Masters (ver. 104, 102, 102US)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2001</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="olds">
+    <description>Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="orlegend">
+    <description>Oriental Legend / Xi You Shi E Zhuan (ver. 126)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+  </game>
+<game name="orleg2">
+    <description>Oriental Legend / Xi You Shi E Zhuan (ver. 126)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2007</year>
+    <genre>Fighter</genre>
+  </game>
+
+  <game name="photoy2k">
+    <description>Photo Y2K (ver. 105)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+  </game>
+  <game name="puzzli2">
+    <description>Puzzli 2 Super (ver. 200)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2001</year>
+    <genre>Puzzle</genre>
+  </game>
+  <game name="svg">
+    <description>S.V.G. - Spectral vs Generation (ver. 200)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2005</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="theglad">
+    <description>The Gladiator (ver. 100)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>2003</year>
+    <genre>Fighter</genre>
+  </game>
+  <game name="vbowl">
+    <description>Virtua Bowling (World, V101XCM)</description>
+    <cloneof />
+    <crc>78c15fa2</crc>
+    <manufacturer>IGS</manufacturer>
+    <year>1996</year>
+    <genre>Sports</genre>
+  </game>
+</menu>

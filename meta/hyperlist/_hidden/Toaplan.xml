@@ -1,0 +1,107 @@
+﻿<menu>
+        <game name="batsugun">
+                <description>Batsugun</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="demonwld">
+                <description>Demon's World / Horror Story</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="dogyuun">
+                <description>Dogyuun</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="fireshrk">
+                <description>Fire Shark</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="fixeight">
+                <description>FixEight</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="ghox">
+                <description>Ghox</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1991</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="grindstm">
+                <description>Grind Stormer</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="hellfire">
+                <description>Hellfire</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan (Taito license)</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="outzone">
+                <description>Out Zone</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="snowbros">
+                <description>Snow Bros. - Nick & Tom</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="sstriker">
+                <description>Sorcer Striker</description>
+                <cloneof></cloneof>
+                <manufacturer>Raizing</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tekipaki">
+                <description>Teki Paki</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1991</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="truxton2">
+                <description>Truxton II / Tatsujin Oh</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="vimana">
+                <description>Vimana</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="zerowing">
+                <description>Zero Wing</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+</menu>

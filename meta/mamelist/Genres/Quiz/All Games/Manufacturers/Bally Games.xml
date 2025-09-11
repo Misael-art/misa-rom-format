@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Quiz / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="nametune" index="" image="">
+	<description>Name That Tune (Bally, 3/31/86)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1986</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="profpac" index="" image="">
+	<description>Professor Pac-Man</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Dave Nutting Associates / Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviabb" index="" image="">
+	<description>Trivial Pursuit (Baby Boomer Edition) (3/20/85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviaes" index="" image="">
+	<description>Trivial Pursuit (Volumen III, Spanish, Maibesa license)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente (Maibesa license)</manufacturer>
+	<year>1987</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviaes4" index="" image="">
+	<description>Trivial Pursuit (Volumen IV, Spanish, Maibesa hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente (Maibesa license)</manufacturer>
+	<year>1988</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviaes5" index="" image="">
+	<description>Trivial Pursuit (Volumen V, Spanish, Maibesa hardware)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente (Maibesa license)</manufacturer>
+	<year>19??</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviag1" index="" image="">
+	<description>Trivial Pursuit (Think Tank - Genus Edition) (2/12/85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviag2" index="" image="">
+	<description>Trivial Pursuit (Genus II Edition) (3/22/85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviasp" index="" image="">
+	<description>Trivial Pursuit (All Star Sports Edition)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="triviayp" index="" image="">
+	<description>Trivial Pursuit (Young Players Edition) (3/29/85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Quiz</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

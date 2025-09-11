@@ -1,0 +1,65 @@
+﻿<menu>
+        <game name="bombjack">
+                <description>Bomb Jack</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="gridiron">
+                <description>Gridiron Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="guzzler">
+                <description>Guzzler</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Defeat Enemies</genre>
+        </game>
+        <game name="pbaction">
+                <description>Pinball Action</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1985</year>
+                <genre>Arcade / Pinball</genre>
+        </game>
+        <game name="pleiads">
+                <description>Pleiads</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="senjyo">
+                <description>Senjyo</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="starforc">
+                <description>Star Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="swimmer">
+                <description>Swimmer</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1982</year>
+                <genre>Sports / Swimming</genre>
+        </game>
+        <game name="tehkanwc">
+                <description>Tehkan World Cup</description>
+                <cloneof></cloneof>
+                <manufacturer>Tehkan</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+</menu>

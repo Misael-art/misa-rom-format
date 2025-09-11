@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Soccer / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="kick4csh" index="" image="">
+	<description>Kick &apos;4&apos; Cash (Export)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mp_twcup" index="" image="">
+	<description>Tecmo World Cup (Mega Play)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1993</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mt_gsocr" index="" image="">
+	<description>Great Soccer (Mega-Tech, SMS based)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>198?</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mt_wcsoc" index="" image="">
+	<description>World Championship Soccer (Mega-Tech)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1989</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rad_ssoc" index="" image="">
+	<description>Sensible Soccer plus [Cannon Fodder, Mega lo Mania] (Radica, Arcade Legends) (UK)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Radica / Sensible Software / Sega</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="supgoal" index="" image="">
+	<description>Nerae! Super Goal (J 981218 V1.000)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1998</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="svf" index="" image="">
+	<description>Super Visual Football: European Sega Cup (Rev A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1994</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2" index="" image="">
+	<description>Virtua Striker 2 (Step 2.0, Export, USA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1997</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2002ex" index="" image="">
+	<description>Virtua Striker 2002 (Export) (GDT-0002)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega / Amusement Vision</manufacturer>
+	<year>2002</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2002j" index="" image="">
+	<description>Virtua Striker 2002 (Japan) (GDT-0001)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega / Amusement Vision</manufacturer>
+	<year>2002</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2002t3" index="" image="">
+	<description>Virtua Striker 2002 (Type 3) (GDT-0012)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega / Amusement Vision</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs298" index="" image="">
+	<description>Virtua Striker 2 &apos;98 (Step 2.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1998</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2_2k" index="" image="">
+	<description>Virtua Striker 2 Ver. 2000 (Rev C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1999</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs2v991" index="" image="">
+	<description>Virtua Striker 2 &apos;99.1 (Export, USA, Revision B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1998</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs4" index="" image="">
+	<description>Virtua Striker 4 (Export, Rev A) (GDT-0015A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2005</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs42006" index="" image="">
+	<description>Virtua Striker 4 Ver.2006 (Japan, Rev D) (GDT-0020D)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2006</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs42k6ex" index="" image="">
+	<description>Virtua Striker 4 Ver.2006 (Export) (GDT-0021)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2006</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vs4j" index="" image="">
+	<description>Virtua Striker 4 (Japan, Rev E) (GDT-0013E)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2005</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vstrik3" index="" image="">
+	<description>Virtua Striker 3 (GDS-0006)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2001</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vstrik3c" index="" image="">
+	<description>Virtua Striker 3 (World, Rev B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Amusement Vision / Sega</manufacturer>
+	<year>2001</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vstriker" index="" image="">
+	<description>Virtua Striker (Revision A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1994</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf116" index="" image="">
+	<description>World Club Champion Football Serie A 2001-2002 Ver.2 (Japan) (CDP-10001C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Hitmaker / Sega</manufacturer>
+	<year>2003</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf1dup" index="" image="">
+	<description>World Club Champion Football Serie A 2001-2002 DIMM FIRM Ver.3.03 (CDP-10003)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Hitmaker / Sega</manufacturer>
+	<year>2002</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf212e" index="" image="">
+	<description>World Club Champion Football Serie A 2002-2003 Ver.2.12 (Italy) (CDV-10002)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Hitmaker / Sega</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf234j" index="" image="">
+	<description>World Club Champion Football Serie A 2002-2003 Ver.2.34 (Japan) (CDV-10008)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Hitmaker / Sega</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf2chk" index="" image="">
+	<description>World Club Champion Football Serie A 2002-2003 Drive Checker (CDV-10007)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Hitmaker / Sega</manufacturer>
+	<year>2004</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf310j" index="" image="">
+	<description>World Club Champion Football European Clubs 2004-2005 (Asia) (CDV-10013)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2005</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf322e" index="" image="">
+	<description>World Club Champion Football European Clubs 2004-2005 Ver.3.22 (Export) (CDV-10015P)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2005</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wccf420e" index="" image="">
+	<description>World Club Champion Football European Clubs 2005-2006 (Export) (CDV-10027)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2006</year>
+	<genre>Soccer</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

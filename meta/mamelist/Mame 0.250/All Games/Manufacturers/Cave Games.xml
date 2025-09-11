@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mame 0.250 / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="ddonpach" index="" image="">
+	<description>DoDonPachi (World, 1997 2/ 5 Master Ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Atlus license)</manufacturer>
+	<year>1997</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddp3" index="" image="">
+	<description>DoDonPachi III (World, 2002.05.15 Master Ver)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2002</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddpdfk" index="" image="">
+	<description>DoDonPachi Dai-Fukkatsu Ver 1.5 (2008/06/23 MASTER VER 1.5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2008</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddpdojt" index="" image="">
+	<description>DoDonPachi Dai-Ou-Jou Tamashii (V201, China)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGS / Cave (Tong Li Animation license)</manufacturer>
+	<year>2010</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="deathsm2" index="" image="">
+	<description>Deathsmiles II: Makai no Merry Christmas (2009/10/14 MASTER VER 4.00)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave</manufacturer>
+	<year>2009</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="deathsml" index="" image="">
+	<description>Deathsmiles (2007/10/09 MASTER VER)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2007</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dfkbl" index="" image="">
+	<description>DoDonPachi Dai-Fukkatsu Black Label (2010/1/18 BLACK LABEL)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave</manufacturer>
+	<year>2010</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="donpachi" index="" image="">
+	<description>DonPachi (US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Atlus license)</manufacturer>
+	<year>1995</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dsmbl" index="" image="">
+	<description>Deathsmiles MegaBlack Label (2008/10/06 MEGABLACK LABEL VER)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2008</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="espgal" index="" image="">
+	<description>Espgaluda (2003/10/15 Master Ver)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2003</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="espgal2" index="" image="">
+	<description>Espgaluda II (2005/11/14 MASTER VER, newer CV1000-B PCB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2005</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="esprade" index="" image="">
+	<description>ESP Ra.De. (World, 1998 4/22 International Ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Atlus license)</manufacturer>
+	<year>1998</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="feversos" index="" image="">
+	<description>Fever SOS (World, 98/09/25 VER)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Nihon System license)</manufacturer>
+	<year>1998</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="futari15" index="" image="">
+	<description>Mushihime-Sama Futari Ver 1.5 (2006/12/8.MASTER VER. 1.54.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2006</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="futaribl" index="" image="">
+	<description>Mushihime-Sama Futari Black Label - Another Ver (2009/11/27 INTERNATIONAL BL)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2007</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="guwange" index="" image="">
+	<description>Guwange (Japan, 1999 6/24 Master Ver 16:55)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Atlus license)</manufacturer>
+	<year>1999</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ibara" index="" image="">
+	<description>Ibara (2005/03/22 MASTER VER.., &apos;06. 3. 7 ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2005</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ibarablk" index="" image="">
+	<description>Ibara Kuro Black Label (2006/02/06. MASTER VER.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2006</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ket" index="" image="">
+	<description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2002</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mmmbanc" index="" image="">
+	<description>Medal Mahjong Moukari Bancho (2007/06/05 MASTER VER.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2007</year>
+	<genre>Mahjong</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mmpork" index="" image="">
+	<description>Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2007</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mushisam" index="" image="">
+	<description>Mushihime-Sama (2004/10/12.MASTER VER.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2004</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mushitam" index="" image="">
+	<description>Puzzle! Mushihime-Tama (2005/09/09.MASTER VER)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2005</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pinkswts" index="" image="">
+	<description>Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER....)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2006</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="progear" index="" image="">
+	<description>Progear (USA 010117)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Capcom license)</manufacturer>
+	<year>2001</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sss" index="" image="">
+	<description>Steep Slope Sliders (JUET 981110 V1.000)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Cave / Victor Interactive Software</manufacturer>
+	<year>1998</year>
+	<genre>Skiing</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="uopoko" index="" image="">
+	<description>Puzzle Uo Poko (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Jaleco license)</manufacturer>
+	<year>1998</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

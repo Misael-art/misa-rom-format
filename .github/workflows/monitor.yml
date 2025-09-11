@@ -1,0 +1,66 @@
+name: Monitoramento MCP (Consistency Check)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Diário à meia-noite UTC
+  workflow_dispatch:  # Permitir execução manual
+
+jobs:
+  check-consistency:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write  # Para criar issues
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.8'  # Ajustar conforme versão mínima
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Assumindo requirements.txt existe; ajustar se necessário
+
+    - name: Run consistency checker
+      id: run-check
+      run: |
+        python engine/monitoring/consistency_checker.py > /tmp/report_output.txt
+        JSON_OUTPUT=$(tail -1 /tmp/report_output.txt)
+        if [ -n "$JSON_OUTPUT" ]; then
+          echo "json_output=$JSON_OUTPUT" >> $GITHUB_OUTPUT
+        fi
+        if [ "$(echo "$JSON_OUTPUT" | jq '.discrepancies | length')" -gt 0 ]; then
+          echo "has-discrepancies=true" >> $GITHUB_OUTPUT
+          echo "discrepancy-count=$(echo "$JSON_OUTPUT" | jq '.discrepancies | length')" >> $GITHUB_OUTPUT
+          echo "discrepancies=$(echo "$JSON_OUTPUT" | jq -c '.discrepancies')" >> $GITHUB_OUTPUT
+          echo "timestamp=$(echo "$JSON_OUTPUT" | jq -c '.timestamp')" >> $GITHUB_OUTPUT
+          echo "duration=$(echo "$JSON_OUTPUT" | jq '.duration')" >> $GITHUB_OUTPUT
+        else
+          echo "has-discrepancies=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Create GitHub Issue if discrepancies found
+      if: steps.run-check.outputs.has-discrepancies == 'true'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        gh issue create \
+          --title "MCP Alert: ${{ steps.run-check.outputs.discrepancy-count }} Discrepâncias Detectadas" \
+          --body |
+            Relatório de consistência em ${{ steps.run-check.outputs.timestamp }}:
+
+            Duração: ${{ steps.run-check.outputs.duration }}s
+
+            Discrepâncias:
+            ${{ steps.run-check.outputs.discrepancies }}
+
+            Verifique e resolva as questões. Workflow: monitor.yml \
+          --assignee "@me"
+
+    - name: Log report
+      run: |
+        echo "Verificação concluída. Discrepâncias: ${{ steps.run-check.outputs.discrepancy-count || 0 }}"

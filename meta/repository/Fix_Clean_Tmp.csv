@@ -1,0 +1,24 @@
+dirclean;clean;emulador;categoria
+log.txt;log.txt;RetroFe;FrontEnd
+README.txt;README.txt;RetroFe;FrontEnd
+RetroFE.ico;RetroFE.ico;RetroFe;FrontEnd
+RetroFE.png;RetroFE.png;RetroFe;FrontEnd
+credits.txt;credits.txt;RetroFe;FrontEnd
+readme.txt;readme.txt;RetroFe;FrontEnd
+- README-.txt;readme.txt;RetroFe;FrontEnd
+collections\CREATING_COLLECTIONS.txt;RetroFe;FrontEnd
+emulators\RetroArch\assets\pkg;RetroArch;multisistemas
+emulators\RetroArch\assets\rgui;RetroArch;multisistemas
+emulators\RetroArch\assets\switch;RetroArch;multisistemas
+emulators\RetroArch\assets\xmb;RetroArch;multisistemas
+emulators\RetroArch\assets\dot-art;RetroArch;multisistemas
+emulators\RetroArch\assets\flatui;RetroArch;multisistemas
+emulators\RetroArch\assets\monochrome;RetroArch;multisistemas
+emulators\RetroArch\assets\neoactive;RetroArch;multisistemas
+emulators\RetroArch\assets\pixel;RetroArch;multisistemas
+emulators\RetroArch\assets\xmb;RetroArch;multisistemas
+emulators\RetroArch\assets\retroactive;RetroArch;multisistemas
+emulators\RetroArch\assets\retrosystem;RetroArch;multisistemas
+emulators\RetroArch\assets\systematic;RetroArch;multisistemas
+emulators\RetroArch\assets\COPYING;RetroFe;FrontEnd
+emulators\RetroArch\overlays;overlays;RetroArch;multisistemas

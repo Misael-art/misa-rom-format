@@ -1,0 +1,1319 @@
+﻿<menu>
+        <game name="005">
+                <description>005</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="4dwarrio">
+                <description>4-D Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="abcop">
+                <description>A.B. Cop</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="aceattac">
+                <description>Ace Attacker</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Volleyball</genre>
+        </game>
+        <game name="afighter">
+                <description>Action Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Misc. Vertical</genre>
+        </game>
+        <game name="aburner2">
+                <description>After Burner II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="arescue">
+                <description>Air Rescue</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="alexkidd">
+                <description>Alex Kidd: The Lost Stars</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="astorm">
+                <description>Alien Storm</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="aliensyn">
+                <description>Alien Syndrome</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="alien3">
+                <description>Alien3: The Gun</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="altbeast">
+                <description>Altered Beast</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="appoooh">
+                <description>Appoooh</description>
+                <cloneof></cloneof>
+                <manufacturer>Sanritsu</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="arabfgt">
+                <description>Arabian Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="astrob">
+                <description>Astro Blaster</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="bankp">
+                <description>Bank Panic</description>
+                <cloneof></cloneof>
+                <manufacturer>Sanritsu</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="barek3mb">
+                <description>Bare Knuckle III</description>
+                <cloneof></cloneof>
+                <manufacturer>bootleg</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="bayroute">
+                <description>Bay Route</description>
+                <cloneof></cloneof>
+                <manufacturer>Sunsoft</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="bodyslam">
+                <description>Body Slam</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="bnzabros">
+                <description>Bonanza Bros</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter</genre>
+        </game>
+        <game name="brdrline">
+                <description>Borderline</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="borench">
+                <description>Borench</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="brain">
+                <description>Brain</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="buckrog">
+                <description>Buck Rogers: Planet of Zoom</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="bullet">
+                <description>Bullet</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="bullfgt">
+                <description>Bullfight</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Bull Fighting</genre>
+        </game>
+        <game name="brival">
+                <description>Burning Rival</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="calorie">
+                <description>Calorie Kun vs Moguranian</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Ladders</genre>
+        </game>
+        <game name="carnival">
+                <description>Carnival</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="champbas">
+                <description>Champion Base Ball</description>
+                <cloneof></cloneof>
+                <manufacturer>Alpha Denshi Co. (Sega license)</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="champbb2">
+                <description>Champion Base Ball Part-2</description>
+                <cloneof></cloneof>
+                <manufacturer>Alpha Denshi Co. (Sega license)</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="chboxing">
+                <description>Champion Boxing</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="chwrestl">
+                <description>Champion Pro Wrestling</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="choplift">
+                <description>Choplifter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega (licensed from Dan Gorlin)</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="cltchitr">
+                <description>Clutch Hitter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="columns">
+                <description>Columns</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="columns2">
+                <description>Columns II: The Voyage Through Time</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="mp_col3">
+                <description>Columns III</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="combh">
+                <description>Combat Hawk</description>
+                <cloneof></cloneof>
+                <manufacturer>Sanritsu</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="commsega">
+                <description>Commando</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="congo">
+                <description>Congo Bongo</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="coolridr">
+                <description>Cool Riders</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1995</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="cotton">
+                <description>Cotton</description>
+                <cloneof></cloneof>
+                <manufacturer>Success</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="crkdown">
+                <description>Crack Down</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="ddcrew">
+                <description>D. D. Crew</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="darkedge">
+                <description>Dark Edge</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="desertbr">
+                <description>Desert Breaker</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="dokidoki">
+                <description>Doki Doki Penguin Land</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="dotrikun">
+                <description>Dottori Kun</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="dunkshot">
+                <description>Dunk Shot</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="dcclub">
+                <description>Dynamic Country Club</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="ddux">
+                <description>Dynamite Dux</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="eswat">
+                <description>E-Swat - Cyber Police</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="enduror">
+                <description>Enduro Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="exctleag">
+                <description>Excite League</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="f1en">
+                <description>F1 Exhaust Note</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="f1lap">
+                <description>F1 Super Lap</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="fantzone">
+                <description>Fantasy Zone</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="fantzn2">
+                <description>Fantasy Zone II - The Tears of Opa-Opa</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="flashgal">
+                <description>Flashgal</description>
+                <cloneof></cloneof>
+                <manufacturer>Kyugo</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="flicky">
+                <description>Flicky</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="futspy">
+                <description>Future Spy</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Flying Diagonal</genre>
+        </game>
+        <game name="gloc">
+                <description>G-LOC Air Battle</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="gground">
+                <description>Gain Ground</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="gforce2">
+                <description>Galaxy Force 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="gardia">
+                <description>Gardia</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="genesis">
+                <description>Genesis</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Game Console / Home Videogame</genre>
+        </game>
+        <game name="gen_nomd">
+                <description>Genesis Nomad</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1995</year>
+                <genre>Game Console / Home Videogame</genre>
+        </game>
+        <game name="gigas">
+                <description>Gigas</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="gigasm2">
+                <description>Gigas Mark II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="goldnaxe">
+                <description>Golden Axe</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="mp_gaxe2">
+                <description>Golden Axe II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="ga2">
+                <description>Golden Axe: The Revenge of Death Adder</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="gprider">
+                <description>GP Rider</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="mp_gslam">
+                <description>Grand Slam</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Tennis</genre>
+        </game>
+        <game name="mp_gunhe">
+                <description>Gunstar Heroes</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="hangon">
+                <description>Hang-On</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="hangonjr">
+                <description>Hang-On Jr.</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="harddunk">
+                <description>Hard Dunk</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="headon2">
+                <description>Head On 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1979</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="hvymetal">
+                <description>Heavy Metal</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="hwchamp">
+                <description>Heavyweight Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="holo">
+                <description>Holosseum</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="hopprobo">
+                <description>Hopper Robo</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="hotrod">
+                <description>Hot Rod</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="imsorry">
+                <description>I'm Sorry</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1985</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="invinco">
+                <description>Invinco</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="invds">
+                <description>Invinco / Deep Scan</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1979</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="invho2">
+                <description>Invinco / Head On 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1979</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="ixion">
+                <description>Ixion</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="jpark">
+                <description>Jurassic Park</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="lghost">
+                <description>Laser Ghost</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="legend">
+                <description>Legend</description>
+                <cloneof></cloneof>
+                <manufacturer>Kyugo</manufacturer>
+                <year>1986</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="loffire">
+                <description>Line of Fire / Bakudan Yarou</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="mjleague">
+                <description>Major League</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="sms">
+                <description>Master System II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Game Console / Home Videogame</genre>
+        </game>
+        <game name="mp_mazin">
+                <description>Mazin Wars / Mazin Saga</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+
+        <game name="mwalk">
+                <description>Michael Jackson's Moonwalker</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="mrviking">
+                <description>Mister Viking</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="monsterb">
+                <description>Monster Bash</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Platform / Shooter</genre>
+        </game>
+        <game name="mvp">
+                <description>MVP</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="myhero">
+                <description>My Hero</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="nsub">
+                <description>N-Sub</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="opaopa">
+                <description>Opa Opa</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="outrun">
+                <description>Out Run</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="orunners">
+                <description>OutRunners</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="passsht">
+                <description>Passing Shot</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Tennis</genre>
+        </game>
+        <game name="pengo">
+                <description>Pengo</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Move and Sort</genre>
+        </game>
+        <game name="pignewt">
+                <description>Pig Newton</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="pitfall2">
+                <description>Pitfall II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="pdrift">
+                <description>Power Drift</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="pulsar">
+                <description>Pulsar</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="puyo">
+                <description>Puyo Puyo</description>
+                <cloneof></cloneof>
+                <manufacturer>Compile</manufacturer>
+                <year>1992</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="ichir">
+                <description>Puzzle   Action: Ichidant-R</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="quartet">
+                <description>Quartet</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="rachero">
+                <description>Racing Hero</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="radm">
+                <description>Rad Mobile</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="radr">
+                <description>Rad Rally</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="raflesia">
+                <description>Rafflesia</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="rchase">
+                <description>Rail Chase</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="razmataz">
+                <description>Razzmatazz</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="regulus">
+                <description>Regulus</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="repulse">
+                <description>Repulse</description>
+                <cloneof></cloneof>
+                <manufacturer>Crux</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="ribbit">
+                <description>Ribbit!</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Misc.</genre>
+        </game>
+        <game name="robowres">
+                <description>Robo Wres 2001</description>
+                <cloneof></cloneof>
+                <manufacturer>Sanritsu</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="sc3000">
+                <description>SC-3000</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Computer / Home System</genre>
+        </game>
+        <game name="sspirits">
+                <description>Scramble Spirits</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="seganinj">
+                <description>Sega Ninja</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="sonicfgt">
+                <description>SegaSonic Cosmo Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="sg1000">
+                <description>SG-1000</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Game Console / Home Videogame</genre>
+        </game>
+        <game name="shdancer">
+                <description>Shadow Dancer</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="shinobi">
+                <description>Shinobi</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="shtngmst">
+                <description>Shooting Master</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="sindbadm">
+                <description>Sindbad Mystery</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Puzzle / Maze</genre>
+        </game>
+        <game name="slapshtr">
+                <description>Slap Shooter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Hockey</genre>
+        </game>
+        <game name="sonicbom">
+                <description>Sonic Boom</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="mp_sonic">
+                <description>Sonic The Hedgehog</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="sonic2mb">
+                <description>Sonic The Hedgehog 2</description>
+                <cloneof></cloneof>
+                <manufacturer>bootleg</manufacturer>
+                <year>1993</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="mp_soni2">
+                <description>Sonic The Hedgehog 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="spacfury">
+                <description>Space Fury</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="sharrier">
+                <description>Space Harrier</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="spaceod">
+                <description>Space Odyssey</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="spatter">
+                <description>Spatter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="spidman">
+                <description>Spider-Man: The Videogame</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="stkclmns">
+                <description>Stack Columns</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="scross">
+                <description>Stadium Cross</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="starjack">
+                <description>Star Jacker</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="startrek">
+                <description>Star Trek</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="swa">
+                <description>Star Wars Arcade</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="mp_sor2">
+                <description>Streets of Rage II</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="strkfgtr">
+                <description>Strike Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="subroc3d">
+                <description>Subroc-3D</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="shangon">
+                <description>Super Hang-On</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="suprleag">
+                <description>Super League</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="suprloco">
+                <description>Super Locomotive</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="sgmast">
+                <description>Super Masters Golf</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="smgp">
+                <description>Super Monaco GP</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Driving / Race 1st Person</genre>
+        </game>
+        <game name="svf">
+                <description>Super Visual Football: European Sega Cup</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="szaxxon">
+                <description>Super Zaxxon</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying Diagonal</genre>
+        </game>
+        <game name="swat">
+                <description>SWAT</description>
+                <cloneof></cloneof>
+                <manufacturer>Coreland</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="tacscan">
+                <description>Tac/Scan</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tactcian">
+                <description>Tactician</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami (Sega license)</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="mp_twcup">
+                <description>Tecmo World Cup</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="teddybb">
+                <description>TeddyBoy Blues</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Shooter</genre>
+        </game>
+        <game name="thndrbld">
+                <description>Thunder Blade</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="tfrceac">
+                <description>Thunder Force AC</description>
+                <cloneof></cloneof>
+                <manufacturer>Technosoft</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="timescan">
+                <description>Time Scanner</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Arcade / Pinball</genre>
+        </game>
+        <game name="titlef">
+                <description>Title Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="tokisens">
+                <description>Toki no Senshi - Chrono Soldier</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="toryumon">
+                <description>Toryumon</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="tranqgun">
+                <description>Tranquillizer Gun</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1980</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="transfrm">
+                <description>Transformer</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="turbo">
+                <description>Turbo</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1981</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="toutrun">
+                <description>Turbo Out Run</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="twinsqua">
+                <description>Twin Squash</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="ufosensi">
+                <description>Ufo Senshi Yohko Chan</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="upndown">
+                <description>Up'n Down</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="vr">
+                <description>Virtua Racing</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Race 1st Person</genre>
+        </game>
+        <game name="wwmarine">
+                <description>Waku Waku Marine</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1992</year>
+                <genre>Misc. / Unknown</genre>
+        </game>
+        <game name="soniccar">
+                <description>Waku Waku Sonic Patrol Car</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1991</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="ultracin">
+                <description>Waku Waku Ultraman Racing</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Misc.</genre>
+        </game>
+        <game name="wmatch">
+                <description>Water Match</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="wingwar">
+                <description>Wing War</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying 1st Person</genre>
+        </game>
+        <game name="wboy">
+                <description>Wonder Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Escape (Sega license)</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="wrestwar">
+                <description>Wrestle War</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="yamato">
+                <description>Yamato</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="zaxxon">
+                <description>Zaxxon</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying Diagonal</genre>
+        </game>
+        <game name="zektor">
+                <description>Zektor</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Field</genre>
+        </game>
+</menu>

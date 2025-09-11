@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Fruit Machines / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="peps0014" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0014) Super Joker Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0021" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0021) Red White &amp; Blue Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0040" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0040) Jackpot Jungle Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0042" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0042) Double Diamond Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0047" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0047) Wild Cherry Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0048" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0048) Double Jackpot Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0070" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0070) Hurricane Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0086" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0086) Earth Quake Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0090" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0090) Gold, Silver &amp; Bronze Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0239" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0239) Jackpot Jewels Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0267" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0267) Spin Til You Win Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0275" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0275) 4th of July Slots (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0291" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0291) Haywire Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0308" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0308) Double Jackpot Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0366" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0366) Double Diamond Deluxe Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0615" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0615) Chaos Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0623" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0623) Black Cherry Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0629" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0629) Double Hot Peppers Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="peps0716" index="" image="">
+	<description>Player&apos;s Edge Plus (PS0716) River Gambler Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pex0827s" index="" image="">
+	<description>Player&apos;s Edge Plus (X000827S+XS000002) Red, White &amp; Blue Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pex0838s" index="" image="">
+	<description>Player&apos;s Edge Plus (X000838S+XS000002) Five Times Pay Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pex0998s" index="" image="">
+	<description>Player&apos;s Edge Plus (X000998S+XS000006) Triple Triple Diamond Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pex1087s" index="" image="">
+	<description>Player&apos;s Edge Plus (X001087S+XS000006) Double Double Diamond Slots</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGT - International Game Technology</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

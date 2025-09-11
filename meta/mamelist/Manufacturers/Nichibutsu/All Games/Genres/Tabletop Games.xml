@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Nichibutsu / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="csplayh5" index="" image="">
+	<description>Mahjong Hanafuda Cosplay Tengoku 5 (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1998</year>
+	<genre>Tabletop</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="csplayh6" index="" image="">
+	<description>Mahjong Hanafuda Cosplay Tengoku 6 - Junai-hen (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1999</year>
+	<genre>Tabletop</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="csplayh7" index="" image="">
+	<description>Cosplay Tengoku 7 - Super Kogal Ranking (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu/eic</manufacturer>
+	<year>1999</year>
+	<genre>Tabletop</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gomoku" index="" image="">
+	<description>Gomoku Narabe Renju</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1981</year>
+	<genre>Tabletop</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hnxmasev" index="" image="">
+	<description>AV Hanafuda Hana no Christmas Eve (Japan 901204)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu / AV Japan</manufacturer>
+	<year>1990</year>
+	<genre>Tabletop</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

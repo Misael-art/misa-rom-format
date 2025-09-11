@@ -1,0 +1,77 @@
+============================================================
+RELATÓRIO DE CORREÇÃO DE IMPORTS - 2025-09-10 23:13:41
+Modo: EXECUÇÃO REAL
+============================================================
+
+📄 Arquivos corrigidos: 17
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\app.py
+    * Substituído: from engine.db.database_manager import DatabaseManager -> from engine.db import UnifiedDatabaseManager as DatabaseManager
+    * Removido import duplicado: from tkinter import filedialog
+    * Removido import duplicado: from tkinter import filedialog
+    * Removido import duplicado: from tkinter import filedialog
+    * Removido import duplicado: from tkinter import messagebox
+    * Removido import duplicado: from tkinter import messagebox
+    * Removido import duplicado: from tkinter import filedialog
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\setup.py
+    * Substituído: from engine.db import DatabaseManager -> from engine.db import UnifiedDatabaseManager as DatabaseManager
+    * Removido import duplicado: import sys
+    * Removido import duplicado: import os
+    * Removido import duplicado: from pathlib import Path
+    * Removido import duplicado: import json
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_import_service.py
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_migration.py
+    * Substituído: from engine.db import DatabaseManager -> from engine.db import UnifiedDatabaseManager as DatabaseManager
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_phase3_database_manager.py
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: import threading
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_theme_integration.py
+    * Substituído: from engine.ui.theme_manager_enhanced import ThemeManager -> from engine.ui import UnifiedThemeManager as ThemeManager
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_theme_manager.py
+    * Substituído: from engine.ui.theme_manager_enhanced import ThemeManager -> from engine.ui import UnifiedThemeManager as ThemeManager
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\tests\test_universal_fusion.py
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: import time
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\ui\main_window.py
+    * Substituído: from engine.ui.theme_manager import ThemeManager -> from engine.ui import UnifiedThemeManager as ThemeManager
+    * Substituído: from engine.config import * -> from engine.config import (
+    SUPPORTED_FORMATS, DEFAULT_DB_PATH, MISA_HEADER_SIZE, MISA_META_FMT,
+    COMPRESSION_LEVELS, BATCH_SIZE, MAX_WORKERS
+)
+    * Removido import duplicado: import time
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\scripts\deployment\setup_production.py
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: import sys
+    * Removido import duplicado: import os
+    * Removido import duplicado: from pathlib import Path
+    * Removido import duplicado: from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: import json
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\scripts\monitor\system_health.py
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\engine\services\rom_verification_service.py
+    * Substituído: from engine.db.database_manager import DatabaseManager -> from engine.db import UnifiedDatabaseManager as DatabaseManager
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\engine\ui\progress_dialog.py
+    * Substituído: from engine.ui.theme_manager import ThemeManager -> from engine.ui import UnifiedThemeManager as ThemeManager
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\engine\utils\directory_scanner.py
+    * Substituído: from engine.config import * -> from engine.config import (
+    SUPPORTED_FORMATS, DEFAULT_DB_PATH, MISA_HEADER_SIZE, MISA_META_FMT,
+    COMPRESSION_LEVELS, BATCH_SIZE, MAX_WORKERS
+)
+    * Removido import duplicado: from pathlib import Path
+    * Removido import duplicado: import hashlib
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\docs\API.md
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\docs\database_v2.md
+    * Substituído: from engine.db import DatabaseManager -> from engine.db import UnifiedDatabaseManager as DatabaseManager
+    * Removido import duplicado: from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+    * Removido import duplicado: from engine.db import default_metrics_collector
+  - F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\docs\EXAMPLES.md
+    * Substituído: from engine.db.database_manager_v2 import DatabaseManagerV2 -> from engine.db import UnifiedDatabaseManager as DatabaseManagerV2
+
+❌ Erros encontrados: 1
+  - Erro ao corrigir arquivo F:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\MiSTer\games\MegaDrive\mister-boot.md: 'utf-8' codec can't decode byte 0xe1 in position 0: invalid continuation byte
+
+============================================================
+TOTAL: 17 arquivos corrigidos
+============================================================

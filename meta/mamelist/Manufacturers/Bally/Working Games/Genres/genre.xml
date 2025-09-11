@@ -1,0 +1,24 @@
+<menu>
+	<game name="All Games" />
+	<game name="Basketball Games" />
+	<game name="Beat-&apos;Em-Up Games" />
+	<game name="Card Battle Games" />
+	<game name="Compilation Games" />
+	<game name="Driving Games" />
+	<game name="Flying Games" />
+	<game name="Football Games" />
+	<game name="Golf Games" />
+	<game name="Hockey Games" />
+	<game name="Maze Games" />
+	<game name="Mini-Games Games" />
+	<game name="Miscellaneous Games" />
+	<game name="Platform Games" />
+	<game name="Pool and Dart Games" />
+	<game name="Quiz Games" />
+	<game name="Shoot-&apos;Em-Up Games" />
+	<game name="Shooter Games" />
+	<game name="Soccer Games" />
+	<game name="Sports Games" />
+	<game name="Tennis Games" />
+	<game name="Volleyball Games" />
+</menu>

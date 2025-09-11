@@ -1,0 +1,18 @@
+<menu>
+  <header>
+		<listname>Nintendo Wii Japan</listname>
+		<lastlistupdate>10/01/2017</lastlistupdate>
+		<listversion>SupraKarma 1.3</listversion>
+  </header>
+  <game name="Inazuma Eleven GO Strikers 2013 (Japan) (Translated PtBr)" index="true" image="i">
+    <description>Inazuma Eleven GO Strikers 2013 (Japan) (Translated PtBr)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Level-5</manufacturer>
+    <year>2012</year>
+    <genre>Sports_Soccer</genre>
+	<players>2</players>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>

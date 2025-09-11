@@ -1,0 +1,3889 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>BFM / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="ad4ctl" index="" image="">
+	<description>Cop The Lot Club (Video) (Bellfruit) (Adder 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad4film" index="" image="">
+	<description>Film Premiere (Video?) (Bellfruit) (Adder 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad4skill" index="" image="">
+	<description>Skill Dice (BFM) (Scorpion 4 + Adder 4)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5btc" index="" image="">
+	<description>Bullseye Triple Club (PR1758, BFGPBULS) (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5cmons" index="" image="">
+	<description>Crazy Money (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5copsr" index="" image="">
+	<description>Cops &apos;n&apos; Robbers (PR3206) (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5crcpt" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Community Party (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5dnd" index="" image="">
+	<description>Deal Or No Deal (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5dndcl" index="" image="">
+	<description>Deal Or No Deal Club (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5dnddd" index="" image="">
+	<description>Deal Or No Deal Double Deal Or No Deal (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5dndpg" index="" image="">
+	<description>Deal Or No Deal The Perfect Game (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5dndpl" index="" image="">
+	<description>Deal Or No Deal Platinum (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5etdls" index="" image="">
+	<description>El Trebol de la Suerte (Bellfruit) (Adder 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5gldmn" index="" image="">
+	<description>Gold Mine (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5hir" index="" image="">
+	<description>Hi Roller (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5lluck" index="" image="">
+	<description>Lady Luck (Bellfruit) (Adder 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5pking" index="" image="">
+	<description>Poker King (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5rapid" index="" image="">
+	<description>Rapid Pay (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5rsclb" index="" image="">
+	<description>Random Spinner Club (PR1669, BFGNRNDN) (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5rspin" index="" image="">
+	<description>Random Spinner (PR1669, BFGNRNDN) (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5rsrm" index="" image="">
+	<description>Ronnie O&apos;Sullivan&apos;s Rocket Money (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5rwclb" index="" image="">
+	<description>Random Winner Club (PR1756, BFGNRWSX) (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5sslam" index="" image="">
+	<description>Super Slam (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5tornc" index="" image="">
+	<description>Tornado Club (PR1629, 5.5, rv 8, BFGNTORD) (Bellfruit) (Adder 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5vlv" index="" image="">
+	<description>Viva Las Vegas (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ad5vpa" index="" image="">
+	<description>Video Poker Ace (Bellfruit) (Adder 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="b83catms" index="" image="">
+	<description>Cat &amp; Mouse (Bellfruit) (System 83)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="b83cops" index="" image="">
+	<description>Cops &amp; Robbers (Bellfruit) (System 83)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="b85cops" index="" image="">
+	<description>Cops &apos;n&apos; Robbers (Dutch) (Bellfruit) (System 85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="b85disc" index="" image="">
+	<description>Discovey (Dutch) (Bellfruit) (System 85)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="b85koc" index="" image="">
+	<description>King of Clubs (Bellfruit) (System 85, set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="c3_ppays" index="" image="">
+	<description>The Phrase That Pays (Bellfruit) (Cobra 3?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="c3_rtime" index="" image="">
+	<description>Radio Times (Bellfruit) (Cobra 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="c3_telly" index="" image="">
+	<description>Telly Addicts (Bellfruit) (Cobra 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="c3_totp" index="" image="">
+	<description>Top of the Pops (Bellfruit) (Cobra 3?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gldncrwn" index="" image="">
+	<description>Golden Crown (Dutch, Game Card 95-752-011)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="paradice" index="" image="">
+	<description>Paradice (Dutch, Game Card 95-750-615)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1995</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pokio" index="" image="">
+	<description>Pokio (Dutch, Game Card 95-750-278)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1994</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="pyramid" index="" image="">
+	<description>Pyramid (Dutch, Game Card 95-750-898)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="qntoond" index="" image="">
+	<description>Quintoon (Dutch, Game Card 95-750-243)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1993</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="quintoon" index="" image="">
+	<description>Quintoon (UK, Game Card 95-750-206)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1993</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1actv8" index="" image="">
+	<description>Active 8 (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1armad" index="" image="">
+	<description>Armada (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1barcd" index="" image="">
+	<description>Barcode (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1bartk" index="" image="">
+	<description>Bar Trek (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1bigmt" index="" image="">
+	<description>The Big Match (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1calyp" index="" image="">
+	<description>Calypso (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1carro" index="" image="">
+	<description>Carrousel (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1ccoin" index="" image="">
+	<description>Cash Coin (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cexpd" index="" image="">
+	<description>Cash Explosion (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cexpl" index="" image="">
+	<description>Cash Explosion (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1chain" index="" image="">
+	<description>Chain Reaction (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1china" index="" image="">
+	<description>China Town Club (Bellfruit) (set 2) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cl2k" index="" image="">
+	<description>Club 2000 (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cl2k1" index="" image="">
+	<description>Club 2001 (Dutch (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cl65" index="" image="">
+	<description>Club 65 Special (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1class" index="" image="">
+	<description>Classic (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clatt" index="" image="">
+	<description>Club Attraction (UK, Game Card 39-370-196)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1990</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clb3" index="" image="">
+	<description>Club 3000 (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clbdm" index="" image="">
+	<description>Club Diamond (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clbtm" index="" image="">
+	<description>Club Temptation (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clbw" index="" image="">
+	<description>Club Wise (Bellfruit) (set 2) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clbxp" index="" image="">
+	<description>Club Explosion (Bellfruit) (Scorpion 1) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clins" index="" image="">
+	<description>Cash Lines (Bellfruit) (Scorpion 1) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/PCP</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1clown" index="" image="">
+	<description>Clown Around (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1copdd" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Deluxe (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cops" index="" image="">
+	<description>Cops &apos;n&apos; Robbers (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1count" index="" image="">
+	<description>Count Cash Club (Bellfruit) (set 2) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cshat" index="" image="">
+	<description>Cash Attraction (Bellfruit) (set 5, Protocol) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cshcd" index="" image="">
+	<description>Cash Card (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cshin" index="" image="">
+	<description>Cashino (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cshwz" index="" image="">
+	<description>Cash Wise (Bellfruit) (set 2) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1cwcl" index="" image="">
+	<description>Clockwise (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1dblch" index="" image="">
+	<description>Double Chance (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1disc" index="" image="">
+	<description>Discovey (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1dream" index="" image="">
+	<description>Dream Machine (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1druby" index="" image="">
+	<description>Diamonds &amp; Rubys (Bellfruit) (Scorpion ?) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1flash" index="" image="">
+	<description>Flash (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1frpus" index="" image="">
+	<description>Fruit Pursuit (Bellfruit) (set 1) (Scorpion 1?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1fruit" index="" image="">
+	<description>Fruit Lines (Dutch) (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1funh" index="" image="">
+	<description>Fun House Club (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1goldw" index="" image="">
+	<description>Golden Winner (Bellfruit) (Scorpion ?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1gprix" index="" image="">
+	<description>Grand Prix (Dutch) (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1gslam" index="" image="">
+	<description>Grand Slam (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1gtime" index="" image="">
+	<description>Good Times (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1happy" index="" image="">
+	<description>Happy Hour (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1hipt" index="" image="">
+	<description>High Point (Bellfruit) (Scorpion 1) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1impc" index="" image="">
+	<description>Impact (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1kings" index="" image="">
+	<description>Kings Club (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1linx" index="" image="">
+	<description>Linx (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1lotus" index="" image="">
+	<description>Lotus SE (Dutch) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1988</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1magc" index="" image="">
+	<description>Magic Circle (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1manha" index="" image="">
+	<description>Manhattan (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1mast" index="" image="">
+	<description>Master Club (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1mist" index="" image="">
+	<description>Mistral (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1ofs56" index="" image="">
+	<description>Only Fools and Horses (Bellfruit) (Scorpion 1?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1olym" index="" image="">
+	<description>Olympia (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1orac" index="" image="">
+	<description>Oracle (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1pwrl" index="" image="">
+	<description>Power Lines (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1quat" index="" image="">
+	<description>Quatro (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1rain" index="" image="">
+	<description>Rainbow (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1re" index="" image="">
+	<description>Reel Cash (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1revo" index="" image="">
+	<description>Revolution (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1rose" index="" image="">
+	<description>Rose &apos;n&apos; Crown (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1roul" index="" image="">
+	<description>Roulette (Dutch, Game Card 39-360-129?)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1988</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1sant" index="" image="">
+	<description>Santana (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1sat" index="" image="">
+	<description>Satellite (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1satse" index="" image="">
+	<description>Satellite SE (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1shan" index="" image="">
+	<description>Shanghai (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1sir" index="" image="">
+	<description>Strike It Rich (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1spct" index="" image="">
+	<description>Spectre (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1ster" index="" image="">
+	<description>Sterling (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1str4" index="" image="">
+	<description>Strike 4 (Dutch) (Bellfruit) (Scorpion 1) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1strk" index="" image="">
+	<description>Strike (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1supfl" index="" image="">
+	<description>Super Flush (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1tiara" index="" image="">
+	<description>Tiara (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1torn" index="" image="">
+	<description>Tornado (Dutch) (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1tri" index="" image="">
+	<description>Tri Star (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1typ" index="" image="">
+	<description>Typhoon Club (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1ult" index="" image="">
+	<description>Ultimate (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1vent" index="" image="">
+	<description>Ventura (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1vict" index="" image="">
+	<description>Victory (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1winfl" index="" image="">
+	<description>Winfalls (Dutch) (Bellfruit) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc1winst" index="" image="">
+	<description>Winning Streak (Bellfruit) (set 1) (Scorpion 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2brkfs" index="" image="">
+	<description>The Big Breakfast (set 2) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1994</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2casr" index="" image="">
+	<description>Casino Royale (Bellfruit) (set 5, UK, 10GBP Jackpot, 3rd Triennial) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2catms" index="" image="">
+	<description>Cat &amp; Mouse (Bellfruit) (set 4, Deluxe) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cb7" index="" image="">
+	<description>Super Bar 7 Casino (Bellfruit) (set 3, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cexpl" index="" image="">
+	<description>Cash Explosion (Bellfruit) (set 2, Protocol) (Scorpion 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cgc" index="" image="">
+	<description>Carrot Gold Club (Bellfruit) (Protocol) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cgcas" index="" image="">
+	<description>Club Grand Casino (Bellfruit) (set 1) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cmbt" index="" image="">
+	<description>Cat &amp; Mouse &amp; Bonzo Too (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cnile" index="" image="">
+	<description>Cash On The Nile Club (Bellfruit) (set 2 UK, 150GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2copcl" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Club (Bellfruit) (set 9, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2copdc" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Club Deluxe (Bellfruit) (set 7, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cops" index="" image="">
+	<description>Cops &apos;n&apos; Robbers (Bellfruit) (set 6) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cpe" index="" image="">
+	<description>Club Public Enemy No.1 (set 5, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cpg" index="" image="">
+	<description>Pharaoh&apos;s Gold Club (Bellfruit) (set 2, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cshcl" index="" image="">
+	<description>Cashino Club (Bellfruit) (set 2) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2cvega" index="" image="">
+	<description>Cash Vegas (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2dbl" index="" image="">
+	<description>Double Diamond (Bellfruit) (set 2, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2dels" index="" image="">
+	<description>Del&apos;s Millions (Bellfruit) (set 9, UK, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2delsm" index="" image="">
+	<description>Del&apos;s Millions (Bellfruit/Mazooma) (DMVMAZ11_N) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/Mazooma</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2downt" index="" image="">
+	<description>Down Town (Bellfruit) (set 7, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2drwho" index="" image="">
+	<description>Dr.Who The Timelord (set 1, UK, Single Site) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1994</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2easy" index="" image="">
+	<description>Easy Money (Bellfruit) (set 1) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2eggs" index="" image="">
+	<description>Eggs On Legs Tour (Bellfruit) (set 2, UK, Arcade, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2flaca" index="" image="">
+	<description>Flash Cash (Bellfruit) (set 3, UK, 10GBP Jackpot, 3rd Triennial) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2focus" index="" image="">
+	<description>Focus (Dutch, Game Card 95-750-347) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1995</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2foot" index="" image="">
+	<description>Football Club (Bellfruit) (set 2, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2gcclb" index="" image="">
+	<description>Golden Casino Club (Bellfruit) (set 2, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2groul" index="" image="">
+	<description>Golden Roulette (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2gsclb" index="" image="">
+	<description>The Game Show Club (Bellfruit) (set 4, UK, Arcade, p65) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2gslam" index="" image="">
+	<description>Club Grand Slam (UK, set 2) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2gtr" index="" image="">
+	<description>The Great Train Robbery (Bellfruit) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2heypr" index="" image="">
+	<description>Hey Presto (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2hypr" index="" image="">
+	<description>Hyperactive (Bellfruit) (set 1, UK, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2inst" index="" image="">
+	<description>Instant Jackpot (Bellfruit) (set 6, UK, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2kcclb" index="" image="">
+	<description>King Cash Club (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2luvv" index="" image="">
+	<description>Luvvly Jubbly (set 3, UK, Multisite 10GBP/25p) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2maina" index="" image="">
+	<description>Main Attraction (Bellfruit) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2majes" index="" image="">
+	<description>Majestic Bells (Bellfruit) (set 1) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2mam" index="" image="">
+	<description>Make A Million (Bellfruit) (set 4, UK, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2mamcl" index="" image="">
+	<description>Make A Million Club (Bellfruit) (set 3, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2motd" index="" image="">
+	<description>Match Of The Day (Bellfruit) (set 9, UK, 10GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2ofool" index="" image="">
+	<description>Only Fools &amp; Horses (Bellfruit) (set 3) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2olgld" index="" image="">
+	<description>Olympic Gold (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2payr" index="" image="">
+	<description>Pay Roll Casino (Bellfruit/Mazooma) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/Mazooma</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2pe1g" index="" image="">
+	<description>Public Enemy No.1 (Bellfruit) [German] (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2prem" index="" image="">
+	<description>Premier Club Manager (Bellfruit) (set 2, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2prom" index="" image="">
+	<description>Along The Prom (Bellfruit) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2ptytm" index="" image="">
+	<description>Party Time (Bellfruit) (set 2) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2relgm" index="" image="">
+	<description>Reel Gems (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2showt" index="" image="">
+	<description>Showtime Spectacular (Bellfruit) (set 4, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2sstar" index="" image="">
+	<description>Super Star (Bellfruit) (set 2, UK, 3rd Triennial) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2suprz" index="" image="">
+	<description>Surprise Surprize (Bellfruit) (set 1, UK) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2topwk" index="" image="">
+	<description>Top Wack (Bellfruit) (set 1, UK, 10GBP Jackpot, 1st Triennial) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2town" index="" image="">
+	<description>Round The Town (Bellfruit) (set 6) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2wembl" index="" image="">
+	<description>Match Of The Day - Road To Wembley (Bellfruit) (set 8, UK, 10GBP Jackpot, 15RM motor) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2winst" index="" image="">
+	<description>Winning Streak (Bellfruit) (set 1) (Scorpion 2)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>198?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc2wwcl" index="" image="">
+	<description>Wild West Club (Bellfruit) (set 2, UK, 250GBP Jackpot) (Scorpion 2/3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>199?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc4clbtm" index="" image="">
+	<description>Club Temptation (Bellfruit) (Scorpion 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc4crcc" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Club Classic (Bellfruit) (Scorpion 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc4fcc" index="" image="">
+	<description>Firecracker Club (Bellfruit) (Scorpion 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc4ticlb" index="" image="">
+	<description>Treasure Island Club (Fixed 65%) (Bellfruit) (Scorpion 4) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3414" index="" image="">
+	<description>Bullseye Hot Arrows (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3434" index="" image="">
+	<description>Monopoly Takeover (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3435" index="" image="">
+	<description>Monopoly Street Party (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3437" index="" image="">
+	<description>Red Hot Silly Peppers Community Party (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3438" index="" image="">
+	<description>Juicy Gems Community Party (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3450" index="" image="">
+	<description>Deal or no Deal Let&apos;s Play (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3451" index="" image="">
+	<description>Deal or no Deal Gold (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3508" index="" image="">
+	<description>Club DOND Red Mist (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3510" index="" image="">
+	<description>Deal or no Deal Red Hot (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3511" index="" image="">
+	<description>Deal or no Deal Spank the Banker (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3512" index="" image="">
+	<description>Monopoly Gold (Bellfruit) (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3513" index="" image="">
+	<description>Deal or no Deal Right Deal Right Time (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3514" index="" image="">
+	<description>Deal or no Deal Rapid Round (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3515" index="" image="">
+	<description>777 Heaven (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3516" index="" image="">
+	<description>Cash Ahoy (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3517" index="" image="">
+	<description>Deal or no Deal East and West Wing (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3518" index="" image="">
+	<description>Deal or no Deal Bank On It (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3519" index="" image="">
+	<description>Deal or no Deal Eliminator (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3520" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Street Wise (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3524" index="" image="">
+	<description>Cluedo Prime Suspect (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3525" index="" image="">
+	<description>Happy Hour (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3530" index="" image="">
+	<description>Club Cash Ahoy (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3551" index="" image="">
+	<description>Deal or no Deal Seal the Deal (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3552" index="" image="">
+	<description>Snakes and Ladders (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3553" index="" image="">
+	<description>Deal or no Deal Go All the Way (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3555" index="" image="">
+	<description>Family Guy The Drunken Clam (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_3557" index="" image="">
+	<description>Deal or no Deal Live (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_z057" index="" image="">
+	<description>Quidsia (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_z058" index="" image="">
+	<description>Wok &apos;n&apos; Roll (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_z059" index="" image="">
+	<description>Aladdin (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5_z060" index="" image="">
+	<description>Hard Dk (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5adga" index="" image="">
+	<description>Ant &amp; Dec&apos;s Grab The Ads (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5adgtc" index="" image="">
+	<description>Ant &amp; Dec&apos;s Grab The Cash (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5adjb" index="" image="">
+	<description>Ant &amp; Dec&apos;s Jiggy Bank (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5adsnt" index="" image="">
+	<description>Ant &amp; Dec&apos;s Saturday Night Takeaway (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5adwta" index="" image="">
+	<description>Ant &amp; Dec&apos;s Saturday Night Takeaway Win The Ads (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bar7" index="" image="">
+	<description>Bar 7&apos;s (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5batl" index="" image="">
+	<description>Battleships &amp; Cruisers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bjob" index="" image="">
+	<description>Bank Job (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bpb" index="" image="">
+	<description>Bully&apos;s Prize Board (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bpfpb" index="" image="">
+	<description>Bullseye Pounds For Points (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bsp" index="" image="">
+	<description>Bully&apos;s Star Prize (PR3010) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5btiab" index="" image="">
+	<description>Bullseye Three In A Bed (Bellfruit) (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5btrip" index="" image="">
+	<description>Bullseye Triple (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bucc" index="" image="">
+	<description>Buccaneers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bull" index="" image="">
+	<description>Bullseye (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5bull5" index="" image="">
+	<description>Bullseye 5 Reels (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5butch" index="" image="">
+	<description>Butch Cashidy &amp; The Sundance Quid (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cblas" index="" image="">
+	<description>Cash Blast (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cbrun" index="" image="">
+	<description>Cannonball Run (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5celeb" index="" image="">
+	<description>I&apos;m A Celebrity (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cfact" index="" image="">
+	<description>Cash Factor (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cfcp" index="" image="">
+	<description>Crazy Fruits Community Party (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cfnc" index="" image="">
+	<description>Crazy Fruit &amp; Nutcase (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cfpt" index="" image="">
+	<description>Crazy Fruits Casino Party Time (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5chain" index="" image="">
+	<description>Chain Reaction (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5chavi" index="" image="">
+	<description>Chav It (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cj" index="" image="">
+	<description>Cool Jewels (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cknig" index="" image="">
+	<description>Crazy Knights (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5clnot" index="" image="">
+	<description>Cluedo Notorious (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5clown" index="" image="">
+	<description>Clown Around (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cmani" index="" image="">
+	<description>Colour Mania (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5colmo" index="" image="">
+	<description>Colour Of Money (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5copsr" index="" image="">
+	<description>Cops &apos;n&apos; Robbers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5corst" index="" image="">
+	<description>Coronation Street (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5count" index="" image="">
+	<description>Countdown (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cpays" index="" image="">
+	<description>Crazy Pays (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cpen1" index="" image="">
+	<description>Public Enemy No1 Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crcpt" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Community Party (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crnjw" index="" image="">
+	<description>Crown Jewels (PR1608) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>2004</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crotr" index="" image="">
+	<description>Cops &apos;n&apos; Robbers On The Run (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crsc" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Safe Cracker (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crsgc" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Smash &apos;n&apos; Grab Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5crsgr" index="" image="">
+	<description>Cops &apos;n&apos; Robbers Smash &apos;n&apos; Grab (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ctit" index="" image="">
+	<description>Cash Of The Titans (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ctl" index="" image="">
+	<description>Cop The Lot (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5cvega" index="" image="">
+	<description>Cash Vegas (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ddbbc" index="" image="">
+	<description>Deal Or No Deal Beat The Banker Casino (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ddosh" index="" image="">
+	<description>Doctor Dosh (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ddply" index="" image="">
+	<description>Deal Or No Deal Player&apos;s Choice (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ddptg" index="" image="">
+	<description>Deal Or No Deal Play The Game (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dhh" index="" image="">
+	<description>Dough Ho Ho (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dmine" index="" image="">
+	<description>Diamond Mine (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>2002</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnd" index="" image="">
+	<description>Deal Or No Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbb" index="" image="">
+	<description>Deal Or No Deal Break The Bank (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbc" index="" image="">
+	<description>Deal Or No Deal Box Clever (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbd" index="" image="">
+	<description>Deal Or No Deal The Big Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbe" index="" image="">
+	<description>Deal Or No Deal Beat The Banker (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbl" index="" image="">
+	<description>Deal Or No Deal Beat The Banker Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbo" index="" image="">
+	<description>Deal Or No Deal Banker&apos;s Bonus (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndbr" index="" image="">
+	<description>Deal Or No Deal The Big Reds (PR3011) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndc2" index="" image="">
+	<description>Deal Or No Deal Casino (PR1964) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndc3" index="" image="">
+	<description>Deal Or No Deal Casino (PR1965) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndca" index="" image="">
+	<description>Deal Or No Deal The Crazy Chair Arcade (PR3250) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndcb" index="" image="">
+	<description>Deal Or No Deal Club Beat The Banker (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndcc" index="" image="">
+	<description>Deal Or No Deal The Crazy Chair (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndcl" index="" image="">
+	<description>Deal Or No Deal Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndcr" index="" image="">
+	<description>Deal Or No Deal Cops &apos;n&apos; Robbers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndcs" index="" image="">
+	<description>Deal Or No Deal Casino (PR1954) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddd" index="" image="">
+	<description>Deal Or No Deal Double Deal Or No Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndde" index="" image="">
+	<description>Deal Or No Deal Desert Island Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddf" index="" image="">
+	<description>Deal Or No Deal The Dream Factory (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddi" index="" image="">
+	<description>Deal Or No Deal Diamond (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddo" index="" image="">
+	<description>Deal Or No Deal Dream Offer (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddt" index="" image="">
+	<description>Deal Or No Deal Double Take (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dnddw" index="" image="">
+	<description>Deal Or No Deal The Deal Wheel (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndfl" index="" image="">
+	<description>Deal Or No Deal Feeling Lucky (PR3432) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndgl" index="" image="">
+	<description>Deal Or No Deal Gold (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndgo" index="" image="">
+	<description>Deal Or No Deal Game On (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndhf" index="" image="">
+	<description>Deal Or No Deal Hall Of Fame (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndld" index="" image="">
+	<description>Deal Or No Deal Live The Dream (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndlp" index="" image="">
+	<description>Deal Or No Deal Let&apos;s Play Deal Or No Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndmb" index="" image="">
+	<description>Deal Or No Deal Make Or Break (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndmd" index="" image="">
+	<description>Deal Or No Deal Mega Deal Or No Deal (PR3411) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndpa" index="" image="">
+	<description>Deal Or No Deal Play It Again (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndpc" index="" image="">
+	<description>Deal Or No Deal The Players Choice (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndpd" index="" image="">
+	<description>Deal Or No Deal The Perfect Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndpg" index="" image="">
+	<description>Deal Or No Deal The Perfect Game (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndpl" index="" image="">
+	<description>Deal Or No Deal The Perfect Game Classic (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndra" index="" image="">
+	<description>Deal Or No Deal Red Alert (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndrr" index="" image="">
+	<description>Deal Or No Deal Road To Riches (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndrt" index="" image="">
+	<description>Deal Or No Deal The Banker Rings Twice (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndsi" index="" image="">
+	<description>Deal Or No Deal Simply Deal Or No Deal (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndtb" index="" image="">
+	<description>Deal Or No Deal Think Big (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndtp" index="" image="">
+	<description>Deal Or No Deal The Power (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndtr" index="" image="">
+	<description>Deal Or No Deal Think Red (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndwb" index="" image="">
+	<description>Deal Or No Deal What&apos;s In Your Box (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndwc" index="" image="">
+	<description>Deal Or No Deal The Walk Of Wealth Classic (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndwi" index="" image="">
+	<description>Deal Or No Deal What&apos;s In Your Box Casino (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndww" index="" image="">
+	<description>Deal Or No Deal The Walk Of Wealth (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dndys" index="" image="">
+	<description>Deal Or No Deal It&apos;s Your Show (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dough" index="" image="">
+	<description>Dough Selecta (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5dracp" index="" image="">
+	<description>Drac Pack (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fbspn" index="" image="">
+	<description>Fat Boy Spin (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fdice" index="" image="">
+	<description>Fire &apos;n&apos; Dice (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fgbh" index="" image="">
+	<description>Family Guy Booze Hound (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fggp" index="" image="">
+	<description>Family Guy Griffin Plumbing (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fguy" index="" image="">
+	<description>Family Guy (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fires" index="" image="">
+	<description>Firestarter (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5fnclb" index="" image="">
+	<description>Fight Night Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gball" index="" image="">
+	<description>Golden Balls (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gd" index="" image="">
+	<description>Gold Digger (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gdclb" index="" image="">
+	<description>Gold Digger Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gldfv" index="" image="">
+	<description>Gold Fever (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gldgo" index="" image="">
+	<description>Golden Goals (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gmclb" index="" image="">
+	<description>Grand Master Cash (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5grq" index="" image="">
+	<description>Get Rich Quick (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5gunp" index="" image="">
+	<description>Gunpowder Slot (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hapnt" index="" image="">
+	<description>Happy Notes (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hellb" index="" image="">
+	<description>Hells Bells (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hill" index="" image="">
+	<description>Hill Billionaire (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hog" index="" image="">
+	<description>Road Hog (PR3208) (Bellfruit) (Scorpion 5) (set 3)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hotdg" index="" image="">
+	<description>Hot Dog (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hotrd" index="" image="">
+	<description>Hot Rod (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hotsh" index="" image="">
+	<description>Hot Shot (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hotwd" index="" image="">
+	<description>Hot Wad (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5hulk" index="" image="">
+	<description>The Hulk (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5jjok" index="" image="">
+	<description>Jackpot Jokers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5kingx" index="" image="">
+	<description>King X (PR2077) (Mazooma) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5lotrr" index="" image="">
+	<description>Lord Of The Rings - Return Of The King (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5manic" index="" image="">
+	<description>Manic Miner (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mdm" index="" image="">
+	<description>Monopoly Double Money (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mhp" index="" image="">
+	<description>Monopoly Hot Property (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mmb" index="" image="">
+	<description>Monopoly Money Bags (PR3413) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mobob" index="" image="">
+	<description>Monopoly Boom Or Bust Classic (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mogta" index="" image="">
+	<description>Monopoly Go To Auction (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mombc" index="" image="">
+	<description>Monopoly Money Bags Club (PR1945) (BFM) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5momil" index="" image="">
+	<description>Monopoly Millionaire (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5monsp" index="" image="">
+	<description>Money Spinner (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5mopl" index="" image="">
+	<description>Monopoly Property Ladder (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5newcm" index="" image="">
+	<description>The Colour Of Money New (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5nmare" index="" image="">
+	<description>A Nightmare On Elm Street (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5nunsb" index="" image="">
+	<description>Nuns &apos;n&apos; Roses (Bellfruit) (Scorpion 5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5parot" index="" image="">
+	<description>Parrots Of The Caribbean (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5pircl" index="" image="">
+	<description>The Prize Is Right Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5pog" index="" image="">
+	<description>Pots Of Gold (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5pompa" index="" image="">
+	<description>Up Pompay (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5pony" index="" image="">
+	<description>Pony Express (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5potp" index="" image="">
+	<description>Pick Of The Pack (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>2005</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ppctc" index="" image="">
+	<description>Pink Panther Crack The Code (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5pwrbl" index="" image="">
+	<description>Powerball (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5qual" index="" image="">
+	<description>Quality Streak (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5rainb" index="" image="">
+	<description>Over The Rainbow (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5rhclb" index="" image="">
+	<description>Road Hog Club (PR3248) (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5rosts" index="" image="">
+	<description>Ronnie O&apos;Sullivan&apos;s Tournament Snooker (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5sbull" index="" image="">
+	<description>Super Bullseye (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5sfts" index="" image="">
+	<description>Shoot For The Stars (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5showt" index="" image="">
+	<description>Showtime (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5sitwi" index="" image="">
+	<description>Spin It To Win It (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5slad" index="" image="">
+	<description>Snakes &amp; Ladders (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5spice" index="" image="">
+	<description>Spice It Up (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5srace" index="" image="">
+	<description>Streak Racer (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5srrcl" index="" image="">
+	<description>Snake Rattle &apos;n&apos; Roll Club (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5tsmp" index="" image="">
+	<description>Trick Shot Multi Player (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5ttpie" index="" image="">
+	<description>Take The Piece (Bellfruit) (PR1714) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5typ" index="" image="">
+	<description>Take Your Pick (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5viper" index="" image="">
+	<description>Viper Active (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5vivam" index="" image="">
+	<description>Viva Mexico (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5wacky" index="" image="">
+	<description>Wacky Racers (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sc5wok" index="" image="">
+	<description>Wok n&apos; Roll (Bellfruit) (Scorpion 5) (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM</manufacturer>
+	<year>200?</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="slotsnl" index="" image="">
+	<description>Slots (Dutch, Game Card 95-750-368)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1995</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sltblgpo" index="" image="">
+	<description>Slots (Belgian Cash, Game Card 95-750-938)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sltblgtk" index="" image="">
+	<description>Slots (Belgian Token, Game Card 95-750-943)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>BFM/ELAM</manufacturer>
+	<year>1996</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

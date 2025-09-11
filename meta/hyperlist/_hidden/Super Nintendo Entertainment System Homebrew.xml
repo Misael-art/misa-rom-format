@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>snes-new-super-mario-land</identifier>
+  <mediatype>software</mediatype>
+  <collection>open_source_software</collection>
+  <collection>community</collection>
+  <date>2019-11-20</date>
+  <description>&lt;div&gt;New Super Mario Land is a homebrew port of the Game Boy title Super Mario Land to the Super Famicom/Super Nintendo.&lt;/div&gt;&lt;div&gt;It features the aesthetics of the New Super Mario Bros series and a four player simultaneous multiplayer mode.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;To commemorate the 30th anniversary of Super Mario Land, the game was given away on 30 Nintendo Power cartridges in 2019.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;The version available here features vastly improved gameplay, performance and music (courtesy of Nikku4211, KungFuFurby, _aitchFactor and reflex) over that initial release.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Changelog:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.5:&lt;/div&gt;&lt;div&gt;-Fixed sprite glitches on certain SNES models (thanks to information from Near)&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.4:&lt;/div&gt;&lt;div&gt;-Improved performance overall: less slowdown, less single frame drops&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.3:&lt;/div&gt;&lt;div&gt;-Added new/improved music by Nikku4211, KungFuFurby, _aitchFactor, reflex&lt;/div&gt;&lt;div&gt;-Improved music player: added echo, 6-channel music, less clicks &amp; pops&lt;br /&gt;&lt;/div&gt;&lt;div&gt;-Completely rewrote player handling, now more similar to Mario World including jump regrab&lt;/div&gt;&lt;div&gt;-Completely rewrote collision detection&lt;br /&gt;&lt;/div&gt;&lt;div&gt;-Added/improved player animations (Superball mode, super jump)&lt;/div&gt;&lt;div&gt;-Various bugfixes&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.2:&lt;/div&gt;&lt;div&gt;-Improved player controls&lt;br /&gt;&lt;/div&gt;&lt;div&gt;-Various bugfixes&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.1:&lt;/div&gt;&lt;div&gt;-Toned down player jump sound effects&lt;/div&gt;&lt;div&gt;-Various bugfixes&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;v1.0:&lt;/div&gt;&lt;div&gt;-Initial release&lt;br /&gt;&lt;/div&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>SNES</subject>
+  <subject>Super Nintendo</subject>
+  <subject>SFC</subject>
+  <subject>Super Famicom</subject>
+  <subject>Homebrew</subject>
+  <subject>Fangame</subject>
+  <title>New Super Mario Land (J) (SNES)</title>
+  <uploader>DottyFlowers@gmx.ch</uploader>
+  <publicdate>2021-02-09 20:58:55</publicdate>
+  <addeddate>2021-02-09 20:58:55</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20210209210456[/date][comment]checked for malware[/comment]</curation>
+  <year>2019</year>
+</metadata>

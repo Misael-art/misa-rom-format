@@ -1,0 +1,723 @@
+﻿<menu>
+        <game name="acedrvrw">
+                <description>Ace Driver: Racing Evolution</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Driving / Race 1st Person</genre>
+        </game>
+        <game name="victlapw">
+                <description>Ace Driver: Victory Lap</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="aliensec">
+                <description>Alien Sector</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="alpinerd">
+                <description>Alpine Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Skiing</genre>
+        </game>
+        <game name="alpinr2b">
+                <description>Alpine Racer 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Skiing</genre>
+        </game>
+        <game name="aquajet">
+                <description>Aqua Jet</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Boat</genre>
+        </game>
+        <game name="adillor">
+                <description>Armadillo Racing</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1997</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="assault">
+                <description>Assault</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Driving</genre>
+        </game>
+        <game name="bakutotu">
+                <description>Bakutotsu Kijuutei</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="bombbee">
+                <description>Bomb Bee</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1979</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="bosco">
+                <description>Bosconian - Star Destroyer</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="boxyboy">
+                <description>Boxy Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Blocks</genre>
+        </game>
+        <game name="bubbletr">
+                <description>Bubble Trouble - Golly! Ghost! 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="cgangpzl">
+                <description>Cosmo Gang the Puzzle</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="cosmogng">
+                <description>Cosmo Gang the Video</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="cutieq">
+                <description>Cutie Q</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1979</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="cybrcycc">
+                <description>Cyber Cycles</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="digdug">
+                <description>Dig Dug</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Digging</genre>
+        </game>
+        <game name="digdug2">
+                <description>Dig Dug II</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="drgnbstr">
+                <description>Dragon Buster</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="dsaber">
+                <description>Dragon Saber</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="dspirit">
+                <description>Dragon Spirit)</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="emeralda">
+                <description>Emeraldia</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1993</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="exvania">
+                <description>Exvania</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Maze / Fighter</genre>
+        </game>
+        <game name="fghtatck">
+                <description>Fighter   Attacker</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="finallap">
+                <description>Final Lap</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="finalap2">
+                <description>Final Lap 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="finalap3">
+                <description>Final Lap 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="finalapr">
+                <description>Final Lap R</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="fourtrax">
+                <description>Four Trax</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1989</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="funcube">
+                <description>Funcube</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>2000</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="funcube2">
+                <description>Funcube 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>2001</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="funcube3">
+                <description>Funcube 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>2001</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="funcube4">
+                <description>Funcube 4</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>2001</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="funcube5">
+                <description>Funcube 5</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>2002</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="galaga88">
+                <description>Galaga '88</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="galaga">
+                <description>Galaga</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="galaxian">
+                <description>Galaxian</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="galgame2">
+                <description>Galaxy Games StarPak 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Creative Electronics   Software</manufacturer>
+                <year>1998</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="gaplus">
+                <description>Gaplus</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="genpeitd">
+                <description>Genpei ToumaDen</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="gollygho">
+                <description>Golly! Ghost!</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="gslgr94u">
+                <description>Great Sluggers '94</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="grobda">
+                <description>Grobda</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="hopmappy">
+                <description>Hopping Mappy</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="kingball">
+                <description>King   Balloon</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="knckhead">
+                <description>Knuckle Heads</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="kungfur">
+                <description>Kung-Fu Roushi</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Misc. / Response Time</genre>
+        </game>
+        <game name="liblrabl">
+                <description>Libble Rabble</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1983</year>
+                <genre>Puzzle / Outline</genre>
+        </game>
+        <game name="luckywld">
+                <description>Lucky   Wild</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="machbrkr">
+                <description>Mach Breakers</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="mappy">
+                <description>Mappy</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="metlhawk">
+                <description>Metal Hawk</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="metrocrs">
+                <description>Metro-Cross</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="motos">
+                <description>Motos</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="ncv1">
+                <description>Namco Classic Collection Vol.1</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="navarone">
+                <description>Navarone</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="nebulray">
+                <description>Nebulas Ray</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="nrallyx">
+                <description>New Rally X</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="numanath">
+                <description>Numan Athletics</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="ordyne">
+                <description>Ordyne</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="pacnpal">
+                <description>Pac   Pal</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="paclandp">
+                <description>Pac-Land</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="pacland">
+                <description>Pac-Land</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="pacmania">
+                <description>Pac-Mania</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="phelios">
+                <description>Phelios</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ptblank">
+                <description>Point Blank</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="polepos">
+                <description>Pole Position</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="propcycl">
+                <description>Prop Cycle</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Hang Gliding</genre>
+        </game>
+        <game name="rallyx">
+                <description>Rally X</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1980</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="raveracw">
+                <description>Rave Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="ridgerac">
+                <description>Ridge Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1993</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="ridgera2">
+                <description>Ridge Racer 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="rthunder">
+                <description>Rolling Thunder</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="rthun2">
+                <description>Rolling Thunder 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="shadowld">
+                <description>Shadowland</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="skykid">
+                <description>Sky Kid</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="skykiddx">
+                <description>Sky Kid Deluxe</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="invqix">
+                <description>Space Invaders / Qix Silver Anniversary Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito</manufacturer>
+                <year>2003</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="speedrcr">
+                <description>Speed Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="splatter">
+                <description>Splatter House)</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="starblad">
+                <description>Starblade</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="sgunner">
+                <description>Steel Gunner</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="sgunner2">
+                <description>Steel Gunner 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="superpac">
+                <description>Super Pac-Man</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="swcourt">
+                <description>Super World Court</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Sports / Tennis</genre>
+        </game>
+        <game name="suzuka8h">
+                <description>Suzuka 8 Hours</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="suzuk8h2">
+                <description>Suzuka 8 Hours 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1993</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="tankbatt">
+                <description>Tank Battalion</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1980</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="tankfrce">
+                <description>Tank Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1991</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="outfxies">
+                <description>The Outfoxies</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="roishtar">
+                <description>The Return of Ishtar</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Fighter</genre>
+        </game>
+        <game name="todruaga">
+                <description>The Tower of Druaga</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="tceptor">
+                <description>Thunder Ceptor</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="timecris">
+                <description>Time Crisis</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="tokyowar">
+                <description>Tokyo Wars</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Driving (chase view)</genre>
+        </game>
+        <game name="toypop">
+                <description>Toypop</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="turrett">
+                <description>Turret Tower</description>
+                <cloneof></cloneof>
+                <manufacturer>Dell Electronics (Namco license)</manufacturer>
+                <year>2001</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="tx1">
+                <description>TX-1</description>
+                <cloneof></cloneof>
+                <manufacturer>Tatsumi (Atari</manufacturer>
+                <year>1983</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="warpwarp">
+                <description>Warp   Warp</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Misc.</genre>
+        </game>
+        <game name="winrun">
+                <description>Winning Run</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1988</year>
+                <genre>Driving / Race 1st Person</genre>
+        </game>
+        <game name="wndrmomo">
+                <description>Wonder Momo</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1987</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="xevious">
+                <description>Xevious</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+</menu>

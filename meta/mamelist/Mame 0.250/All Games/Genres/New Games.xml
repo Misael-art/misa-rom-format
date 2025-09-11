@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mame 0.250 / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="bbbingot" index="" image="">
+	<description>Bin Bin Bingo (Japan, terminal)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="goldenchip" index="" image="">
+	<description>Golden Chip</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SegaSA / Sonic</manufacturer>
+	<year>19??</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="hkittymp" index="" image="">
+	<description>Hello Kitty Magical Pumpkin (Japan 960712)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1996</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ibara" index="" image="">
+	<description>Ibara (2005/03/22 MASTER VER.., &apos;06. 3. 7 ver.)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (AMI license)</manufacturer>
+	<year>2005</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kbottom9" index="" image="">
+	<description>Bottom of the Ninth (handheld)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1989</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="nbapbp" index="" image="">
+	<description>NBA Play By Play (ver UAB)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="netchu02c" index="" image="">
+	<description>Netchuu Pro Yakyuu 2002 (NPY1 Ver. C)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2002</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tmegaman3" index="" image="">
+	<description>Mega Man 3 (Tiger)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Tiger Electronics (licensed from Capcom)</manufacturer>
+	<year>1991</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tsimquest" index="" image="">
+	<description>Castlevania II: Simon&apos;s Quest (Tiger)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Tiger Electronics (licensed from Konami)</manufacturer>
+	<year>1989</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="unkhockey" index="" image="">
+	<description>unknown Sega air hockey game</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>199?</year>
+	<genre>New</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

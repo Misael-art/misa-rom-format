@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Mini-Games / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="salmankt" index="" image="">
+	<description>Net@Select: Salaryman Kintaro</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Yuki Enterprise / Sammy</manufacturer>
+	<year>2004</year>
+	<genre>Mini-Games</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

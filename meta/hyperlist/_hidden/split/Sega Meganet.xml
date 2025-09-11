@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu>
+<game name="Aworg (Japan)" index="true" image="a">
+	<description>Aworg (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hyper Marbles (Japan)" index="true" image="h">
+	<description>Hyper Marbles (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ikasuze! Koi no Doki Doki Penguin Land MD (Japan)" index="true" image="i">
+	<description>Ikasuze! Koi no Doki Doki Penguin Land MD (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kiss Shot (Japan)" index="true" image="k">
+	<description>Kiss Shot (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Medal City (Japan)" index="true" image="m">
+	<description>Medal City (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="MegaMind (Japan)" index="" image="">
+	<description>MegaMind (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="MegaNet (Brazil)" index="" image="">
+	<description>MegaNet (Brazil)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Paddle Fighter (Japan)" index="true" image="p">
+	<description>Paddle Fighter (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Amia's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Amia's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Anne's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Anne's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Huey's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Huey's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Kinds's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Kinds's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Nei's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Nei's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Rudger's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Rudger's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Shilka's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Shilka's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star II - Yushis's Adventure (Japan)" index="" image="">
+	<description>Phantasy Star II - Yushis's Adventure (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Putter Golf (Japan)" index="" image="">
+	<description>Putter Golf (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pyramid Magic (Japan)" index="" image="">
+	<description>Pyramid Magic (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pyramid Magic II (Japan)" index="" image="">
+	<description>Pyramid Magic II (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pyramid Magic III (Japan)" index="" image="">
+	<description>Pyramid Magic III (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pyramid Magic Special (Japan)" index="" image="">
+	<description>Pyramid Magic Special (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Riddle Wired (Japan)" index="true" image="r">
+	<description>Riddle Wired (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Robot Battler (Japan)" index="" image="">
+	<description>Robot Battler (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shi no Meikyuu - Labyrinth of Death (Japan)" index="true" image="s">
+	<description>Shi no Meikyuu - Labyrinth of Death (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Eraser (Japan)" index="" image="">
+	<description>Sonic Eraser (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Teddy Boy Blues (Japan)" index="true" image="t">
+	<description>Teddy Boy Blues (Japan)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+</menu>

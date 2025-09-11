@@ -1,0 +1,26 @@
+{
+  "database_path": "data/megaemu.db",
+  "backup_enabled": true,
+  "backup_interval_hours": 24,
+  "max_backups": 10,
+  "pool": {
+    "max_connections": 20,
+    "timeout": 30.0,
+    "health_check_interval": 300
+  },
+  "retry": {
+    "max_attempts": 5,
+    "base_delay": 0.5,
+    "max_delay": 10.0,
+    "jitter": true,
+    "exponential_base": 2.0
+  },
+  "cache_size": 20000,
+  "synchronous": "normal",
+  "temp_store": "memory",
+  "log_queries": false,
+  "log_slow_queries": true,
+  "slow_query_threshold": 1.0,
+  "metrics_enabled": true,
+  "health_check_interval": 300
+}

@@ -1,0 +1,988 @@
+﻿<menu>
+  <header>
+    <listname>Sega Master System Pt-Br</listname>
+    <lastlistupdate>2016-09-25T00:00:00-03:00</lastlistupdate>
+    <listversion></listversion>
+    <exporterversion>HyperSpin List Maker v0.1 Copywrite (c) 2011 Peter Yuncken</exporterversion>
+  </header>
+  <game name="Aerial Assault (USA) (Translated PtBr)" index="true" image="a">
+    <description>Aerial Assault (USA)</description>
+    <cloneof></cloneof>
+    <crc>15576613</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Air Rescue (Europe) (Translated PtBr)" index="true" image="a">
+    <description>Air Rescue (Europe)</description>
+    <cloneof></cloneof>
+    <crc>8B43D21D</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Aladdin (Europe) (Translated PtBr)" index="true" image="a">
+    <description>Aladdin (Europe)</description>
+    <cloneof></cloneof>
+    <crc>C8718D40</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Alex Kidd - High-Tech World (USA, Europe) (Translated PtBr)" index="true" image="a">
+    <description>Alex Kidd - High-Tech World (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>013C0A94</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Alex Kidd in Miracle World (USA, Europe) (v1.0) (Translated PtBr)" index="true" image="a">
+    <description>Alex Kidd in Miracle World (USA, Europe) (v1.0)</description>
+    <cloneof></cloneof>
+    <crc>AED9AAC4</crc>
+		<manufacturer>Sega | Tradutor : Urbano Pereira da Silva</manufacturer>
+    <year>1986</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Alex Kidd in Shinobi World (USA, Europe) (Translated PtBr)" index="true" image="a">
+    <description>Alex Kidd in Shinobi World (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>D2417ED7</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Andre Agassi Tennis (Europe) (Translated PtBr)" index="true" image="a">
+    <description>Andre Agassi Tennis (Europe)</description>
+    <cloneof></cloneof>
+    <crc>F499034D</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre>Sports/Tennis</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ayrton Senna's Super Monaco GP II (Europe) (Translated PtBr)" index="true" image="a">
+    <description>Ayrton Senna's Super Monaco GP II (Europe)</description>
+    <cloneof></cloneof>
+    <crc>E890331D</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre>Driving</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Blade Eagle (World) (Translated PtBr)" index="true" image="b">
+    <description>Blade Eagle (World)</description>
+    <cloneof></cloneof>
+    <crc>8ECD201C</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomber Raid (World) (Translated PtBr)" index="true" image="b">
+    <description>Bomber Raid (World)</description>
+    <cloneof></cloneof>
+    <crc>3084CF11</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1988</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bram Stoker's Dracula (Europe) (Translated PtBr)" index="" image="">
+    <description>Bram Stoker's Dracula (Europe)</description>
+    <cloneof></cloneof>
+    <crc>1B10A951</crc>
+    <manufacturer>Sony Imagesoft</manufacturer>
+    <year>1993</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="California Games (USA, Europe)" index="true" image="c">
+    <description>California Games (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>AC6009A7</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre>Sports</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Castle of Illusion Starring Mickey Mouse (USA) (Translated PtBr)" index="" image="">
+    <description>Castle of Illusion Starring Mickey Mouse (USA)</description>
+    <cloneof></cloneof>
+    <crc>B9DB4282</crc>
+	<manufacturer>Sega | Tradutor - Renix</manufacturer>
+    <year>1989</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Choplifter (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Choplifter (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>4A21C15F</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cloud Master (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Cloud Master (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>E7F62E6D</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Columns (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Columns (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>665FDA92</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Puzzle</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cyborg Hunter (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Cyborg Hunter (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>908E7524</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1988</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)" index="true" image="d">
+    <description>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</description>
+    <cloneof></cloneof>
+    <crc>71ABEF27</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (Europe) (Translated PtBr)" index="" image="">
+    <description>Dragon - The Bruce Lee Story (Europe)</description>
+    <cloneof></cloneof>
+    <crc>C88A5064</crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Enduro Racer (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Enduro Racer (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>00E73541</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre>Motorcycle</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="E-SWAT - City Under Siege (USA, Europe) (Hard Version)" index="true" image="e">
+    <description>E-SWAT - City Under Siege (USA, Europe) (Hard Version)</description>
+    <cloneof></cloneof>
+    <crc>C10FCE39</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gain Ground (Europe) (Translated PtBr)" index="" image="">
+    <description>Gain Ground (Europe)</description>
+    <cloneof></cloneof>
+    <crc>3EC5E627</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ghost House (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Ghost House (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>F1F8FF2D</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ghouls'n Ghosts (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Ghouls'n Ghosts (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>7A92EBA6</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Golden Axe Warrior (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Golden Axe Warrior (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>C7DED988</crc>
+	<manufacturer>Sega | Tradutor - Grupo: CBT</manufacturer>
+    <year>1991</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Golvellius (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Golvellius (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>A51376FE</crc>
+	<manufacturer>Sega | Tradutor - Grupo: emutrans</manufacturer>
+    <year>1988</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hang-On (Europe) (Translated PtBr)" index="" image="">
+    <description>Hang-On (Europe)</description>
+    <cloneof></cloneof>
+    <crc>071B045E</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre>Motorcycle</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="James Bond 007 - The Duel (Europe) (Translated PtBr)" index="" image="">
+    <description>James Bond 007 - The Duel (Europe)</description>
+    <cloneof></cloneof>
+    <crc>8D23587F</crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1993</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jungle Book, The (Europe) (Translated PtBr)" index="" image="">
+    <description>Jungle Book, The (Europe)</description>
+    <cloneof></cloneof>
+    <crc>695A9A15</crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kenseiden (USA, Europe)" index="true" image="k">
+    <description>Kenseiden (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>516ED32E</crc>
+	<manufacturer>Sega | Tradutor - Grupo: DEVILFOX / PO.B.R.E.</manufacturer>
+    <year>1988</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lord of the Sword (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Lord of the Sword (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>E8511B08</crc>
+    <manufacturer>Sega | Tradutor - Aka Darkbelmonte</manufacturer>
+    <year>1989</year>
+    <genre>Adventure</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lucky Dime Caper Starring Donald Duck, The (Europe) (Translated PtBr)" index="" image="">
+    <description>Lucky Dime Caper Starring Donald Duck, The (Europe)</description>
+    <cloneof></cloneof>
+    <crc>A1710F13</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Master of Darkness (Europe) (Translated PtBr)" index="" image="">
+    <description>Master of Darkness (Europe)</description>
+    <cloneof></cloneof>
+    <crc>96FB4D4B</crc>
+	<manufacturer>Sega | Tradutor - Kratos-AM</manufacturer>
+    <year>1992</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat (Europe) (Translated PtBr)" index="" image="">
+    <description>Mortal Kombat (Europe)</description>
+    <cloneof></cloneof>
+    <crc>302DC686</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1993</year>
+    <genre>Fighter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ninja Gaiden (Europe) (Translated PtBr)" index="" image="">
+    <description>Ninja Gaiden (Europe)</description>
+    <cloneof></cloneof>
+    <crc>1B1D8CC2</crc>
+	<manufacturer>Sega | Tradutor - Grupo: DEVILFOX / PO.B.R.E.</manufacturer>
+    <year>1988</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Out Run (World) (Translated PtBr)" index="" image="">
+    <description>Out Run (World)</description>
+    <cloneof></cloneof>
+    <crc>5589D8D2</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre>Driving</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Phantasy Star (USA, Europe) (v1.2) (Translated PtBr)" index="" image="">
+    <description>Phantasy Star (USA, Europe) (v1.2)</description>
+    <cloneof></cloneof>
+    <crc>00BEF1D7</crc>
+	<manufacturer>Tengen | Tradutor - Lord Dracon</manufacturer>
+    <year>1988</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Psychic World (Europe) (Translated PtBr)" index="" image="">
+    <description>Psychic World (Europe)</description>
+    <cloneof></cloneof>
+    <crc>5C0B1F0F</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="R.C. Grand Prix (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>R.C. Grand Prix (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>54316FEA</crc>
+    <manufacturer>Seismic</manufacturer>
+    <year>1989</year>
+    <genre>Driving</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Renegade (Europe) (Translated PtBr)" index="" image="">
+    <description>Renegade (Europe)</description>
+    <cloneof></cloneof>
+    <crc>3BE7F641</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="R-Type (World)" index="true" image="r">
+    <description>R-Type (World)</description>
+    <cloneof></cloneof>
+    <crc>BB54B6B0</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sega Chess (Europe) (Translated PtBr)" index="" image="">
+    <description>Sega Chess (Europe)</description>
+    <cloneof></cloneof>
+    <crc>A8061AEF</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Board Games</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shinobi (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Shinobi (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>0C6FAC4E</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Streets of Rage (Europe) (Translated PtBr)" index="" image="">
+    <description>Streets of Rage (Europe)</description>
+    <cloneof></cloneof>
+    <crc>4AB3790F</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Strider (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Strider (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>9802ED31</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Superman - The Man of Steel (Europe) (Translated PtBr)" index="" image="">
+    <description>Superman - The Man of Steel (Europe)</description>
+    <cloneof></cloneof>
+    <crc>6F9AC98F</crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Taz-Mania (Prototype) (Translated PtBr)" index="" image="">
+    <description>Taz-Mania (Europe)</description>
+    <cloneof></cloneof>
+    <crc>7CC3E837</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Time Soldiers (USA, Europe) (Translated PtBr)" index="" image="">
+    <description>Time Soldiers (USA, Europe)</description>
+    <cloneof></cloneof>
+    <crc>51BD14BE</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tom and Jerry - The Movie (Europe) (Translated PtBr)" index="" image="">
+    <description>Tom and Jerry - The Movie (Europe)</description>
+    <cloneof></cloneof>
+    <crc>BF7B7285</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="World Cup Italia '90 (Europe) (Translated PtBr)" index="" image="">
+    <description>World Cup Italia '90 (Europe)</description>
+    <cloneof></cloneof>
+    <crc>6E1AD6FD</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre>Soccer/Sports</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Zillion (Europe) (v1.2) (Translated PtBr)" index="" image="">
+    <description>Zillion (Europe) (v1.2)</description>
+    <cloneof></cloneof>
+    <crc>7BA54510</crc>
+	<manufacturer>Sega | Tradutor - P.O.B.R.E</manufacturer>
+    <year>1987</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Zillion II - The Tri Formation (World) (Translated PtBr)" index="" image="">
+    <description>Zillion II - The Tri Formation (World)</description>
+    <cloneof></cloneof>
+    <crc>2F2E3BC9</crc>
+	<manufacturer>Sega | Tradutor - P.O.B.R.E</manufacturer>
+    <year>1988</year>
+    <genre>Shooter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+ <game name="20 em 1 (Brazil)" index="true" image="">
+    <description>20 Em 1 (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre>Compilation</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ariel - The Little Mermaid (Brazil)" index="" image="">
+    <description>Ariel - The Little Mermaid (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>BlueSky Software</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="As Aventuras Da TV Colosso (Brazil)" index="" image="">
+    <description>As Aventuras Da TV Colosso (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega, Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ax Battler - A Legend of Golden Axe (USA, Europe)" index="" image="">
+    <description>Ax Battler - A Legend of Golden Axe (USA, Europe)</description>
+    <cloneof />
+    <crc>663BCF8A</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Baku Baku (Brazil)" index="" image="">
+    <description>Baku Baku (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer> Sega AM3, Minato Giken</manufacturer>
+    <year>1996</year>
+    <genre>Puzzle</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Battlemaniacs (Brazil)" index="" image="">
+    <description>Battlemaniacs (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Syrox Developments, Rare Ltd.</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Battletoads (USA)" index="" image="">
+    <description>Battletoads (USA)</description>
+    <cloneof />
+    <crc>817CC0CA</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bonkers Wax Up! (Brazil)" index="" image="">
+    <description>Bonkers Wax Up! (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Al Baker And Associates, Disney Software, Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Captain America and the Avengers (USA, Europe)" index="" image="">
+    <description>Captain America and the Avengers (USA, Europe)</description>
+    <cloneof />
+    <crc>5675DFDD</crc>
+    <manufacturer>Mindscape Inc.</manufacturer>
+    <year>1993</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Castelo Ra.Tim.Bum (Brazil)" index="" image="">
+    <description>Castelo Ra.Tim.Bum (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chakan (USA, Europe)" index="" image="">
+    <description>Chakan (USA, Europe)</description>
+    <cloneof />
+    <crc>DFC7ADC8</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chapolim x Dracula - Um Duelo Assustador (Brazil)" index="" image="">
+    <description>Chapolim x Dracula - Um Duelo Assustador (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega, Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dynamite Headdy (Brazil)" index="" image="">
+    <description>Dynamite Headdy (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer> Treasure, Minato Giken</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Earthworm Jim (Brazil)" index="" image="">
+    <description>Earthworm Jim (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Shiny Entertainment</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ecco - The Tides of Time (Brazil)" index="" image="">
+    <description>Ecco - The Tides of Time (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Novotrade</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fatal Fury Special (USA)" index="" image="">
+    <description>Fatal Fury Special (USA)</description>
+    <cloneof />
+    <crc>449787E2</crc>
+    <manufacturer>SNK</manufacturer>
+    <year>1994</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ferias frustradas Do Pica Pau (Brazil)" index="" image="">
+    <description>Ferias frustradas Do Pica Pau (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA International Soccer (Brazil)" index="" image="">
+    <description>FIFA International Soccer (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Extended Play Productions</manufacturer>
+    <year>1996</year>
+    <genre>Sports</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fire And Ice (Brazil)" index="" image="">
+    <description>Fire And Ice (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Graftgold Creative Software</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Box Serie Corridas (Brazil)" index="" image="">
+    <description>Game Box Serie Corridas (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>199x</year>
+    <genre>Compilation</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Box Serie Esportes (Brazil)" index="" image="">
+    <description>Game Box Serie Esportes (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1996</year>
+    <genre>Compilation</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Box Serie Esportes Radicais (Brazil)" index="" image="">
+    <description>Game Box Serie Esportes Radicais (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Epyx</manufacturer>
+    <year>1996</year>
+    <genre>Compilation</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Game Box Serie Lutas (Brazil)" index="" image="">
+    <description>Game Box Serie Lutas (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>199x</year>
+    <genre>Compilation</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Geraldinho (Brazil)" index="" image="">
+    <description>Geraldinho (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega, Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend Of Illusion - Starring Mickey Mouse (Brazil)" index="" image="">
+    <description>Legend Of Illusion - Starring Mickey Mouse (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Aspect</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mega Man (USA, Europe)" index="" image="">
+    <description>Mega Man (USA, Europe)</description>
+    <cloneof />
+    <crc>1ACE93AF</crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mickeys Ultimate Challenge (Brazil)" index="" image="">
+    <description>Mickeys Ultimate Challenge (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>WayForward Technologies, Designer Software</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monica No Castelo Do Dragao (Brazil)" index="" image="">
+    <description>Monica No Castelo Do Dragao (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Westone, Sega, Tec Toy</manufacturer>
+    <year>1991</year>
+    <genre>Adventure</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat 3 (Brazil)" index="" image="">
+    <description>Mortal Kombat 3 (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Midway, Sculptured Software And Software Creations</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ninja Gaiden (USA, Europe)" index="" image="">
+    <description>Ninja Gaiden (USA, Europe)</description>
+    <cloneof />
+    <crc>C578756B</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quest For The Shaven Yak - Starring Ren Hoek And Stimpy (Brazil)" index="" image="">
+    <description>Quest For The Shaven Yak - Starring Ren Hoek And Stimpy (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer> Realtime Associates, Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sapo Xule - O Mestre do Kung Fu (Brazil)" index="" image="">
+    <description>Sapo Xule - O Mestre do Kung Fu (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega, Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sapo Xule - S.O.S Lagoa Poluida (Brazil)" index="" image="">
+    <description>Sapo Xule - S.O.S Lagoa Poluida (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Sega, Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sapo Xule vs. Os Invasores do Brejo (Brazil)" index="" image="">
+    <description>Sapo Xule vs. Os Invasores do Brejo (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>VIC Tokai, Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sitio Do Picapau Amarelo (Brazil)" index="" image="">
+    <description>Sitio Do Picapau Amarelo (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sonic Blast (Brazil)" index="" image="">
+    <description>Sonic Blast (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Aspect</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Sonic The Hedgehog - Triple Trouble (USA, Europe)" index="" image="">
+    <description>Sonic The Hedgehog - Triple Trouble (USA, Europe)</description>
+    <cloneof />
+    <crc>D23A2A93</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Street Fighter II (Brazil)" index="" image="">
+    <description>Street Fighter II (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tails Adventures Deluxe(World)" index="" image="">
+    <description>Tails Adventures Deluxe(World)</description>
+    <cloneof />
+    <crc>5BB6E5D6</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Taz In Escape From Mars (Brazil)" index="" image="">
+    <description>Taz In Escape From Mars (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>HeadGames</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tempo Jr. (World)" index="" image="">
+    <description>Tempo Jr. (World)</description>
+    <cloneof />
+    <crc>DE466796</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Turma Da Monica Em O Resgate (Brazil)" index="" image="">
+    <description>Turma Da Monica Em O Resgate (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Westone, Sega, Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre>Adventure</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Virtua Fighter Animation (Brazil)" index="true" image="b">
+    <description>Virtua Fighter Animation (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Aspect</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="X-Men - Mojo World (Brazil)" index="" image="">
+    <description>X-Men - Mojo World (Brazil)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Western Technologies Inc.</manufacturer>
+    <year>1996</year>
+    <genre>Action</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)" index="" image="">
+    <description>Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)</description>
+    <cloneof />
+    <crc>88EBBF9E</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En)" index="" image="">
+    <description>Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>DCBF3355</crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre>Action</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>

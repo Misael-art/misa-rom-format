@@ -1,0 +1,1252 @@
+﻿<menu>
+        <game name="88games">
+                <description>'88 Games</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="ajax">
+                <description>Ajax</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="aliens">
+                <description>Aliens</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="amidar">
+                <description>Amidar</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Outline</genre>
+        </game>
+        <game name="animechmp">
+                <description>Anime Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>MultiGame / Mini-Games</genre>
+        </game>
+        <game name="asterix">
+                <description>Asterix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="battlnts">
+                <description>Battlantis</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="bm1stmix">
+                <description>beatmania</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+      
+        <game name="bmclubmx">
+                <description>beatmania Club MIX</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        
+ 
+        <game name="bmdct">
+                <description>beatmania featuring Dreams Come True</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="bmfinal">
+                <description>beatmania THE FINAL</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2002</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="blswhstl">
+                <description>Bells   Whistles</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="bishi">
+                <description>Bishi Bashi Championship Mini Game Senshuken</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>MultiGame / Mini-Games</genre>
+        </game>
+        <game name="blkpnthr">
+                <description>Black Panther</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="bladestl">
+                <description>Blades of Steel</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Hockey</genre>
+        </game>
+        <game name="blockhl">
+                <description>Block Hole</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="bottom9">
+                <description>Bottom of the Ninth</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="bucky">
+                <description>Bucky O'Hare</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="buttobi">
+                <description>Buttobi Striker</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Medal Game / Sport</genre>
+        </game>
+        <game name="circusc">
+                <description>Circus Charlie</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="citybomb">
+                <description>City Bomber</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="combatsc">
+                <description>Combat School</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="contra">
+                <description>Contra</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="crzcross">
+                <description>Crazy Cross</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="crimfght">
+                <description>Crime Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="cryptklr">
+                <description>Crypt Killer</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="cuebrick">
+                <description>Cue Brick</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Puzzle / Sliding</genre>
+        </game>
+        <game name="daiskiss">
+                <description>Daisu-Kiss</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="ddboy">
+                <description>Dam Dam Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="ddr2m">
+                <description>Dance Dance Revolution 2nd Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="dstage">
+                <description>Dancing Stage - Internet Ranking Ver</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="dsftkd">
+                <description>Dancing Stage featuring TRUE KiSS DESTiNATiON</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="darkhleg">
+                <description>Dark Horse Legend</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Horse Racing</genre>
+        </game>
+        <game name="devilw">
+                <description>Devil World</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="ddribble">
+                <description>Double Dribble</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="dragoona">
+                <description>Dragoon Might</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="evilngt">
+                <description>Evil Night</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="fantjour">
+                <description>Fantastic Journey</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="fastlane">
+                <description>Fast Lane</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="finalizr">
+                <description>Finalizer - Super Transformation</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="fbaitbc">
+                <description>Fisherman's Bait - A Bass Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Fishing</genre>
+        </game>
+        <game name="fbaitmc">
+                <description>Fisherman's Bait - Marlin Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Sports / Fishing</genre>
+        </game>
+        <game name="fbait2bc">
+                <description>Fisherman's Bait 2 - A Bass Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Fishing</genre>
+        </game>
+        <game name="fiveside">
+                <description>Five a Side Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="frogger">
+                <description>Frogger</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Cross</genre>
+        </game>
+        <game name="fuusenpn">
+                <description>Fuusen Pentai</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Medal Game / Action</genre>
+        </game>
+        <game name="gijoe">
+                <description>G.I. Joe</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="gchgchmp">
+                <description>Gachaga Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="gaiapols">
+                <description>Gaiapolis</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Vertical</genre>
+        </game>
+        <game name="gwarrior">
+                <description>Galactic Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="gbusters">
+                <description>Gang Busters</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="gradius3">
+                <description>Gradius III</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="gradius4">
+                <description>Gradius IV: Fukkatsu</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+
+        <game name="gberet">
+                <description>Green Beret</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="gticlub">
+                <description>GTI Club</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="gtrfrk2m">
+                <description>Guitar Freaks 2nd Mix Ver 1.01</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="gtrfrks">
+                <description>Guitar Freaks Ver 1.01</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="gyruss">
+                <description>Gyruss</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="hangplt">
+                <description>Hang Pilot</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Sports / Hang Gliding</genre>
+        </game>
+        <game name="hcastle">
+                <description>Haunted Castle</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="hotchase">
+                <description>Hot Chase</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="hyperbbc">
+                <description>Hyper Bishi Bashi Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="hypbbc2p">
+                <description>Hyper Bishi Bashi Champ - 2 Player</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="hcrash">
+                <description>Hyper Crash</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="hyperspt">
+                <description>Hyper Sports</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami (Centuri license)</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="ironhors">
+                <description>Iron Horse</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="jackal">
+                <description>Jackal</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="jailbrek">
+                <description>Jail Break</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="jetwave">
+                <description>Jet Wave</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Boat</genre>
+        </game>
+        <game name="jppyex98">
+                <description>Jikkyou Powerful Pro Yakyuu EX '98</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="powyakex">
+                <description>Jikkyou Powerful Pro Yakyuu EX</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="jungler">
+                <description>Jungler</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="junofrst">
+                <description>Juno First</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="kattobas">
+                <description>Kattobase Power Pro Kun</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Medal Game / Baseball</genre>
+        </game>
+        <game name="kbm">
+                <description>Keyboardmania</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="kbm2nd">
+                <description>Keyboardmania 2nd Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="kbm3rd">
+                <description>Keyboardmania 3rd Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2001</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="kicker">
+                <description>Kicker</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="kittenk">
+                <description>Kitten Kaboodle</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Maze / Blocks</genre>
+        </game>
+        <game name="konam80s">
+                <description>Konami 80's AC Special</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="konamigt">
+                <description>Konami GT</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Driving / Race 1st Person</genre>
+        </game>
+        <game name="pingpong">
+                <description>Konami's Ping-Pong</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Ping Pong</genre>
+        </game>
+        <game name="koropens">
+                <description>Korokoro Pensuke</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Medal Game / Action</genre>
+        </game>
+        <game name="lethalen">
+                <description>Lethal Enforcers</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="le2">
+                <description>Lethal Enforcers II: Gun Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="lgtnfght">
+                <description>Lightning Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="locomotn">
+                <description>Loco-Motion</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami (Centuri license)</manufacturer>
+                <year>1982</year>
+                <genre>Puzzle / Sliding</genre>
+        </game>
+        <game name="mia">
+                <description>M.I.A. - Missing in Action</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="mariorou">
+                <description>Mario Roulette</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Medal Game / Casino</genre>
+        </game>
+        <game name="mtlchamp">
+                <description>Martial Champion</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="megazone">
+                <description>Mega Zone</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="metamrph">
+                <description>Metamorphic Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="midnrun">
+                <description>Midnight Run: Road Fighter 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="mikie">
+                <description>Mikie</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Fighter</genre>
+        </game>
+        <game name="mmaulers">
+                <description>Monster Maulers</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="mx5000">
+                <description>MX5000</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="mystwarr">
+                <description>Mystic Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="nagano98">
+                <description>Nagano Winter Olympics '98</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="nbapbp">
+                <description>NBA Play By Play</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="nemesis">
+                <description>Nemesis</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="ppd">
+                <description>ParaParaDancing</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="ppp">
+                <description>ParaParaParadise</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="ppp11">
+                <description>ParaParaParadise v1.1</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="parodius">
+                <description>Parodius DA!</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="pcnfrk7m">
+                <description>Percussion Freaks 7th Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2002</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="pcnfrk8m">
+                <description>Percussion Freaks 8th Mix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2003</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="piratesh">
+                <description>Pirate Ship</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Misc. / Redemption</genre>
+        </game>
+        <game name="kzaurus">
+                <description>Pittanko Zaurus</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Medal Game / Action</genre>
+        </game>
+        <game name="pooyan">
+                <description>Pooyan</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="popn1">
+                <description>Pop'n Music 1</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="popn2">
+                <description>Pop'n Music 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="popn3">
+                <description>Pop'n Music 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Instruments</genre>
+        </game>
+        <game name="popnstex">
+                <description>Pop'n Stage EX</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Music Game / Dance</genre>
+        </game>
+        <game name="prmrsocr">
+                <description>Premier Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="punkshot">
+                <description>Punk Shot</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1990</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="quickp5">
+                <description>Quick Pick 5</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Slot Machine / Video Slot</genre>
+        </game>
+        <game name="rackemup">
+                <description>Rack 'em Up</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Pool</genre>
+        </game>
+        <game name="roadf">
+                <description>Road Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="rocnrope">
+                <description>Roc'n Rope</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="rockrage">
+                <description>Rock'n Rage</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Fighter</genre>
+        </game>
+        <game name="rollerg">
+                <description>Rollergames</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Misc.</genre>
+        </game>
+        <game name="rungun">
+                <description>Run and Gun</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="rungun2">
+                <description>Run and Gun 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="runpuppy">
+                <description>Run Run Puppy</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Medal Game / Action</genre>
+        </game>
+        <game name="rushhero">
+                <description>Rushing Heroes</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="spy">
+                <description>S.P.Y. - Special Project Y</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="salamand">
+                <description>Salamander</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="salarymc">
+                <description>Salary Man Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="scotrsht">
+                <description>Scooter Shooter</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="scramble">
+                <description>Scramble</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="shuriboy">
+                <description>Shuriken Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Medal Game / Adventure</genre>
+        </game>
+        <game name="soccerss">
+                <description>Soccer Superstars</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="slrasslt">
+                <description>Solar Assault</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="spcking2">
+                <description>Space King 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="strgchmp">
+                <description>Steering Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="stratgyx">
+                <description>Strategy X</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="ssriders">
+                <description>Sunset Riders</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="srmdb">
+                <description>Sunset Riders</description>
+                <cloneof></cloneof>
+                <manufacturer>bootleg</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Misc. Horizontal</genre>
+        </game>
+        <game name="sbasketb">
+                <description>Super Basketball</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="sbishi">
+                <description>Super Bishi Bashi Championship</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1998</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="scobra">
+                <description>Super Cobra</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="scontra">
+                <description>Super Contra</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="suratk">
+                <description>Surprise Attack</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="tokkae">
+                <description>Taisen Tokkae-dama</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="tgtpanic">
+                <description>Target Panic</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Misc. / Unknown</genre>
+        </game>
+        <game name="tmnt">
+                <description>Teenage Mutant Ninja Turtles</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="tmnt2">
+                <description>Teenage Mutant Ninja Turtles - Turtles in Time</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="theend">
+                <description>The End</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="fround">
+                <description>The Final Round</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="mainevt">
+                <description>The Main Event</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="simpsons">
+                <description>The Simpsons</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="simpbowl">
+                <description>The Simpsons Bowling</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>2000</year>
+                <genre>Sports / Bowling</genre>
+        </game>
+        <game name="thunderx">
+                <description>Thunder Cross</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="timeplt">
+                <description>Time Pilot</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="tp84">
+                <description>Time Pilot '84</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="polystar">
+                <description>Tobe! Polystars</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying (chase view)</genre>
+        </game>
+        <game name="tkmmpzdm">
+                <description>Tokimeki Memorial Taisen Puzzle-dama</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="totlvice">
+                <description>Total Vice</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="trackfld">
+                <description>Track   Field</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Track and Field</genre>
+        </game>
+        <game name="tricktrp">
+                <description>Trick Trap</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="tsukande">
+                <description>Tsukande Toru Chicchi</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Medal Game / Timing</genre>
+        </game>
+        <game name="tsupenta">
+                <description>Tsurikko Penta</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Medal Game / Misc.</genre>
+        </game>
+        <game name="turtles">
+                <description>Turtles</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami (Stern Electronics license)</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="tutankhm">
+                <description>Tutankham</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="tbyahhoo">
+                <description>Twin Bee Yahhoo!</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="twinbee">
+                <description>TwinBee</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="vendetta">
+                <description>Vendetta</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="vsnetscr">
+                <description>Versus Net Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="hustler">
+                <description>Video Hustler</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Sports / Pool</genre>
+        </game>
+        <game name="viostorm">
+                <description>Violent Storm</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="vulcan">
+                <description>Vulcan Venture</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="wecleman">
+                <description>WEC Le Mans 24</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="moomesa">
+                <description>Wild West C.O.W.-Boys of Moo Mesa</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="windheat">
+                <description>Winding Heat</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="xmen">
+                <description>X-Men</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="xexex">
+                <description>Xexex</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="yiear">
+                <description>Yie Ar Kung-Fu</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="ymcapsul">
+                <description>Yu-Gi-Oh Monster Capsule</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1999</year>
+                <genre>Medal Game / Adventure</genre>
+        </game>
+</menu>

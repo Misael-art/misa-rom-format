@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>SNK / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="kof98umh" index="" image="">
+	<description>The King of Fighters &apos;98: Ultimate Match HERO (China, V100, 09-08-23)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGS / SNK Playmore / New Channel</manufacturer>
+	<year>2009</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

@@ -1,0 +1,969 @@
+em nosso projeto temos a necessidade de pegar o Guide and Walkthrough e salvar no banco de dados relativo a cada jogo, como podemos ter mais de uma opção dos itens vamos pegar o mais atual ou seja o primeira de cima para baixo
+
+vou dar um exemplo para o jogo rolo to the rescue
+pagina https://gamefaqs.gamespot.com/genesis/586436-rolo-to-the-rescue/faqs 
+
+<a class="bold" href="/genesis/586436-rolo-to-the-rescue/faqs/23954">Guide and Walkthrough</a>
+
+
+outro itens que temos de pegar Review em https://gamefaqs.gamespot.com/genesis/586436-rolo-to-the-rescue/reviews 
+
+<h4 class="title">Full Reviews</h4>
+<li data-platform="GEN" data-author="falsehead" data-score="7" data-updated="2002-04-14" data-recommended="0">
+					<div class="rev_score score_mid bold mr5">7</div>
+					<div class="content">
+						<div class="float_l">
+							<a class="bold" href="/genesis/586436-rolo-to-the-rescue/reviews/33214">Forget Halo, here's Rolo!!</a>						</div>
+						<div class="meta float_r">04/14/2002</div>
+						<div class="meta float_l">
+							By <a class="link_color" href="/community/falsehead">falsehead</a>						</div>
+					</div>
+				</li>
+
+logo entrando no Review https://gamefaqs.gamespot.com/genesis/586436-rolo-to-the-rescue/reviews/33214 
+
+<h2 class="title">Review by <a class="link_color" href="/community/falsehead">falsehead</a></h2>
+<div class="body ffaq">
+		<h2 class="title">Review by <a class="link_color" href="/community/falsehead">falsehead</a></h2>
+		<p><b>Reviewed:</b> 04/14/2002 | <b>Updated:</b> 04/14/2002</p>
+	</div>
+
+<div class="body">
+		<div class="ffaq"><h3>Forget Halo, here's Rolo!!</h3></div>
+		<div class="ffaq">If I had to sum this game up in one word it would be “cute”.  Considering this 1992 Genesis game was produced by EA, a company more commonly associated with the sporting genre, it makes it all the more surprising that they produced this slick, child orientated platform game.  From the super sickly storyline, through the chunky cartoon characters and finishing with some of the jauntiest music I have ever heard coming from a 16-bit system this screams “for under-10’s” only.  But look past that initial cute and fluffy exterior and you’ll find an engrossing and challenging game that is definitely not just for kids. <br> <br>Our eponymous hero is an elephant named Rolo.  At a tenderly young age he was stolen from his mother and forced to perform in McSmiley’s circus.  But Rolo rises to the occasion and promptly escapes, his task is to now track down his animal friends and release them from the cages the evil Ring Master has locked them up in. <br> <br>Rolo’s obviously a popular little pachyderm as there are hundreds of animals for him to rescue scattered around tons of levels.  Each animal type has different skills and once rescued you can take control of any rescued animal type to help all the other animals make it to the end of each level.  There is cute little mole with a hard hat who specialise in digging.  A lovely squirrel who can climb. A darling little bunny who can hop great distances and finally one of the nicest beavers you could ever hope to see who can handle the water sections. <br> <br>So the basis of the gameplay is fairly simple.  Starting with Rolo, you must bounce on the head of the Ringmaster on each level and acquire the key that will let you open all the cages on the level.  The animals you rescue will follow you in a line, unless you switch control to another one.  The animals act as shields’ so if Rolo gets hit he loses an animal.  If Rolo gets hit with no animals in tow he exudes a rather sad trumpety sound and expires.  Once Rolo makes it to the end of the level, all the animals hop into a transporter and Rolo carries on to the next level. <br> <br>As you unlock levels a map builds up similar to that of Super Mario World.  You can re-enter these completed levels to look for secrets. The first few levels are straightforward enough, but in later levels you must carefully use the skills of each animal to plot a course to the end-of-level transporter.  So the beaver, being water resistant can be sent to collect a raft to get the rest of the creatures over a river safely.  Later levels can become brain-mashingly frustrating and this is mainly due to the games one serious flaw. <br> <br>There is no way to save you progress in this game and no password system to allow you to access later levels without having to replay the early ones.  So to finish the game you need to play from beginning to end in one session.  Also there are only a few continues on offer and if you can’t find yourself enough extra lives, you’ll find expiring in the final levels and being forced to restart from the beginning maddening.  It is a real pity that more experienced gamers who could handle this are likely to be put off by the extreme cuteness of the presentation.  Younger gamers are similarly likely to quickly become bored with the constant restarts and occasional unfair deaths due to some slightly unpolished controls on the part of Rolo (he has a tendency to skid off the end of platforms). <br> <br>But if you do decide to persist with the game, it does reveal itself to be a fun and imaginative gaming experience.  The graphics are sumptuous, some of the best I have ever seen on the Genesis.  There is smooth parallax scrolling and all the enemies and heroes are drawn in big and bold colourful sprites.  The music to as I mentioned earlier is a delight.  It feels very “circusy” and elephantlike, as if a teeny-weeny tuba player is sitting in your console.  The marching band style persists with variations on the main theme all the way though the game and I never grew tired of hearing it. <br> <br>Solving problems on later levels can also reap rewards when you revisit earlier ones.  For example, early in the game Rolo can be killed from a touch from the baby hedgehogs that zoom around on the ground and are had to spot.  Later on, he’ll find mummy Hedgehog.  So if Rolo sucks the nearby (trapped) baby hedgehog up his trunk and blows him over to the mummy, she will be overjoyed.  Now all the baby hedgehogs will be your bestest friend! Awwww.. You can also inflate Rolo with Helium and float him around to rescue more animals, which is deeply funny.  Bosses take the form of other members of the Circus.  For example the Strongman, who you can defeat by jumping on his balls until he explodes (stoppit! I’m talking about the balls from his barbells!). <br> <br>Overall Rolo to the Rescue is a fantastic looking and sounding Genesis platform game.  The use of a team creatures to solve problems and negotiate levels brings a higher element of tactical planning than your average side scrolling platformer of the time. However, the lack of any way to save the game or skip completed levels after the death of the main character is truly annoying and impacts considerably on the games final mark.  Although it seems like a bit of fluffy fun for the younger gamer its actually a real sod-of a game in places that would tax the skill and patience of even the most hardcore platform gamer.  For me the sheer charm and sense of fun the game has kept me replaying until I reached the end.  But I suspect many others would give up after the twentieth restart and I can’t say I would blame them.  A real shame. <br></div><br><br>
+		<ol class="list flex col1 nobg">
+			<li>
+				<span class="bold">Rating:</span>&nbsp;
+				<div class="rev_score score_mid bold">7</div>
+			</li>
+			<li>
+							</li>
+		</ol>
+	</div>
+
+
+<li>
+				<span class="bold">Rating:</span>&nbsp;
+				<div class="rev_score score_mid bold">7</div>
+			</li>
+
+
+
+em https://gamefaqs.gamespot.com/genesis/586436-rolo-to-the-rescue/media 
+
+<div class="pod">
+	<div class="head"><h2 class="title">Box Shots</h2></div>
+	<div class="body">
+		<ol class="list flex col5 ai_normal img_thumbs">
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/boxes/92925">					<img class="imgboxart" src="/a/box/0/2/4/48024_thumb.jpg" alt="Rolo to the Rescue (US)">
+					</a>					<div class="meta">GEN - US<br>1992</div>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/boxes/93254">					<img class="imgboxart" src="/a/box/0/2/5/48025_thumb.jpg" alt="Rolo to the Rescue (EU)">
+					</a>					<div class="meta">GEN - EU<br>1992</div>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/boxes/3027">					<img class="imgboxart" src="/a/box/0/2/3/48023_thumb.jpg" alt="Zou! Zou! Zou! Rescue Daisakusen (JP)">
+					</a>					<div class="meta">GEN - JP<br>04/29/1993</div>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/boxes/93255">					<img class="imgboxart" src="/a/box/0/2/6/48026_thumb.jpg" alt="Rolo to the Rescue (Classics) (EU)">
+					</a>					<div class="meta">GEN - EU<br>1996</div>
+				</div>
+			</li>
+					</ol>
+	</div>
+	<a class="bold" href="/genesis/586436-rolo-to-the-rescue/boxes">See All Box Shots »</a>
+</div>
+
+
+<div class="pod">
+	<div class="head"><h2 class="title">Screenshots</h2></div>
+	<div class="contrib_jumper">Jump to: <select onchange="window.location.href = '/genesis/586436-rolo-to-the-rescue/images?pid=' + $(this).val();"><option value="0">--Screenshots by Product--</option><option value="586436">Rolo to the Rescue (GEN) -- 20 screens</option></select></div>
+	<div class="body">
+		<ol class="list flex col5 img_thumbs">
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=1">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/0/163240.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=2">
+						<img class="imgboxart" src="/a/screen/thumb/8/5/7/363857.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=3">
+						<img class="imgboxart" src="/a/screen/thumb/8/5/8/363858.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=4">
+						<img class="imgboxart" src="/a/screen/thumb/2/5/0/163250.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=5">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/1/163241.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=6">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/2/163242.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=7">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/3/163243.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=8">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/4/163244.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=9">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/5/163245.jpg" alt="">
+					</a>
+				</div>
+			</li>
+						<li>
+				<div class="content">
+					<a href="/genesis/586436-rolo-to-the-rescue/images?pid=586436&amp;img=10">
+						<img class="imgboxart" src="/a/screen/thumb/2/4/6/163246.jpg" alt="">
+					</a>
+				</div>
+			</li>
+					</ol>
+	</div>
+</div>
+
+
+<div class="pod gdata" data-pid="586436">
+	<div class="head"><h2 class="title">Title Data</h2></div>
+	<div class="body">
+		<ol class="list flex col1">
+						<li>
+				<div class="content">
+					<span class="bold">Genre:</span>&nbsp;
+										<span>Action &gt; Platformer &gt; 2D</span>
+									</div>
+			</li>
+						<li>
+				<div class="content">
+					<span class="bold">Developer:</span>&nbsp;
+															<a href="/games/company/76377-vectordean">Vectordean</a>														</div>
+			</li>
+						<li>
+				<div class="content">
+					<span class="bold">Local Players:</span>&nbsp;
+										<span>1 Player</span>
+									</div>
+			</li>
+						<li>
+				<div class="content">
+					<span class="bold">Wikipedia (EN):</span>&nbsp;
+										<a target="_blank" href="https://en.wikipedia.org/wiki/Rolo_to_the_Rescue">https://en.wikipedia.org/wiki/Rolo_to_the_Rescue</a>
+									</div>
+			</li>
+					</ol>
+	</div>
+</div>
+
+
+<div class="body">
+		<table class="contrib rdates">
+			<colgroup>
+				<col class="w10p">
+				<col class="w5p">
+				<col class="w25p">
+				<col class="w25p">
+				<col class="w25p">
+				<col class="w10p">
+				<col class="w5p">
+			</colgroup>
+			<thead>
+			<tr>
+				<th rowspan="2" scope="col">Box</th>
+				<th colspan="6">Title</th>
+			</tr>
+			<tr>
+				<th scope="col">Region</th>
+				<th scope="col">Publisher</th>
+				<th scope="col">Product ID</th>
+				<th scope="col">Distribution / Barcode</th>
+				<th scope="col">Release Date</th>
+				<th scope="col">Rating</th>
+			</tr>
+			</thead>
+			<tbody>
+						<tr>
+				<td class="align-c" rowspan="2">
+					<div class="img_small">
+						<a href="/genesis/586436-rolo-to-the-rescue/media"><img class="crop imgboxart" src="/a/box/0/2/4/48024_thumb.jpg"></a>					</div>
+				</td>
+				<td colspan="6" class="bold">Rolo to the Rescue</td>
+			</tr>
+			<tr>
+				<td>US</td>
+				<td><a href="/games/company/619-electronic-arts">Electronic Arts</a></td>
+				<td>7132</td>
+				<td>014633071320</td>
+				<td>1992</td>
+				<td>&nbsp;</td>
+			</tr>
+						<tr>
+				<td class="align-c" rowspan="2">
+					<div class="img_small">
+						<a href="/genesis/586436-rolo-to-the-rescue/media"><img class="crop imgboxart" src="/a/box/0/2/5/48025_thumb.jpg"></a>					</div>
+				</td>
+				<td colspan="6" class="bold">Rolo to the Rescue</td>
+			</tr>
+			<tr>
+				<td>EU</td>
+				<td><a href="/games/company/619-electronic-arts">Electronic Arts</a></td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>1992</td>
+				<td>&nbsp;</td>
+			</tr>
+						<tr>
+				<td class="align-c" rowspan="2">
+					<div class="img_small">
+						<a href="/genesis/586436-rolo-to-the-rescue/media"><img class="crop imgboxart" src="/a/box/0/2/3/48023_thumb.jpg"></a>					</div>
+				</td>
+				<td colspan="6" class="bold">Zou! Zou! Zou! Rescue Daisakusen</td>
+			</tr>
+			<tr>
+				<td>JP</td>
+				<td><a href="/games/company/72712-electronic-arts-victor">Electronic Arts Victor</a></td>
+				<td>EM20008</td>
+				<td>4938833000125</td>
+				<td>04/29/93</td>
+				<td>&nbsp;</td>
+			</tr>
+						<tr>
+				<td class="align-c" rowspan="2">
+					<div class="img_small">
+						<a href="/genesis/586436-rolo-to-the-rescue/media"><img class="crop imgboxart" src="/a/box/0/2/6/48026_thumb.jpg"></a>					</div>
+				</td>
+				<td colspan="6" class="bold">Rolo to the Rescue (Classics)</td>
+			</tr>
+			<tr>
+				<td>EU</td>
+				<td><a href="/games/company/619-electronic-arts">Electronic Arts</a></td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>1996</td>
+				<td>&nbsp;</td>
+			</tr>
+						</tbody>
+		</table>
+	</div>
+
+<div class="pod">
+	<div class="head"><h2 class="title">Description</h2></div>
+	<div class="body">
+		<ol class="list flex col1 nobg">
+						<li class="gdata" data-pid="586436">
+				<div class="content">
+					<div class="game_desc">A jumbo sized hero saves his forest friends from the hands of the Dastardly McSmiley.<br>
+<br>
+Take control of Rolo or one of his friends. Swim, scale and scoop your way to safety with their help.<br>
+- Explore 4 varied landscapes and over 60 levels<br>
+- Playful cartoon style characters, each with special abilities<br>
+- Acquire vacuum power ups by collecting vacuum cleaners<br>
+- Suck up small objects using Rolo's trunk and blast them at enemies<br>
+- Stack your friends or have them follow one another<br>
+- Battle circus style end of level bosses<br>
+- Discover secret caverns and underground passages</div>
+				</div>
+			</li>
+					</ol>
+	</div>
+</div>
+
+
+ai teremos os itens para o nosso banco de dados 
+
+
+nome
+Review
+Guide and Walkthrough
+Description
+Title
+Region
+Publisher
+Product ID
+Distribution / Barcode
+Release 
+Date	
+Rating
+Genre
+Developer
+Local Players
+Wikipedia (EN)
+Box Shots para download das imegens nas respectivas pastas US/EU/JP com as versões 
+Screenshots para download das imegens na respectiva pasta
+
+
+
+
+
+--- Jogo ID: 5 ---
+  id: 5
+  no_intro_name: 16t
+  gamefaqs_name: 16t
+  gamefaqs_url: https://gamefaqs.gamespot.com/genesis/951912-16t
+  collection_stats: None
+  guide_walkthrough_url: None
+  codes_url: None
+  reviews_url: https://gamefaqs.gamespot.com/genesis/951912-16t/reviews
+  media_url: https://gamefaqs.gamespot.com/genesis/951912-16t/media
+  news_url: https://gamefaqs.gamespot.com/news
+  game_detail_url: https://gamefaqs.gamespot.com/genesis/951912-16t/data
+  game_trivia_url: None
+  last_scraped: 2025-03-26 08:44:40
+  genre: Arcade
+  developer: Sega
+  publisher: Sega
+  release_date: 1991
+  also_known_as: None
+  trivia_text: None
+  
+  
+  
+  collection_stats: None
+  guide_walkthrough_url: None
+  codes_url: None
+  game_trivia_url: None
+  collection_stats: None
+  guide_walkthrough_url: None
+  codes_url: None
+  
+  
+  reviews_url: https://gamefaqs.gamespot.com/genesis/951912-16t/reviews
+  media_url: https://gamefaqs.gamespot.com/genesis/951912-16t/media
+  news_url: https://gamefaqs.gamespot.com/news
+  game_detail_url: https://gamefaqs.gamespot.com/genesis/951912-16t/data
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  vamos implementar site que podem ser alterativas para o que precisamos como 
+
+MobyGames, GameFAQs e No-Intro, cada um com pontos fortes diferentes.
+MobyGames oferece dados gerais como nome, descrição, editora, desenvolvedor, data de lançamento, gênero, número de jogadores, avaliações, capturas de tela e imagens da caixa.
+GameFAQs é excelente para guias, walkthroughs, avaliações e algumas informações básicas de jogos.
+No-Intro pode ser útil para IDs de produto e códigos de distribuição, especialmente para ROMs, mas pode não ter avaliações ou guias.
+Nem todos os sites têm todas as informações solicitadas, como ID de produto e código de barras, o que pode exigir scraping de múltiplos sites
+
+Análise dos Sites
+MobyGames
+MobyGames (MobyGames) é uma das bases de dados mais antigas e completas, com mais de 296.806 jogos e 1 milhão de profissionais da indústria registrados. Uma análise detalhada de uma página, como a de Super Mario Bros. para NES, revela:
+
+Informações Disponíveis: Nome, descrição, data de lançamento (1985 para Super Mario Bros.), avaliações (média de críticos 88%, média de jogadores 4.1/5), gênero (implicado como plataforma), desenvolvedor (listado nos créditos, como Nintendo), número de jogadores (não explicitamente, mas geralmente 1-2 para esse jogo), imagens da caixa (em "Promos") e capturas de tela (linkadas).
+Limitações: Não oferece guias e walkthroughs diretamente, e IDs de produto e códigos de barras não foram encontrados em exemplos analisados, como Super Mario Bros. e The Legend of Zelda. Links para a Wikipedia podem estar presentes, mas não garantidos.
+Uma tabela detalhando a cobertura para Super Mario Bros.:
+
+Categoria	Detalhes
+Título do Jogo	Super Mario Bros. (1985)
+Descrição	A Princesa foi sequestrada por Bowser, e Mario/Luigi devem salvá-la, com power-ups como cogumelo, flor de fogo, estrela.
+Data de Lançamento	1985
+Avaliação (Críticos)	88% (baseado em 58 avaliações)
+Avaliação (Jogadores)	4.1/5 (498 avaliações, 19 reviews)
+Vendas	40.23 milhões de unidades vendidas mundialmente (até 1999)
+Capturas de Tela	Link disponível (Screenshots)
+Imagens da Caixa	Disponível em "Promos" (Promos)
+ID de Produto	Não encontrado
+Código de Distribuição	Não encontrado
+GameFAQs
+GameFAQs (GameFAQs) é conhecido por conteúdo gerado por usuários, especialmente guias e walkthroughs. Para Super Mario Bros., espera-se:
+
+Informações Disponíveis: Título, plataforma (NES), avaliações de usuários, guias e walkthroughs (muitos disponíveis), imagens da caixa e capturas de tela. Informações como gênero (plataforma), desenvolvedor (Nintendo), editora, data de lançamento (13 de setembro de 1985) e número de jogadores (2) também estão presentes.
+Limitações: IDs de produto e códigos de barras não foram encontrados em análises, e links para a Wikipedia não são diretos. A descrição pode ser breve comparada a MobyGames.
+Embora uma busca específica para Super Mario Bros. tenha retornado informações incorretas inicialmente, a expectativa com base em conhecimento geral é que cubra bem guias e avaliações.
+
+No-Intro
+No-Intro (No-Intro) é um projeto de preservação de ROMs, com arquivos DAT que incluem títulos, códigos de produto, região e outros metadados. É útil para:
+
+Informações Disponíveis: IDs de produto e códigos de distribuição, especialmente para ROMs, com nomes padronizados que incluem esses dados.
+Limitações: Não oferece avaliações, guias, descrições detalhadas ou links para a Wikipedia. É mais focado em preservação técnica, não em informações de jogo para consumidores.
+Comparação e Recomendações
+Uma comparação direta mostra:
+
+Site	Pontos Fortes	Limitações
+MobyGames	Dados gerais, avaliações, imagens, descrição detalhada	Sem guias, IDs de produto inconsistentes
+GameFAQs	Guias, walkthroughs, avaliações, imagens	Menos dados estruturados, IDs de produto ausentes
+No-Intro	IDs de produto, códigos de distribuição	Sem avaliações, guias ou descrições detalhadas
+
+
+A Wikipedia pode ser usada para verificar informações ou obter links, mas os dados não são uniformes, complicando o scraping. É importante respeitar os termos de serviço dos sites e lidar com dados ausentes no script de scraping.
+
+Conclusão
+Para uma abordagem prática, MobyGames e GameFAQs são as principais escolhas, com No-Intro como complemento para IDs de produto. Essa combinação deve cobrir a maioria das necessidades, embora algumas informações, como códigos de barras, possam exigir esforços adicionais ou aceitação de lacunas.
+
+
+faça desta forma
+
+importar os dados iniciais do "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\database\games_database.db" e pegar todos os nomes das roms e manter um feedback visual ao usuário de que segue uma importação em segundo plano
+
+Sempre validar se houve alteração no arquivo se não houve e os dados já foram importados pular a etapa, porém se nouve procurar novas informações e incluir na nossa base
+
+
+disponibilizar uma opção importação/raspagem sobre demanda com as opções disponiveis
+
+gamefaq
+mobygames
+wikipedia
+para sondar o diretório meta e disponibilizar cada base
+
+faça o link entre os termos das bases correlatos como Players e Player, Year e Years e outros ... havendo dados divergêntes ao importar a base deixa uma sinalização visual sobre a rom para que ao clicar no nome o usuário possa escolher
+
+ao sondar o diretório meta disponibilizar a importação sobre demanda do usuário das diferentes bases de lá. (para permitir possivel esta possibilidade crie uma coluna adcional para o tipo de informação divergênte e se a divergências da coluna for arruma retire a coluna, pois o proposito dela é guardar esta informa
+
+listar todas as ROMs do nosso banco por sistema
+
+deixar o seletor de sistema
+
+deixar um seletor de coluna
+
+ao clicar na rom exibir informação da tabela correspondente
+
+
+----------------------------------------------
+
+Popular o banco com dados reais para testes mais completos
+Implementar funcionalidades adicionais conforme necessidade
+Criar backups periódicos do banco de dados
+
+coloque as opções de exportação para o formato dos principais frontends
+
+RetroArch
+Descrição : Plataforma multi-emulador com suporte a diversos núcleos (emuladores).
+Banco de Dados :
+SQLite : Usado para armazenar playlists (listas de jogos) e metadados (via extensão *.lpl).
+JSON : Playlists também podem ser armazenadas em arquivos JSON.
+Scraping : Usa APIs externas (como TheGamesDB ou ScreenScraper) para coletar metadados automaticamente.
+2. EmulationStation (ES)
+Descrição : Frontend leve, popular em sistemas como RetroPie e Batocera.
+Banco de Dados :
+XML : Armazena metadados em arquivos gamelist.xml por sistema (ex: ~/.emulationstation/gamelists/nes/gamelist.xml).
+Scraping : Integração com TheGamesDB ou ScreenScraper para coletar dados automaticamente.
+3. LaunchBox/Big Box
+Descrição : Frontend para Windows com foco em organização e experiência visual.
+Banco de Dados :
+Proprietário : Usa um banco de dados interno (formato não documentado), mas permite exportação/importação em XML ou CSV.
+Scraping : Coleta dados de múltiplas fontes (TheGamesDB, MobyGames, etc.).
+4. Batocera.linux/Recalbox
+Descrição : Sistemas operacionais dedicados a emulação, baseados em EmulationStation.
+Banco de Dados :
+XML : Segue o mesmo padrão do EmulationStation (gamelist.xml).
+Scraping : Integrado com TheGamesDB e ScreenScraper.
+5. Pegasus Frontend
+Descrição : Frontend moderno e altamente personalizável.
+Banco de Dados :
+JSON : Metadados armazenados em arquivos metadata.json por sistema.
+Scraping : Suporta TheGamesDB e ScreenScraper.
+6. Attract-Mode
+Descrição : Frontend focado em arcades, mas compatível com consoles.
+Banco de Dados :
+SQLite : Armazena metadados em um banco de dados local (attract.db).
+Scraping : Usa TheGamesDB ou importa dados de arquivos XML.
+7. Steam ROM Manager
+Descrição : Ferramenta para integrar ROMs ao Steam Deck via Steam.
+Banco de Dados :
+JSON : Configurações e metadados armazenados em arquivos JSON.
+Scraping : Usa ScreenScraper ou TheGamesDB.
+
+RetroFE : Usa arquivos de texto simples (.txt) para listas de jogos.
+
+Tipos de Bancos de Dados Utilizados :
+SQLite : Comum para armazenamento estruturado (RetroArch, Attract-Mode).
+XML/JSON : Usados para arquivos de configuração e metadados (EmulationStation, Pegasus).
+
+
+também fala issues para
+APIs Externas : Scraping de dados de TheGamesDB, ScreenScraper, MobyGames, etc.
+
+Fontes Gratuitas de Mídias :
+TheGamesDB (TGDB) :
+Acesso : Gratuito, mas requer cadastro para uso da API.
+Conteúdo : Oferece capas, screenshots, descrições e dados de jogos.
+Limitações : Algumas imagens podem ter baixa resolução ou estar desatualizadas.
+ScreenScraper :
+Acesso : Gratuito com conta básica, mas há um sistema de "contribuição" (upload de dados) para acesso ilimitado.
+Conteúdo : Banco de dados vasto, com imagens em alta resolução, vídeos e traduções.
+Pagamento : Oferece uma versão paga ("ScreenScraper Premium") para acesso prioritário e sem limites de requisições.
+MobyGames :
+Acesso : Gratuito, mas com restrições na API para uso comercial.
+Conteúdo : Dados detalhados de jogos, incluindo capas e screenshots.
+OpenVGDB :
+Acesso : Banco de dados aberto e gratuito, derivado do TheGamesDB.
+Frontends e Seus Métodos de Acesso :
+RetroArch :
+Usa TheGamesDB e ScreenScraper para scraping automático.
+Requer configuração manual de APIs (como chaves de acesso).
+EmulationStation (RetroPie/Batocera) :
+Usa TheGamesDB por padrão, mas pode ser configurado para ScreenScraper.
+A coleta de dados é gratuita, mas pode exigir login no ScreenScraper para acesso completo.
+LaunchBox :
+Integra TheGamesDB , MobyGames , e ScreenScraper .
+A versão gratuita do LaunchBox coleta dados automaticamente, mas a edição paga ("LaunchBox Premium") inclui acesso prioritário a imagens de alta qualidade.
+Pegasus Frontend :
+Suporta TheGamesDB e ScreenScraper .
+Requer configuração manual de credenciais para APIs.
+Steam ROM Manager :
+Usa ScreenScraper e TheGamesDB .
+Acesso gratuito, mas o ScreenScraper pode exigir contribuição ou pagamento para acesso premium.
+
+Como Funciona o "Scraping" Gratuito :
+Automático : Os frontends buscam dados diretamente das APIs gratuitas (ex: TheGamesDB).
+Manual : Usuários podem adicionar capas e metadados manualmente, sem depender de serviços externos.
+Comunidade : Muitos usuários compartilham pacotes de mídias já organizados (ex: repositórios no GitHub ou fóruns como Reddit e GBAtemp ).
+
+Internet Archive : Tem um acervo vasto de capas e manuais antigos.
+
+
+
+ao clicar em procurar jogo temos Falha na Busca: no such column: title
+
+
+A tabela "games" tem de conter as colunas 
+
+id
+title
+checksums
+name_nointro
+name_goodtools
+name_TOSEC
+name_redump
+name_progetto_EMU
+name_custom	(Descrição: Alguns usuários ou grupos criam seus próprios padrões, especialmente para hacks, traduções ou homebrews. Características: Pode variar amplamente, mas geralmente inclui informações sobre a modificação, idioma ou autor. Exemplo: Pokemon FireRed (Hack) [Emerald Edition] [PT-BR].gba (Hack): Indica que é uma versão modificada. [Emerald Edition]: Edição específica do hack. [PT-BR]: Tradução para português do Brasil.)
+name_unofficial_dumps	(Descrição: ROMs extraídas diretamente de cartuchos ou discos por indivíduos ou pequenos grupos, sem seguir nenhum padrão oficial.Características: Geralmente têm nomes inconsistentes e podem incluir erros ou dados adicionais (ex: headers duplicados). Exemplo: Mario Kart 64 (PAL) [Custom Dump].z64	)
+name_ROM_Header	(O nome do cabeçalho da ROM é uma parte importante do arquivo que ajuda a identificar o jogo e suas características técnicas)
+name_file_ROM 
+system
+developer 
+publisher
+region
+genre
+rating
+releaser_year
+date_releaser_US
+date_releaser_EU
+date_releaser_JP
+date_releaser_BR
+date_releaser_WORLD
+description
+distribution
+barcode
+local_players
+peripheral
+type_control
+number_buttons
+review
+guide_Walkthrough
+secret_game_codes
+programmer
+artist
+designer
+producer
+number_sales
+ROM_size
+special_chips
+
+melhore alguns pontos de forma robusta
+
+- Função Importar
+o importar dados no momento só esta aceitando o .json, porém você precisa fazer ele precisa ter a capacidade de entender entender e importar os seguintes modelos .xml, .txt, .db, .dat, .ini e .csv
+
+- Função Exportar
+Ele deve permitir exportar para os formatos de modelos .xml, .txt, .db, .dat, .ini e .csv
+
+compativeis com SQLite : Comum para armazenamento estruturado (nosso projeto, RetroArch, Attract-Mode).
+XML/JSON : Usados para arquivos de configuração e metadados (EmulationStation, Pegasus,Batocera.linux/Recalbox, HyperSpin, RefroFe)
+INI : RocketLauncher.
+
+tem de colocar uma opção de excluir ou editar um dado do banco de dados e editar se necessário
+
+
+
+
+estes itens não estão aparecendo na interface, corrija isto por favor
+
+1. Painel de Estatísticas :
+
+- Adicionei um novo item no menu "Ferramentas" chamado "Estatísticas"
+
+- Criei um módulo completo (`statistics_manager.py` ) que exibe informações sobre:
+
+- Total de jogos na base de dados
+
+- Número de sistemas/plataformas disponíveis
+
+- Quantidade de jogos com dados completos
+
+2. Visualização por Sistema :
+
+- Implementei uma visualização padrão que mostra 3 jogos de cada sistema existente na base
+
+- Adicionei um gráfico de distribuição de jogos por sistema
+
+- Criei um sistema de filtro por plataforma que permite selecionar um sistema específico
+
+3. Detalhamento por Sistema :
+
+- Ao selecionar um sistema específico, a interface atualiza:
+
+- As estatísticas para mostrar dados apenas do sistema escolhido
+
+- A lista de jogos para exibir todos os jogos do sistema selecionado
+
+- Um gráfico de pizza mostrando a proporção de jogos completos vs. incompletos
+
+- Implementei destaque visual (fundo verde) para jogos com dados completos
+
+A interface foi integrada ao sistema existente mantendo a consistência visual e funcional. Os usuários podem alternar facilmente entre a visualização geral e a visualização por sistema específico.
+
+
+
+
+
+
+
+
+DatabaseID = id
+Name = title
+Platform = system
+Developer = developer 
+Publisher = publisher
+Genres = genre
+CommunityRating = score
+CommunityRatingCount = rating_community
+ESRB = rating
+ReleaseYear = releaser_year
+Overview = description
+MaxPlayers = players
+Cooperative = cooperative
+ReleaseType = releaseType
+VideoURL = videoURL
+
+
+
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>2P sim / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="1941" index="" image="">
+	<description>1941: Counter Attack (World 900227)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+
+
+game name = name_file_ROM
+description = title
+cloneof = name_clone
+crc = checksums
+manufacturer = developer
+year = releaser_year
+genre = genre
+rating = rating
+
+** neste caso o players vai ser o contexto da pasta como no exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\mamelist\Players\4P sim\Working Games\4P sim.xml" o players vai ser 4 porque esta na pasta 4P sim
+
+
+
+
+
+
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Panasonic 3DO</listname>
+		<lastlistupdate>08/28/2012</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="20th Century Video Almanac (USA)" index="true" image="2">
+		<description>20th Century Video Almanac (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1993</year>
+		<genre>Multimedia</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+
+
+game name = name_file_ROM
+description = title
+cloneof = name_clone
+manufacturer = developer
+year = releaser_year
+genre = genre
+rating = rating
+ctrltype = type_control
+buttons = number_buttons
+
+
+
+
+
+
+id
+title
+checksums
+name_nointro
+name_goodtools
+name_TOSEC
+name_redump
+name_progetto_EMU
+name_custom	(Descrição: Alguns usuários ou grupos criam seus próprios padrões, especialmente para hacks, traduções ou homebrews. Características: Pode variar amplamente, mas geralmente inclui informações sobre a modificação, idioma ou autor. Exemplo: Pokemon FireRed (Hack) [Emerald Edition] [PT-BR].gba (Hack): Indica que é uma versão modificada. [Emerald Edition]: Edição específica do hack. [PT-BR]: Tradução para português do Brasil.)
+name_unofficial_dumps	(Descrição: ROMs extraídas diretamente de cartuchos ou discos por indivíduos ou pequenos grupos, sem seguir nenhum padrão oficial.Características: Geralmente têm nomes inconsistentes e podem incluir erros ou dados adicionais (ex: headers duplicados). Exemplo: Mario Kart 64 (PAL) [Custom Dump].z64	)
+name_ROM_Header	(O nome do cabeçalho da ROM é uma parte importante do arquivo que ajuda a identificar o jogo e suas características técnicas)
+name_file_ROM 
+name_clone
+system
+developer 
+publisher
+region
+genre
+score
+rating_community
+rating
+releaser_year
+date_releaser_US
+date_releaser_EU
+date_releaser_JP
+date_releaser_BR
+date_releaser_WORLD
+description
+distribution
+barcode
+players
+cooperative
+peripheral
+type_control
+number_buttons
+review
+guide_Walkthrough
+secret_game_codes
+releaseType
+programmer
+artist
+designer
+producer
+number_sales
+ROM_size
+special_chips
+videoURL
+wikiURL
+
+
+
+
+precisa fazer alguma melhorias na compatibilidade de importação 
+
+"D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\History"
+
+a estrutura de dados não tem o sistema e neste caso você tem que assumir que o sistema é o nome do arquivo por exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\History\ColecoVision.ini" o sistema a ser colocado na frente de cada rom é ColecoVision
+
+
+a estrutura de dados não tem o sistema e neste caso você tem que assumir que o sistema é o nome do arquivo por exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\Game Info\Amstrad CPC.ini" o sistema a ser colocado na frente de cada rom é Amstrad CPC
+
+arquivos do tipo launchbox por exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\launchbox\Metadata.xml"
+
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+
+
+sendo que 
+
+DatabaseID = id
+Name = title
+Platform = system
+Developer = developer 
+Publisher = publisher
+Genres = genre
+CommunityRating = score
+CommunityRatingCount = rating_community
+ESRB = rating
+ReleaseYear = releaser_year
+Overview = description
+MaxPlayers = players
+Cooperative = cooperative
+ReleaseType = releaseType
+VideoURL = videoURL
+
+Em "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\mamelist\Players\1P\Working Games\1P.xml" e todos no mesmo padrão de \meta\mamelist\
+
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>2P sim / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="1941" index="" image="">
+	<description>1941: Counter Attack (World 900227)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+
+game name = name_file_ROM
+description = title
+cloneof = name_clone
+crc = checksums
+manufacturer = developer
+year = releaser_year
+genre = genre
+rating = rating
+
+** neste caso o players vai ser o contexto da pasta como no exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\mamelist\Players\4P sim\Working Games\4P sim.xml" o players vai ser 4 porque esta na pasta 4P sim
+
+em "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\hyperlist\3DO Interactive Multiplayer.xml" e todos correlatos 
+
+game name = name_file_ROM
+description = title
+cloneof = name_clone
+manufacturer = developer
+year = releaser_year
+genre = genre
+rating = rating
+exe = system
+ctrltype = type_control
+buttons = number_buttons
+
+a estrutura de dados caso não tenha resultado no exe  ou tem o sistema descrito você tem que assumir que o sistema é o nome do arquivo por exemplo "D:\Steamapps\DevProjetos\PC Engines Projects\Mega_Emu_DataBase_ROMs\meta\hyperlist\Sega Master System TecToy.xml" o sistema a ser colocado na frente de cada rom é Sega Master System
+
+
+
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Panasonic 3DO</listname>
+		<lastlistupdate>08/28/2012</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="20th Century Video Almanac (USA)" index="true" image="2">
+		<description>20th Century Video Almanac (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1993</year>
+		<genre>Multimedia</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+observo que nossa tabela final do bd será e que o objetivo a longo prazo é ir consolidando as informações 
+
+id
+title
+checksums
+name_nointro
+name_goodtools
+name_TOSEC
+name_redump
+name_progetto_EMU
+name_custom	(Descrição: Alguns usuários ou grupos criam seus próprios padrões, especialmente para hacks, traduções ou homebrews. Características: Pode variar amplamente, mas geralmente inclui informações sobre a modificação, idioma ou autor. Exemplo: Pokemon FireRed (Hack) [Emerald Edition] [PT-BR].gba (Hack): Indica que é uma versão modificada. [Emerald Edition]: Edição específica do hack. [PT-BR]: Tradução para português do Brasil.)
+name_unofficial_dumps	(Descrição: ROMs extraídas diretamente de cartuchos ou discos por indivíduos ou pequenos grupos, sem seguir nenhum padrão oficial.Características: Geralmente têm nomes inconsistentes e podem incluir erros ou dados adicionais (ex: headers duplicados). Exemplo: Mario Kart 64 (PAL) [Custom Dump].z64	)
+name_ROM_Header	(O nome do cabeçalho da ROM é uma parte importante do arquivo que ajuda a identificar o jogo e suas características técnicas)
+name_file_ROM 
+name_clone
+system
+developer 
+publisher
+region
+genre
+score
+rating_community
+rating
+releaser_year
+date_releaser_US
+date_releaser_EU
+date_releaser_JP
+date_releaser_BR
+date_releaser_WORLD
+description
+distribution
+barcode
+players
+cooperative
+peripheral
+type_control
+number_buttons
+review
+guide_Walkthrough
+secret_game_codes
+releaseType
+programmer
+artist
+designer
+producer
+number_sales
+ROM_size
+special_chips
+videoURL
+wikiURL

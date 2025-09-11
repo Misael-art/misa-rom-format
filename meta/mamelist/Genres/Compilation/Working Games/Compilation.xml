@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Compilation / Working Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="20pacgal" index="" image="">
+	<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco / Cosmodog</manufacturer>
+	<year>2000</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="3wonders" index="" image="">
+	<description>Three Wonders (World 910520)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>1991</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="alphaho" index="" image="">
+	<description>Alpha Fighter / Head On</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>19??</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="arcadecl" index="" image="">
+	<description>Arcade Classics (prototype)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1992</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="carhntds" index="" image="">
+	<description>Car Hunt / Deep Scan (France)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="famibox" index="" image="">
+	<description>FamicomBox</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nintendo</manufacturer>
+	<year>1986</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube" index="" image="">
+	<description>Funcube (v1.5)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2000</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube2" index="" image="">
+	<description>Funcube 2 (v1.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube3" index="" image="">
+	<description>Funcube 3 (v1.1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube4" index="" image="">
+	<description>Funcube 4 (v1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2001</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="funcube5" index="" image="">
+	<description>Funcube 5 (v1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2002</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galgame2" index="" image="">
+	<description>Galaxy Games StarPak 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Creative Electronics &amp; Software / Namco</manufacturer>
+	<year>1998</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="galgame3" index="" image="">
+	<description>Galaxy Games StarPak 3</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Creative Electronics &amp; Software / Atari</manufacturer>
+	<year>1998</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="happy6" index="" image="">
+	<description>Huanle Liuhe Yi (Happy 6-in-1) (M68K ver. V101, ARM ver. V102CN)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGS</manufacturer>
+	<year>2004</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invcarht" index="" image="">
+	<description>Invinco / Car Hunt (Germany)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invds" index="" image="">
+	<description>Invinco / Deep Scan</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invho2" index="" image="">
+	<description>Invinco / Head On 2 (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="invqix" index="" image="">
+	<description>Space Invaders / Qix Silver Anniversary Edition (Ver. 2.03)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Taito / Namco</manufacturer>
+	<year>2003</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="konam80s" index="" image="">
+	<description>Konami 80&apos;s AC Special (GC826 VER. EAA)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Konami</manufacturer>
+	<year>1998</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ncv1" index="" image="">
+	<description>Namco Classic Collection Vol.1</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ncv2" index="" image="">
+	<description>Namco Classic Collection Vol.2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rollingc" index="" image="">
+	<description>Rolling Crash / Moon Base</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Nichibutsu</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sspacaho" index="" image="">
+	<description>Space Attack / Head On</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1979</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm" index="" image="">
+	<description>Touchmaster (v3.00 Euro)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+	<year>1996</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm2k" index="" image="">
+	<description>Touchmaster 2000 Plus (v4.63 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>1996</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm3k" index="" image="">
+	<description>Touchmaster 3000 (v5.02 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>1997</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm4k" index="" image="">
+	<description>Touchmaster 4000 (v6.03 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>1998</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm5k" index="" image="">
+	<description>Touchmaster 5000 (v7.10 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>1998</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm7k" index="" image="">
+	<description>Touchmaster 7000 (v8.04 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>1999</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tm8k" index="" image="">
+	<description>Touchmaster 8000 (v9.04 Standard)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Midway Games Inc.</manufacturer>
+	<year>2000</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tourtabl" index="" image="">
+	<description>Tournament Table (set 1)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Atari</manufacturer>
+	<year>1978</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="trisport" index="" image="">
+	<description>Tri-Sports</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1989</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="vgtablet" index="" image="">
+	<description>VG Pocket Tablet (VG-4000)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Performance Designed Products (licensed by Konami) / JungleTac</manufacturer>
+	<year>2006</year>
+	<genre>Compilation</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

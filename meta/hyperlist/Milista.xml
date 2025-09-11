@@ -1,0 +1,736 @@
+﻿<menu>
+ <game name="arkanoid">
+                <rompath>Missing</rompath>
+                <description>Arkanoid</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito Corporation Japan</manufacturer>
+                <year>1986</year>
+                <series>Arkanoid</series>
+                <source>arkanoid.cpp</Source>
+                <nplayers>2 Players (Alt)</nplayers>
+                <controltype>Spinner</controltype>
+                <nbuttons>1</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>256x224@59Hz</resolution>
+                <orientation>Vertical</orientation>
+                <veradded>00.30</veradded>
+                <region>World</region>
+                <genre>Ball and Paddle / Breakout</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="asterix">
+                <rompath>Missing</rompath>
+                <description>Asterix</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1992</year>
+                <series></series>
+                <source>asterix.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>2</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>288x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.37b13</veradded>
+                <region></region>
+                <genre>Fighter / 2.5D</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mslug2">
+                <rompath>Missing</rompath>
+                <description>Metal Slug 2 - Super Vehicle-001/II</description>
+                <cloneof></cloneof>
+                <manufacturer>SNK</manufacturer>
+                <year>1998</year>
+                <series>Metal Slug</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.34b5</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mslug3">
+                <rompath>Missing</rompath>
+                <description>Metal Slug 3</description>
+                <cloneof></cloneof>
+                <manufacturer>SNK</manufacturer>
+                <year>2000</year>
+                <series>Metal Slug</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.57</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mslug4">
+                <rompath>Missing</rompath>
+                <description>Metal Slug 4</description>
+                <cloneof></cloneof>
+                <manufacturer>Mega</manufacturer>
+                <year>2002</year>
+                <series>Metal Slug</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.90u4</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mslug5">
+                <rompath>Missing</rompath>
+                <description>Metal Slug 5</description>
+                <cloneof></cloneof>
+                <manufacturer>SNK Playmore</manufacturer>
+                <year>2003</year>
+                <series>Metal Slug</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.103u2</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mk">
+                <rompath>Missing</rompath>
+                <description>Mortal Kombat</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1992</year>
+                <series>Mortal Kombat</series>
+                <source>midtunit.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>6</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>400x254@54Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.34b7</veradded>
+                <region></region>
+                <genre>Fighter / Versus</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="mk4">
+                <rompath>Missing</rompath>
+                <description>Mortal Kombat 4</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1997</year>
+                <series>Mortal Kombat</series>
+                <source>midzeus.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>6</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>400x256@56Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.84u3</veradded>
+                <region></region>
+                <genre>Fighter / Versus</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="pacman">
+                <rompath>Missing</rompath>
+                <description>Pac-Man</description>
+                <cloneof>puckman</cloneof>
+                <manufacturer>Namco (Midway license)</manufacturer>
+                <year>1980</year>
+                <series>Pac-Man</series>
+                <source>pacman.cpp</Source>
+                <nplayers>2 Players (Alt)</nplayers>
+                <controltype>4-Way Joystick</controltype>
+                <nbuttons></nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>288x224@60Hz</resolution>
+                <orientation>Vertical</orientation>
+                <veradded>00.1</veradded>
+                <region></region>
+                <genre>Maze / Collect</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="pbobblen">
+                <rompath>Missing</rompath>
+                <description>Puzzle Bobble / Bust-A-Move</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito</manufacturer>
+                <year>1994</year>
+                <series>Puzzle Bobble</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.34b1</veradded>
+                <region></region>
+                <genre>Puzzle / Toss</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="sf2">
+                <rompath>Missing</rompath>
+                <description>Street Fighter II: The World Warrior</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <series>Street Fighter</series>
+                <source>cps1.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>6</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>384x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.64</veradded>
+                <region>World</region>
+                <genre>Fighter / Versus</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="ssideki">
+                <rompath>Missing</rompath>
+                <description>Super Sidekicks / Tokuten Ou</description>
+                <cloneof></cloneof>
+                <manufacturer>SNK</manufacturer>
+                <year>1992</year>
+                <series>Super Sidekicks</series>
+                <source>neogeo.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>4</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@59Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.34b1</veradded>
+                <region></region>
+                <genre>Sports / Soccer</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="trackfld">
+                <rompath>Missing</rompath>
+                <description>Track  Field</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1983</year>
+                <series>Track  Field</series>
+                <source>trackfld.cpp</Source>
+                <nplayers>4 Players (Alt) / 2 Players (Sim)</nplayers>
+                <controltype>Buttons Only</controltype>
+                <nbuttons>3</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>256x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.30</veradded>
+                <region></region>
+                <genre>Sports / Track and Field</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="tumblep">
+                <rompath>Missing</rompath>
+                <description>Tumble Pop</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <series></series>
+                <source>supbtime.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>2</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x240@57Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.36b8</veradded>
+                <region>World</region>
+                <genre>Platform / Run Jump</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="wboy">
+                <rompath>Missing</rompath>
+                <description>Wonder Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Escape (Sega license)</manufacturer>
+                <year>1986</year>
+                <series>Wonder Boy</series>
+                <source>system1.cpp</Source>
+                <nplayers>2 Players (Alt)</nplayers>
+                <controltype>2-Way Joystick</controltype>
+                <nbuttons>2</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>512x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.34b3</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="wbdeluxe">
+                <rompath>Missing</rompath>
+                <description>Wonder Boy Deluxe</description>
+                <cloneof>wboy</cloneof>
+                <manufacturer>hack (Vision Electronics)</manufacturer>
+                <year>1986</year>
+                <series>Wonder Boy</series>
+                <source>system1.cpp</Source>
+                <nplayers>2 Players (Alt)</nplayers>
+                <controltype>2-Way Joystick</controltype>
+                <nbuttons>2</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>512x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.31</veradded>
+                <region></region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="wb3">
+                <rompath>Missing</rompath>
+                <description>Wonder Boy III - Monster Lair</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <series>Wonder Boy</series>
+                <source>segas16b.cpp</Source>
+                <nplayers>2 Players (Sim)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>3</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>320x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.36b1</veradded>
+                <region>World</region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="wbml">
+                <rompath>Missing</rompath>
+                <description>Wonder Boy in Monster Land</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <series>Wonder Boy</series>
+                <source>system1.cpp</Source>
+                <nplayers>2 Players (Alt)</nplayers>
+                <controltype>8-Way Joystick</controltype>
+                <nbuttons>2</nbuttons>
+                <displaytype>Raster</displaytype>
+                <resolution>512x224@60Hz</resolution>
+                <orientation>Horizontal</orientation>
+                <veradded>00.36b1</veradded>
+                <region>Japan</region>
+                <genre>Platform / Shooter Scrolling</genre>
+                <videopath>D:\attractmode\emulators\mame\videos</videopath>
+        </game>
+        <game name="altbeast">
+                <description>Altered Beast</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="arknoid2">
+                <description>Arkanoid - Revenge of DOH</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito Corporation Japan</manufacturer>
+                <year>1987</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="bbmanw">
+                <description>Bomber Man World / New Dyna Blaster - Global Quest</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="bnzabros">
+                <description>Bonanza Bros</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Shooter</genre>
+        </game>
+        <game name="btime">
+                <description>Burger Time</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1982</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="dino">
+                <description>Cadillacs and Dinosaurs</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="captcomm">
+                <description>Captain Commando</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="cninja">
+                <description>Caveman Ninja</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="centiped">
+                <description>Centipede</description>
+                <cloneof></cloneof>
+                <manufacturer>Atari</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="circusc">
+                <description>Circus Charlie</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="digdug">
+                <description>Dig Dug</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Digging</genre>
+        </game>
+        <game name="digdug2">
+                <description>Dig Dug II</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1985</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="dkong">
+                <description>Donkey Kong</description>
+                <cloneof></cloneof>
+                <manufacturer>Nintendo of America</manufacturer>
+                <year>1981</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="dkong3">
+                <description>Donkey Kong 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Nintendo of America</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="doubledr">
+                <description>Double Dragon</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="frogger">
+                <description>Frogger</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Cross</genre>
+        </game>
+        <game name="galaxian">
+                <description>Galaxian</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="gauntlet">
+                <description>Gauntlet</description>
+                <cloneof></cloneof>
+                <manufacturer>Atari Games</manufacturer>
+                <year>1985</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="gaunt2">
+                <description>Gauntlet II</description>
+                <cloneof></cloneof>
+                <manufacturer>Atari Games</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="ghouls">
+                <description>Ghouls'n Ghosts</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="gaxeduel">
+                <description>Golden Axe - The Duel</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="hamboy">
+                <description>Hammer Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Dinamic</manufacturer>
+                <year>1990</year>
+                <genre>Whac-A-Mole / Hammer</genre>
+        </game>
+        <game name="ldrun">
+                <description>Lode Runner</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="ldrun2">
+                <description>Lode Runner II - The Bungeling Strikes Back</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="ldrun3">
+                <description>Lode Runner III - The Golden Labyrinth</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="mario">
+                <description>Mario Bros.</description>
+                <cloneof></cloneof>
+                <manufacturer>Nintendo of America</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="megaman2">
+                <description>Mega Man 2: The Power Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="megaman">
+                <description>Mega Man: The Power Battle</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="mtwins">
+                <description>Mega Twins</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="mslug">
+                <description>Metal Slug - Super Vehicle-001</description>
+                <cloneof></cloneof>
+                <manufacturer>Nazca</manufacturer>
+                <year>1996</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="mspacman">
+                <description>Ms. Pac-Man</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="neobombe">
+                <description>Neo Bomberman</description>
+                <cloneof></cloneof>
+                <manufacturer>Hudson</manufacturer>
+                <year>1997</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="pacplus">
+                <description>Pac-Man Plus</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco (Midway license)</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="pang">
+                <description>Pang</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="pang3">
+                <description>Pang! 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="popeye">
+                <description>Popeye</description>
+                <cloneof></cloneof>
+                <manufacturer>Nintendo</manufacturer>
+                <year>1982</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="pbobblen">
+                <description>Puzzle Bobble / Bust-A-Move</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito</manufacturer>
+                <year>1994</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="rtype">
+                <description>R-Type</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="rbisland">
+                <description>Rainbow Islands</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="salamand">
+                <description>Salamander</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="shinobi">
+                <description>Shinobi</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="snowbros">
+                <description>Snow Bros. - Nick Tom</description>
+                <cloneof></cloneof>
+                <manufacturer>Toaplan</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="snowbro2">
+                <description>Snow Bros. 2 - With New Elves / Otenki Paradise</description>
+                <cloneof></cloneof>
+                <manufacturer>Hanafram</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="sf">
+                <description>Street Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1987</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sf2ce">
+                <description>Street Fighter II': Champion Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="superpac">
+                <description>Super Pac-Man</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="spang">
+                <description>Super Pang</description>
+                <cloneof></cloneof>
+                <manufacturer>Mitchell</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="tmnt">
+                <description>Teenage Mutant Ninja Turtles</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="atetris">
+                <description>Tetris</description>
+                <cloneof></cloneof>
+                <manufacturer>Atari Games</manufacturer>
+                <year>1988</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="ninjak">
+                <description>The Ninja Kids</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito Corporation Japan</manufacturer>
+                <year>1990</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="punisher">
+                <description>The Punisher</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="simpsons">
+                <description>The Simpsons</description>
+                <cloneof></cloneof>
+                <manufacturer>Konami</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="3wonders">
+                <description>Three Wonders</description>
+                <cloneof></cloneof>
+                <manufacturer>Capcom</manufacturer>
+                <year>1991</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="toki">
+                <description>Toki</description>
+                <cloneof></cloneof>
+                <manufacturer>TAD Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="wboy">
+                <description>Wonder Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Escape (Sega license)</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="wb3">
+                <description>Wonder Boy III - Monster Lair</description>
+                <cloneof></cloneof>
+                <manufacturer>Sega</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+</menu>

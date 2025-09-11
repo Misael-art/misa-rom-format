@@ -1,0 +1,51 @@
+{
+    "theme": "light",
+    "show_welcome": true,
+    "show_navigation": true,
+    "window_size": "800x600",
+    "recent_databases": [
+        "D:/Steamapps/DevProjetos/PC Engines Projects/Mega_Emu_DataBase_ROMs/data/game_data.db",
+        "D:/Steamapps/DevProjetos/PC Engines Projects/Mega_Emu_DataBase_ROMs/data/data_game.db"
+    ],
+    "max_recent_databases": 10,
+    "last_import_dir": "",
+    "last_roms_dir": "",
+    "log_level": "INFO",
+    "log_format": "%(asctime)s [%(levelname)s] %(message)s",
+    "db_timeout": 30,
+    "db_max_connections": 5,
+    "ui_padding": 5,
+    "ui_font_family": "Segoe UI",
+    "ui_font_size": 10,
+    "import_batch_size": 1000,
+    "import_supported_formats": {
+        "dat": [
+            "dat",
+            "xml"
+        ],
+        "ini": [
+            "ini",
+            "txt"
+        ],
+        "csv": [
+            "csv"
+        ]
+    },
+    "verify_chunk_size": 8192,
+    "verify_max_workers": 4,
+    "cache_enabled": true,
+    "cache_max_size": 1000,
+    "cache_ttl": 3600,
+    "backup_enabled": true,
+    "backup_interval": 86400,
+    "backup_max_files": 5,
+    "network_timeout": 30,
+    "network_max_retries": 3,
+    "security_hash_algorithm": "sha1",
+    "security_salt_size": 16,
+    "performance_max_memory": 1073741824,
+    "performance_cleanup_interval": 300,
+    "debug_enabled": false,
+    "debug_log_sql": false,
+    "debug_profile": false
+}

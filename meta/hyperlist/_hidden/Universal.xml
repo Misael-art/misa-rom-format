@@ -1,0 +1,142 @@
+﻿<menu>
+        <game name="cheekyms">
+                <description>Cheeky Mouse</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Fighter / Field</genre>
+        </game>
+        <game name="cosmica">
+                <description>Cosmic Alien</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="cavenger">
+                <description>Cosmic Avenger</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="cosmicg">
+                <description>Cosmic Guerilla</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="devzone">
+                <description>Devil Zone</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="dorunrun">
+                <description>Do! Run Run</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="idsoccer">
+                <description>Indoor Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="jjack">
+                <description>Jumping Jack</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="kickridr">
+                <description>Kick Rider</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1984</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="ladybug">
+                <description>Lady Bug</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="magspot">
+                <description>Magical Spot</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="magspot2">
+                <description>Magical Spot II</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="mrdo">
+                <description>Mr. Do!</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Digging</genre>
+        </game>
+        <game name="docastle">
+                <description>Mr. Do's Castle</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="dowild">
+                <description>Mr. Do's Wild Ride</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="mrsdyna">
+                <description>Mrs. Dynamite</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="nomnlnd">
+                <description>Sengoku no Jieitai</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="snapjack">
+                <description>Snap Jack</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1981</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="panic">
+                <description>Space Panic</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1980</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="sraider">
+                <description>Space Raider</description>
+                <cloneof></cloneof>
+                <manufacturer>Universal</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+</menu>

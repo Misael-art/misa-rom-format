@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Sega / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="diamondking" index="" image="">
+	<description>Diamond King (with Euro support)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SegaSA / Sonic</manufacturer>
+	<year>1997</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="goldenchip" index="" image="">
+	<description>Golden Chip</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>SegaSA / Sonic</manufacturer>
+	<year>19??</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="m3001" index="" image="">
+	<description>M3001</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1990</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="m4001" index="" image="">
+	<description>M4001</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1990</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wwmspot" index="" image="">
+	<description>Winner&apos;s Wheel - Magical Spot</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>2005</year>
+	<genre>Fruit Machines</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

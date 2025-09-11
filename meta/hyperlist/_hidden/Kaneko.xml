@@ -1,0 +1,142 @@
+﻿<menu>
+        <game name="gtmr">
+                <description>1000 Miglia: Great 1000 Miles Rally</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1994</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="airbustr">
+                <description>Air Buster: Trouble Specialty Raid Unit</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko (Namco license)</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="bonkadv">
+                <description>B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="brapboys">
+                <description>B.Rap Boys</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="bloodwar">
+                <description>Blood Warrior</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="boggy84">
+                <description>Boggy '84</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="cyvern">
+                <description>Cyvern - The Dragon Weapons</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="djboy">
+                <description>DJ Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="explbrkr">
+                <description>Explosive Breaker</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="fightrol">
+                <description>Fighting Roller</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko (Taito license)</manufacturer>
+                <year>1983</year>
+                <genre>Fighter / Vertical</genre>
+        </game>
+        <game name="flyboy">
+                <description>Fly-Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1982</year>
+                <genre>Sports / Hang Gliding</genre>
+        </game>
+        <game name="jchan">
+                <description>Jackie Chan - The Kung-Fu Master</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="jchan2">
+                <description>Jackie Chan in Fists of Fire</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="jumpcoas">
+                <description>Jump Coaster</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko Elc. Co.</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="jumpkun">
+                <description>Jump Kun</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="mgcrystl">
+                <description>Magical Crystals</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1991</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="gtmr2">
+                <description>Mille Miglia 2: Great 1000 Miles Rally</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1995</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="packbang">
+                <description>Pack'n Bang Bang</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1994</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="shogwarr">
+                <description>Shogun Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="berlwall">
+                <description>The Berlin Wall</description>
+                <cloneof></cloneof>
+                <manufacturer>Kaneko</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+</menu>

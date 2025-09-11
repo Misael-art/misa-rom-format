@@ -1,0 +1,168 @@
+<menu>
+  <game name="BS F-Zero Grand Prix 2 (MSU-1)" index="" image="" enabled="1">
+    <description>BS F-Zero Grand Prix 2 (MSU-1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo</manufacturer>
+    <rating>ESRB - E (Everyone)</rating>
+    <year />
+    <genre />
+  </game>
+   <game name="Aladdin (USA) (MSU-1)" index="" image="">
+    <description>Disney's Aladdin (USA)</description>
+    <cloneof />
+    <crc>124d8e4d</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1993</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="Chrono Trigger (USA) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Chrono Trigger (USA)</description>
+    <cloneof />
+    <crc>2d206bf7</crc>
+    <manufacturer>Squaresoft</manufacturer>
+    <year>1995</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.2</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="Donkey Kong Country (USA) (Rev 2) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Donkey Kong Country (USA) (Rev 2)</description>
+    <cloneof />
+    <crc>762af827</crc>
+    <manufacturer>Rare</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>3.9</score>
+    <players>2</players>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong Country 2 - Diddy's Kong Quest (USA) (Rev 1) (MSU1) (Alt) (Translated PtBr)" index="" image="">
+    <description>Donkey Kong Country 2 - Diddy's Kong Quest (USA) (Rev 1)</description>
+    <cloneof />
+    <crc>4e2d90f4</crc>
+    <manufacturer>Rare</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.0</score>
+    <players>2</players>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)" index="" image="">
+    <description>Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)</description>
+    <cloneof />
+    <crc>448eec19</crc>
+    <manufacturer>Rare</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>3.9</score>
+    <players>2</players>
+    <enabled>Yes</enabled>
+  </game> 
+   <game name="Legend of Zelda, The - A Link to the Past (USA) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Legend of Zelda, The - A Link to the Past (USA)</description>
+    <cloneof />
+    <crc>777aac2f</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1992</year>
+    <genre>Adventure</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.1</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game> 
+  <game name="Mega Man 4 (MSU-1) (USA)" index="" image="">
+    <description>Mega Man 4 (USA)</description>
+    <cloneof />
+    <crc></crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>2021</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>3.9</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="Mega Man 7 (USA) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Mega Man 7 (USA)</description>
+    <cloneof />
+    <crc>2d947536</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1995</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>3.8</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mega Man X (USA) (Rev 1) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Mega Man X (USA) (Rev 1)</description>
+    <cloneof />
+    <crc>ded53c64</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.1</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rockman & Forte (Japan) (Translated PtBr) (MSU1)" index="" image="">
+	<description>Rockman &amp; Forte (Japan) (Translated En)</description>
+	<cloneof></cloneof>
+	<crc>bc12734c</crc>
+	<manufacturer>Capcom</manufacturer>
+	<year>1998</year>
+	<genre>Platform</genre>
+	<rating>Other - NR (Not Rated)</rating>
+	<enabled>Yes</enabled>
+</game>
+  <game name="Secret of Mana (USA) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Secret of Mana (USA)</description>
+    <cloneof />
+    <crc>d0176b24</crc>
+    <manufacturer>SquareSoft</manufacturer>
+    <year>1993</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.0</score>
+    <players>3</players>
+    <enabled>Yes</enabled>
+  </game>
+
+  <game name="Super Mario RPG (USA) (Rev 1) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Super Mario RPG - Legend of the Seven Stars (USA)</description>
+    <cloneof />
+    <crc>1b8a0625</crc>
+    <manufacturer>SquareSoft</manufacturer>
+    <year>1996</year>
+    <genre>Role-Playing</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>4.0</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>  
+  
+  <game name="The Lion King (USA) (Rev 1) (MSU1) (Translated PtBr)" index="" image="">
+    <description>Lion King, The (USA)</description>
+    <cloneof />
+    <crc>c8fbfaa8</crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1994</year>
+    <genre>Platform</genre>
+    <rating>Other - NR (Not Rated)</rating>
+    <score>3.8</score>
+    <players>1</players>
+    <enabled>Yes</enabled>
+  </game>
+ 
+ 
+ 
+</menu>

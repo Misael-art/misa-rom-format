@@ -1,0 +1,233 @@
+﻿<menu>
+        <game name="agallet">
+                <description>Air Gallet</description>
+                <cloneof></cloneof>
+                <manufacturer>Gazelle (Banpresto license)</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="deathsml">
+                <description>Deathsmiles</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2007</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="dsmbl">
+                <description>Deathsmiles MegaBlack Label</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2008</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="ddonpach">
+                <description>DoDonPachi</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Atlus license)</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="dfkbl">
+                <description>DoDonPachi Dai-Fukkatsu Black Label</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave</manufacturer>
+                <year>2010</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ddpdfk">
+                <description>DoDonPachi Dai-Fukkatsu Ver 1.5</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2008</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="donpachi">
+                <description>DonPachi</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Atlus license)</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="esprade">
+                <description>ESP Ra.De.</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Atlus license)</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="espgal2">
+                <description>Espgaluda II</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2005</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="feversos">
+                <description>Fever SOS</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Nihon System license)</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="gaia">
+                <description>Gaia Crusaders</description>
+                <cloneof></cloneof>
+                <manufacturer>Noise Factory</manufacturer>
+                <year>1999</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="plegends">
+                <description>Gogetsuji Legends</description>
+                <cloneof></cloneof>
+                <manufacturer>Atlus</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="hotdogst">
+                <description>Hotdog Storm</description>
+                <cloneof></cloneof>
+                <manufacturer>Marble (Ace International license)</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ibara">
+                <description>Ibara</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2005</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ibarablk">
+                <description>Ibara Kuro Black Label</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2006</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="mazinger">
+                <description>Mazinger Z</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="metmqstr">
+                <description>Metamoqester</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus Co-op</genre>
+        </game>
+        <game name="mmpork">
+                <description>Muchi Muchi Pork!</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2007</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="mushisam">
+                <description>Mushihime-Sama</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2004</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="futaribl">
+                <description>Mushihime-Sama Futari Black Label - Another Ver</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2007</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="futari15">
+                <description>Mushihime-Sama Futari Ver 1.5</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2006</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="paccarn">
+                <description>Pac-Carnival</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Medal Game / Action</genre>
+        </game>
+        <game name="paceight">
+                <description>Pac-Eight</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Slot Machine / Video Slot</genre>
+        </game>
+        <game name="pacslot">
+                <description>Pac-Slot</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Slot Machine / Video Slot</genre>
+        </game>
+        <game name="pinkswts">
+                <description>Pink Sweets: Ibara Sorekara</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2006</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="pwrinst2">
+                <description>Power Instinct 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Atlus</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="sailormn">
+                <description>Pretty Soldier Sailor Moon</description>
+                <cloneof></cloneof>
+                <manufacturer>Gazelle (Banpresto license)</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="uopoko">
+                <description>Puzzle Uo Poko</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (Jaleco license)</manufacturer>
+                <year>1998</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="mushitam">
+                <description>Puzzle! Mushihime-Tama</description>
+                <cloneof></cloneof>
+                <manufacturer>Cave (AMI license)</manufacturer>
+                <year>2005</year>
+                <genre>Puzzle / Match</genre>
+        </game>
+        <game name="tekkenbs">
+                <description>Tekken Battle Scratch</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1998</year>
+                <genre>Medal Game / Versus</genre>
+        </game>
+        <game name="tekkencw">
+                <description>Tekken Card World</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1997</year>
+                <genre>Medal Game / Cards</genre>
+        </game>
+        <game name="theroes">
+                <description>Thunder Heroes</description>
+                <cloneof></cloneof>
+                <manufacturer>Primetek Investments</manufacturer>
+                <year>2001</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="tjumpman">
+                <description>Tobikose! Jumpman</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco</manufacturer>
+                <year>1999</year>
+                <genre>Medal Game / Timing</genre>
+        </game>
+</menu>

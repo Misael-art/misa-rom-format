@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Jaleco / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="soldam" index="" image="">
+	<description>Soldam</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1992</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tetrisp" index="" image="">
+	<description>Tetris Plus (ver 1.0)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco / BPS</manufacturer>
+	<year>1995</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="tetrisp2" index="" image="">
+	<description>Tetris Plus 2 (World, V2.8)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Jaleco / The Tetris Company</manufacturer>
+	<year>1997</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="uopoko" index="" image="">
+	<description>Puzzle Uo Poko (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Cave (Jaleco license)</manufacturer>
+	<year>1998</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

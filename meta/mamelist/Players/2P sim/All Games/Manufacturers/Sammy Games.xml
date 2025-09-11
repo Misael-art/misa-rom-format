@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>2P sim / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="bioship" index="" image="">
+	<description>Bio-ship Paladin</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>UPL (American Sammy license)</manufacturer>
+	<year>1990</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="blokpong" index="" image="">
+	<description>Block Pong-Pong</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>MOSS / Sammy</manufacturer>
+	<year>2004</year>
+	<genre>Ball &amp; Paddle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="cairblad" index="" image="">
+	<description>Change Air Blade (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>1999</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dolphin" index="" image="">
+	<description>Dolphin Blue</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>2003</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="dynagear" index="" image="">
+	<description>Dyna Gear</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>1993</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ggx15" index="" image="">
+	<description>Guilty Gear X ver. 1.5</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Arc System Works / Sammy</manufacturer>
+	<year>2003</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kofnw" index="" image="">
+	<description>The King of Fighters Neowave</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / SNK Playmore</manufacturer>
+	<year>2004</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kofxi" index="" image="">
+	<description>The King of Fighters XI</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / SNK Playmore</manufacturer>
+	<year>2005</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="kov7sprt" index="" image="">
+	<description>Knights of Valour - The Seven Spirits</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>IGS / Sammy</manufacturer>
+	<year>2003</year>
+	<genre>Beat-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="ngbc" index="" image="">
+	<description>NeoGeo Battle Coliseum</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / SNK Playmore</manufacturer>
+	<year>2005</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rangrmsn" index="" image="">
+	<description>Ranger Mission</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>RIZ Inc./ Sammy</manufacturer>
+	<year>2004</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rumblef" index="" image="">
+	<description>The Rumble Fish</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / Dimps</manufacturer>
+	<year>2004</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="rumblef2" index="" image="">
+	<description>The Rumble Fish 2</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / Dimps</manufacturer>
+	<year>2005</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="samsptk" index="" image="">
+	<description>Samurai Spirits Tenkaichi Kenkakuden</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / SNK Playmore</manufacturer>
+	<year>2005</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sokonuke" index="" image="">
+	<description>Sokonuke Taisen Game (Japan)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy Industries</manufacturer>
+	<year>1995</year>
+	<genre>Platform</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sprtshot" index="" image="">
+	<description>Sports Shooting USA</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy USA</manufacturer>
+	<year>2003</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="survarts" index="" image="">
+	<description>Survival Arts (World)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>1993</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sushibar" index="" image="">
+	<description>Sushi Bar / Toretore! Sushi</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>2003</year>
+	<genre>Puzzle</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="trophyh" index="" image="">
+	<description>Trophy Hunting - Bear &amp; Moose V1.00</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy USA Corporation</manufacturer>
+	<year>2002</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="viewpoin" index="" image="">
+	<description>Viewpoint</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy / Aicom</manufacturer>
+	<year>1992</year>
+	<genre>Shoot-&apos;Em-Up</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="waidrive" index="" image="">
+	<description>WaiWai Drive</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>MOSS / Sammy</manufacturer>
+	<year>2005</year>
+	<genre>Driving</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="wschamp" index="" image="">
+	<description>Wing Shooting Championship V2.00</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy USA Corporation</manufacturer>
+	<year>2001</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="xtrmhunt" index="" image="">
+	<description>Extreme Hunting</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sammy</manufacturer>
+	<year>2004</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zombraid" index="" image="">
+	<description>Zombie Raid (9/28/95, US)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>American Sammy</manufacturer>
+	<year>1995</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

@@ -1,0 +1,527 @@
+﻿<menu>
+        <game name="openice">
+                <description>2 On 2 Open Ice Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1995</year>
+                <genre>Sports / Hockey</genre>
+        </game>
+        <game name="280zzzap">
+                <description>280-ZZZAP</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1976</year>
+                <genre>Driving / 1st Person</genre>
+        </game>
+        <game name="maze">
+                <description>Amazing Maze</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1976</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="biofreak">
+                <description>Bio F.R.E.A.K.S</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="blueshrk">
+                <description>Blue Shark</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1978</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="boothill">
+                <description>Boot Hill</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1977</year>
+                <genre>Shooter / Versus</genre>
+        </game>
+        <game name="bowler">
+                <description>Bowling Alley</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1978</year>
+                <genre>Sports / Bowling</genre>
+        </game>
+        <game name="carnevil">
+                <description>CarnEvil</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="cartfury">
+                <description>CART Fury Championship Racing</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>2000</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="checkmat">
+                <description>Checkmate</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1977</year>
+                <genre>Maze / Surround</genre>
+        </game>
+        <game name="clowns">
+                <description>Clowns</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1978</year>
+                <genre>Ball and Paddle / Jump and Touch</genre>
+        </game>
+        <game name="crusnusa">
+                <description>Cruis'n USA</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1994</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="crusnwld">
+                <description>Cruis'n World</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1996</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="desertgu">
+                <description>Desert Gun</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1977</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="dogpatch">
+                <description>Dog Patch</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1977</year>
+                <genre>Shooter / Versus</genre>
+        </game>
+        <game name="dplay">
+                <description>Double Play</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1977</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="ebases">
+                <description>Extra Bases</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1980</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="gauntdl">
+                <description>Gauntlet Dark Legacy</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1999</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="gorf">
+                <description>Gorf</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="gmissile">
+                <description>Guided Missile</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1977</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="gunfight">
+                <description>Gun Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1975</year>
+                <genre>Shooter / Versus</genre>
+        </game>
+        <game name="hyprdriv">
+                <description>Hyperdrive</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1998</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="invasnab">
+                <description>Invasion - The Abductors</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1999</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="jdreddp">
+                <description>Judge Dredd</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 3D</genre>
+        </game>
+        <game name="kick">
+                <description>Kick</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1981</year>
+                <genre>Ball and Paddle / Jump and Touch</genre>
+        </game>
+        <game name="kinst">
+                <description>Killer Instinct</description>
+                <cloneof></cloneof>
+                <manufacturer>Rare (Midway license)</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="kinst2">
+                <description>Killer Instinct 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Rare (Midway license)</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="lagunar">
+                <description>Laguna Racer</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1977</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="m4">
+                <description>M-4</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1977</year>
+                <genre>Shooter / Versus</genre>
+        </game>
+        <game name="mk">
+                <description>Mortal Kombat</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mk3mdb">
+                <description>Mortal Kombat 3</description>
+                <cloneof></cloneof>
+                <manufacturer>bootleg</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mk3">
+                <description>Mortal Kombat 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mk4">
+                <description>Mortal Kombat 4</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1997</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="mk2">
+                <description>Mortal Kombat II</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="nbahangt">
+                <description>NBA Hangtime</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="nbajam">
+                <description>NBA Jam</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="nbajamte">
+                <description>NBA Jam TE</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="nbashowt">
+                <description>NBA Showtime NBA on NBC</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1999</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="blitz99">
+                <description>NFL Blitz '99</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1998</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="blitz">
+                <description>NFL Blitz</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1997</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="blitz2k">
+                <description>NFL Blitz 2000 Gold Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1999</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="offroadc">
+                <description>Off Road Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1997</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="omegrace">
+                <description>Omega Race</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="pacplus">
+                <description>Pac-Man Plus</description>
+                <cloneof></cloneof>
+                <manufacturer>Namco (Midway license)</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="phantom2">
+                <description>Phantom II</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="pigskin">
+                <description>Pigskin 621AD</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1990</year>
+                <genre>Sports / Rugby Football</genre>
+        </game>
+        <game name="rmpgwt">
+                <description>Rampage: World Tour</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1997</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="revx">
+                <description>Revolution X</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="seawolf">
+                <description>Sea Wolf</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1976</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="seawolf2">
+                <description>Sea Wolf II</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1978</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="shuffle">
+                <description>Shuffleboard</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1978</year>
+                <genre>Sports / Shuffleboard</genre>
+        </game>
+        <game name="spcenctr">
+                <description>Space Encounters</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="invaders">
+                <description>Space Invaders / Space Invaders M</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito</manufacturer>
+                <year>1978</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="invad2ct">
+                <description>Space Invaders II</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="spacwalk">
+                <description>Space Walk</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1978</year>
+                <genre>Ball and Paddle / Jump and Touch</genre>
+        </game>
+        <game name="spacezap">
+                <description>Space Zap</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="nbanfl">
+                <description>SportStation: NBA Showtime NBA on NBC / NFL Blitz 2000 Gold Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>1999</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="nbagold">
+                <description>SportStation: NBA Showtime NBA on NBC Gold Edition / NFL Blitz 2000 Gold Edition</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games</manufacturer>
+                <year>2000</year>
+                <genre>Sports / Multiplay</genre>
+        </game>
+        <game name="strkforc">
+                <description>Strike Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="shimpact">
+                <description>Super High Impact</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="sspeedr">
+                <description>Super Speed Race</description>
+                <cloneof></cloneof>
+                <manufacturer>Taito (Midway license)</manufacturer>
+                <year>1979</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="term2">
+                <description>Terminator 2 - Judgment Day</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="tornbase">
+                <description>Tornado Baseball / Ball Park</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1976</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="totcarn">
+                <description>Total Carnage</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="tm2k">
+                <description>Touchmaster 2000 Plus</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>1996</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="tm3k">
+                <description>Touchmaster 3000</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>1997</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="tm4k">
+                <description>Touchmaster 4000</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>1998</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="tm5k">
+                <description>Touchmaster 5000</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>1998</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="tm7k">
+                <description>Touchmaster 7000</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>1999</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="tm8k">
+                <description>Touchmaster 8000</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway Games Inc.</manufacturer>
+                <year>2000</year>
+                <genre>MultiGame / Compilation</genre>
+        </game>
+        <game name="trog">
+                <description>Trog</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="umk3">
+                <description>Ultimate Mortal Kombat 3</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="wargods">
+                <description>War Gods</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="wow">
+                <description>Wizard of Wor</description>
+                <cloneof></cloneof>
+                <manufacturer>Dave Nutting Associates</manufacturer>
+                <year>1980</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="wwfmania">
+                <description>WWF: Wrestlemania</description>
+                <cloneof></cloneof>
+                <manufacturer>Midway</manufacturer>
+                <year>1995</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+</menu>

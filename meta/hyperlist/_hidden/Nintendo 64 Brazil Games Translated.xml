@@ -1,0 +1,3326 @@
+<menu>
+  <header>
+	<listname>Nintendo 64</listname>
+	<lastlistupdate>08/20/2017</lastlistupdate>
+	<listversion>SupraKarma2.0</listversion>
+  </header>
+  <game name="007 - GoldenEye (USA) (Translated PtBr)" index="true" image="0">
+    <description>007: GoldenEye (USA)</description>
+    <cloneof />
+    <crc>8B70CB5B</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="007 - The World Is Not Enough (USA) (Translated PtBr)" index="" image="">
+    <description>007: The World Is Not Enough (USA)</description>
+    <cloneof />
+    <crc>34F0EE5B</crc>
+    <manufacturer>EA Games</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="1080 Snowboarding (Japan, USA) (Translated PtBr)" index="true" image="1">
+    <description>1080 Snowboarding (Japan, USA)</description>
+    <cloneof />
+    <crc>D1744951</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Snowboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="AeroFighters Assault (USA) (Translated PtBr)" index="true" image="a">
+    <description>AeroFighters Assault (USA)</description>
+    <cloneof />
+    <crc>B08EF0B9</crc>
+    <manufacturer>Video System</manufacturer>
+    <year>1997</year>
+    <genre>Flying</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="AeroGauge (USA) (Translated PtBr)" index="" image="">
+    <description>AeroGauge (USA)</description>
+    <cloneof />
+    <crc>04038CB8</crc>
+    <manufacturer>ASCII Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Aidyn Chronicles - The First Mage (USA) (Translated PtBr)" index="" image="">
+    <description>Aidyn Chronicles: The First Mage (USA)</description>
+    <cloneof />
+    <crc>8DA62304</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2001</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Air Boarder 64 (Europe) (Translated PtBr)" index="" image="">
+    <description>Air Boarder 64 (Europe)</description>
+    <cloneof />
+    <crc>92659837</crc>
+    <manufacturer>GMI</manufacturer>
+    <year>1998</year>
+    <genre>Sports</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="All Star Tennis '99 (USA) (Translated PtBr)" index="" image="">
+    <description>All Star Tennis '99 (USA)</description>
+    <cloneof />
+    <crc>7326E6C9</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Tennis</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="All-Star Baseball 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>All-Star Baseball 2000 (USA)</description>
+    <cloneof />
+    <crc>15063EAC</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="All-Star Baseball 2001 (USA) (Translated PtBr)" index="" image="">
+    <description>All-Star Baseball 2001 (USA)</description>
+    <cloneof />
+    <crc>3E8BE0E0</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="All-Star Baseball '99 (USA) (Translated PtBr)" index="" image="">
+    <description>All-Star Baseball '99 (USA)</description>
+    <cloneof />
+    <crc>82B7E47D</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Armorines - Project S.W.A.R.M. (USA) (Translated PtBr)" index="" image="">
+    <description>Armorines: Project S.W.A.R.M. (USA)</description>
+    <cloneof />
+    <crc>950985F6</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Army Men - Air Combat (USA) (Translated PtBr)" index="" image="">
+    <description>Army Men: Air Combat (USA)</description>
+    <cloneof />
+    <crc>2355E4F3</crc>
+    <manufacturer>3DO</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Army Men - Sarge's Heroes (USA) (Translated PtBr)" index="" image="">
+    <description>Army Men: Sarge's Heroes (USA)</description>
+    <cloneof />
+    <crc>97BF6DB2</crc>
+    <manufacturer>3DO</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Army Men - Sarge's Heroes 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Army Men: Sarge's Heroes 2 (USA)</description>
+    <cloneof />
+    <crc>3E9D1C51</crc>
+    <manufacturer>3DO</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Asteroids Hyper 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Asteroids Hyper 64 (USA)</description>
+    <cloneof />
+    <crc>FB982B44</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Automobili Lamborghini (USA) (Translated PtBr)" index="" image="">
+    <description>Automobili Lamborghini (USA)</description>
+    <cloneof />
+    <crc>17932C62</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bakuretsu Muteki Bangaioh (Japan) (Translated PtBr)" index="true" image="b">
+    <description>Bakuretsu Muteki Bangaioh (Japan)</description>
+    <cloneof />
+    <crc>2A8CE2E1</crc>
+    <manufacturer>Treasure/Esp</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Banjo-Kazooie (USA) (Rev 1) (Translated PtBr)" index="true" image="">
+    <description>Banjo-Kazooie (USA)</description>
+    <cloneof />
+    <crc>90B38651</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>1</players>
+    <score>4.5</score>
+	<enabled>Yes</enabled>
+  </game>
+  <game name="Banjo-Tooie (USA) (Translated PtBr)" index="" image="">
+    <description>Banjo-Tooie (USA)</description>
+    <cloneof />
+    <crc>0E0DC5A5</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.3</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bassmasters 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Bassmasters 2000 (USA)</description>
+    <cloneof />
+    <crc>8B7BD07E</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Fishing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Batman Beyond - Return of the Joker (USA) (Translated PtBr)" index="" image="">
+    <description>Batman Beyond: Return of the Joker (USA)</description>
+    <cloneof />
+    <crc>D64E0A7B</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="BattleTanx - Global Assault (USA) (Translated PtBr)" index="" image="">
+    <description>BattleTanx: Global Assault (USA)</description>
+    <cloneof />
+    <crc>5819D423</crc>
+    <manufacturer>3DO</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="BattleTanx (USA) (Translated PtBr)" index="" image="">
+    <description>BattleTanx (USA)</description>
+    <cloneof />
+    <crc>66123C8B</crc>
+    <manufacturer>3DO</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Battlezone - Rise of the Black Dogs (USA) (Translated PtBr)" index="" image="">
+    <description>Battlezone: Rise of the Black Dogs (USA)</description>
+    <cloneof />
+    <crc>18CCCCFD</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Beetle Adventure Racing! (USA) (Translated PtBr)" index="" image="">
+    <description>Beetle Adventure Racing! (USA)</description>
+    <cloneof />
+    <crc>E3517FD8</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Big Mountain 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Big Mountain 2000 (USA)</description>
+    <cloneof />
+    <crc>FF44020C</crc>
+    <manufacturer>SouthPeak Interactive</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Snowboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bio F.R.E.A.K.S. (USA) (Translated PtBr)" index="" image="">
+    <description>Bio F.R.E.A.K.S. (USA)</description>
+    <cloneof />
+    <crc>52283865</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Blast Corps (USA) (Translated PtBr)" index="" image="">
+    <description>Blast Corps (USA)</description>
+    <cloneof />
+    <crc>23D415F8</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Blues Brothers 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Blues Brothers 2000 (USA)</description>
+    <cloneof />
+    <crc>109907B5</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Body Harvest (USA) (Translated PtBr)" index="" image="">
+    <description>Body Harvest (USA)</description>
+    <cloneof />
+    <crc>7B878C56</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman 64 - The Second Attack! (USA) (Translated PtBr)" index="" image="">
+    <description>Bomberman 64: The Second Attack! (USA)</description>
+    <cloneof />
+    <crc>302B3135</crc>
+    <manufacturer>Vatical Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman 64 (Japan) (Translated En) (Translated PtBr)" index="" image="">
+    <description>Bomberman 64 (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>9BB224CA</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>2001</year>
+    <genre>Action</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Bomberman 64 (USA)</description>
+    <cloneof />
+    <crc>50A98BDF</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bomberman Hero (USA) (Translated PtBr)" index="" image="">
+    <description>Bomberman Hero (USA)</description>
+    <cloneof />
+    <crc>3E73AF1A</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bottom of the 9th (USA) (Translated PtBr)" index="" image="">
+    <description>Bottom of the 9th (USA)</description>
+    <cloneof />
+    <crc>0F016E17</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Baseball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Brunswick Circuit Pro Bowling (USA) (Translated PtBr)" index="" image="">
+    <description>Brunswick Circuit Pro Bowling (USA)</description>
+    <cloneof />
+    <crc>3AC1BBAE</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Bowling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Buck Bumble (USA) (Translated PtBr)" index="" image="">
+    <description>Buck Bumble (USA)</description>
+    <cloneof />
+    <crc>DA2ACD5E</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bug's Life, A (USA) (Translated PtBr)" index="" image="">
+    <description>Bug's Life, A (USA)</description>
+    <cloneof />
+    <crc>7C2F610D</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bust-A-Move 2 - Arcade Edition (USA) (Translated PtBr)" index="" image="">
+    <description>Bust-A-Move 2: Arcade Edition (USA)</description>
+    <cloneof />
+    <crc>47511877</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Bust-A-Move '99 (USA) (Translated PtBr)" index="" image="">
+    <description>Bust-A-Move '99 (USA)</description>
+    <cloneof />
+    <crc>2A95290F</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="California Speed (USA) (Translated PtBr)" index="true" image="c">
+    <description>California Speed (USA)</description>
+    <cloneof />
+    <crc>387B0C4C</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Carmageddon 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Carmageddon 64 (USA)</description>
+    <cloneof />
+    <crc>E78DEBB6</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Castlevania - Legacy of Darkness (USA) (Translated PtBr)" index="" image="">
+    <description>Castlevania: Legacy of Darkness (USA)</description>
+    <cloneof />
+    <crc>1F147376</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Castlevania (USA) (Translated PtBr)" index="" image="">
+    <description>Castlevania (USA)</description>
+    <cloneof />
+    <crc>7F50E637</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Centre Court Tennis (Europe) (Translated PtBr)" index="" image="">
+    <description>Centre Court Tennis (Europe)</description>
+    <cloneof />
+    <crc>2573171A</crc>
+    <manufacturer>GMI</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Tennis</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chameleon Twist (Japan) (Translated En) (Translated PtBr)" index="" image="">
+    <description>Chameleon Twist (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>6DEF366B</crc>
+    <manufacturer>Japan Supply System</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chameleon Twist (USA) (Translated PtBr)" index="" image="">
+    <description>Chameleon Twist (USA)</description>
+    <cloneof />
+    <crc>4246EE14</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chameleon Twist 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Chameleon Twist 2 (USA)</description>
+    <cloneof />
+    <crc>356736C7</crc>
+    <manufacturer>SunSoft</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Charlie Blast's Territory (USA) (Translated PtBr)" index="" image="">
+    <description>Charlie Blast's Territory (USA)</description>
+    <cloneof />
+    <crc>928A2968</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Chopper Attack (USA) (Translated PtBr)" index="" image="">
+    <description>Chopper Attack (USA)</description>
+    <cloneof />
+    <crc>2C22147D</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Clay Fighter - Sculptor's Cut (USA) (Translated PtBr)" index="" image="">
+    <description>Clay Fighter: Sculptor's Cut (USA)</description>
+    <cloneof />
+    <crc>F59FD73E</crc>
+    <manufacturer>Interplay</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Clay Fighter 63 1-3 (USA) (Translated PtBr)" index="" image="">
+    <description>Clay Fighter 63 1-3 (USA)</description>
+    <cloneof />
+    <crc>E7C70F25</crc>
+    <manufacturer>Interplay</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Command &amp; Conquer (USA) (Translated PtBr)" index="" image="">
+    <description>Command &amp; Conquer (USA)</description>
+    <cloneof />
+    <crc>8D23BA95</crc>
+    <manufacturer>Westwood Studios/Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Conker's Bad Fur Day (USA) (Translated PtBr)" index="" image="">
+    <description>Conker's Bad Fur Day (USA)</description>
+    <cloneof />
+    <crc>6ACDB3FC</crc>
+    <manufacturer>Rareware</manufacturer>
+    <year>2001</year>
+    <genre>Platform</genre>
+    <rating>ESRB - M (Mature)</rating>
+	<players>4</players>
+    <score>4.5</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cruis'n Exotica (USA) (Translated PtBr)" index="" image="">
+    <description>Cruis'n Exotica (USA)</description>
+    <cloneof />
+    <crc>20E7DBD7</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cruis'n USA (USA) (Translated PtBr)" index="" image="">
+    <description>Cruis'n USA (USA)</description>
+    <cloneof />
+    <crc>E466C124</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Cruis'n World (USA) (Translated PtBr)" index="" image="">
+    <description>Cruis'n World (USA)</description>
+    <cloneof />
+    <crc>41877D7D</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="CyberTiger (USA) (Translated PtBr)" index="" image="">
+    <description>CyberTiger (USA)</description>
+    <cloneof />
+    <crc>F0F89BB9</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dance Dance Revolution - Disney Dancing Museum (Japan) (Translated PtBr)" index="true" image="d">
+    <description>Dance Dance Revolution: Disney Dancing Museum (Japan)</description>
+    <cloneof />
+    <crc>DB5714A6</crc>
+    <manufacturer>Bemani/Disney Interactive/Konami</manufacturer>
+    <year>2000</year>
+    <genre>Rhythm</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dark Rift (USA) (Translated PtBr)" index="true" image="">
+    <description>Dark Rift (USA)</description>
+    <cloneof />
+    <crc>2AFAB93C</crc>
+    <manufacturer>Vic Tokai Inc.</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Deadly Arts (USA) (Translated PtBr)" index="" image="">
+    <description>Deadly Arts (USA)</description>
+    <cloneof />
+    <crc>B4AFBF51</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Densha de Go! 64 (Japan) (Translated En) (Translated PtBr)" index="" image="">
+    <description>Densha de Go! 64 (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>4CB52323</crc>
+    <manufacturer>Taito</manufacturer>
+    <year>1999</year>
+    <genre>Simulation</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Destruction Derby 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Destruction Derby 64 (USA)</description>
+    <cloneof />
+    <crc>EF680F71</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dezaemon 3D (Japan) (Translated PtBr)" index="" image="">
+    <description>Dezaemon 3D (Japan)</description>
+    <cloneof />
+    <crc>8CE25C68</crc>
+    <manufacturer>Athena</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Diddy Kong Racing (USA) (En,Fr) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>Diddy Kong Racing (USA)</description>
+    <cloneof />
+    <crc>96C32BB6</crc>
+    <manufacturer>Rareware</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.3</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It) (Translated PtBr)" index="" image="">
+    <description>Donald Duck: Goin' Quackers (USA)</description>
+    <cloneof />
+    <crc>6D48B64E</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Donkey Kong 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Donkey Kong 64 (USA)</description>
+    <cloneof />
+    <crc>96972D67</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.3</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Doom 64 (USA) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>Doom 64 (USA)</description>
+    <cloneof />
+    <crc>0F080D06</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dr. Mario 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Dr. Mario 64 (USA)</description>
+    <cloneof />
+    <crc>F7C44B5B</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2001</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Dual Heroes (USA) (Translated PtBr)" index="" image="">
+    <description>Dual Heroes (USA)</description>
+    <cloneof />
+    <crc>8968D989</crc>
+    <manufacturer>Electro Brain Corp</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Duck Dodgers Starring Daffy Duck (USA) (Translated PtBr)" index="" image="">
+    <description>Duck Dodgers Starring Daffy Duck (USA)</description>
+    <cloneof />
+    <crc>B67BBC15</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Duke Nukem - Zero Hour (USA) (Translated PtBr)" index="" image="">
+    <description>Duke Nukem: Zero Hour (USA)</description>
+    <cloneof />
+    <crc>912F576F</crc>
+    <manufacturer>GT Interactive Software</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Duke Nukem 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Duke Nukem 64 (USA)</description>
+    <cloneof />
+    <crc>1BF948C3</crc>
+    <manufacturer>GT Interactive Software</manufacturer>
+    <year>1997</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Earthworm Jim 3D (USA) (Translated PtBr)" index="true" image="e">
+    <description>Earthworm Jim 3D (USA)</description>
+    <cloneof />
+    <crc>1017BE14</crc>
+    <manufacturer>Rockstar Games</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ECW Hardcore Revolution (USA) (Translated PtBr)" index="" image="">
+    <description>ECW Hardcore Revolution (USA)</description>
+    <cloneof />
+    <crc>4BA40079</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Elmo's Letter Adventure (USA) (Translated PtBr)" index="" image="">
+    <description>Elmo's Letter Adventure (USA)</description>
+    <cloneof />
+    <crc>710011FB</crc>
+    <manufacturer>NewKidCo</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating>ESRB - EC (Early Childhood)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Elmo's Number Journey (USA) (Translated PtBr)" index="" image="">
+    <description>Elmo's Number Journey (USA)</description>
+    <cloneof />
+    <crc>B7AD0F05</crc>
+    <manufacturer>NewKidCo</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating>ESRB - EC (Early Childhood)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Excitebike 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Excitebike 64 (USA)</description>
+    <cloneof />
+    <crc>EF78ED7E</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Motorcycle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Extreme-G (USA) (Translated PtBr)" index="" image="">
+    <description>Extreme-G (USA)</description>
+    <cloneof />
+    <crc>A43A0B17</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Extreme-G XG2 (USA) (Translated PtBr)" index="" image="">
+    <description>Extreme-G XG2 (USA)</description>
+    <cloneof />
+    <crc>849C18CE</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F1 Pole Position 64 (USA) (Translated PtBr)" index="" image="">
+    <description>F1 Pole Position 64 (USA)</description>
+    <cloneof />
+    <crc>873BC45A</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F1 Racing Championship (Europe) (Translated PtBr)" index="" image="">
+    <description>F1 Racing Championship (Europe)</description>
+    <cloneof />
+    <crc>0605E5AC</crc>
+    <manufacturer>Ubi Soft Entertainment/Video System</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F-1 World Grand Prix (USA) (Translated PtBr)" index="true" image="f">
+    <description>F-1 World Grand Prix (USA)</description>
+    <cloneof />
+    <crc>4D203242</crc>
+    <manufacturer>Video System</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F-1 World Grand Prix II (Europe) (Translated PtBr)" index="" image="">
+    <description>F-1 World Grand Prix II (Europe)</description>
+    <cloneof />
+    <crc>484C801D</crc>
+    <manufacturer>Video System</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Famista 64 (Japan) (Translated PtBr)" index="" image="">
+    <description>Famista 64 (Japan)</description>
+    <cloneof />
+    <crc>51E0B88A</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Baseball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA - Road to World Cup 98 (USA) (Translated PtBr)" index="" image="">
+    <description>FIFA: Road to World Cup 98 (USA)</description>
+    <cloneof />
+    <crc>9504B3DF</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (Translated PtBr)" index="" image="">
+    <description>FIFA 99 (USA)</description>
+    <cloneof />
+    <crc>D69DD3D1</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="FIFA Soccer 64 (USA) (Translated PtBr)" index="" image="">
+    <description>FIFA Soccer 64 (USA)</description>
+    <cloneof />
+    <crc>3B22F9F2</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fighter Destiny 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Fighter Destiny 2 (USA)</description>
+    <cloneof />
+    <crc>7FC19103</crc>
+    <manufacturer>SouthPeak Interactive</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fighters Destiny (USA) (Translated PtBr)" index="" image="">
+    <description>Fighters Destiny (USA)</description>
+    <cloneof />
+    <crc>A625973F</crc>
+    <manufacturer>Ocean</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fighting Force 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Fighting Force 64 (USA)</description>
+    <cloneof />
+    <crc>ADE7DCA4</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Beat-'Em-Up</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Flying Dragon (USA) (Translated PtBr)" index="" image="">
+    <description>Flying Dragon (USA)</description>
+    <cloneof />
+    <crc>87E4E352</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Forsaken 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Forsaken 64 (USA)</description>
+    <cloneof />
+    <crc>F970E4A4</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Fox Sports College Hoops '99 (USA) (Translated PtBr)" index="" image="">
+    <description>Fox Sports College Hoops '99 (USA)</description>
+    <cloneof />
+    <crc>FEDE3EF8</crc>
+    <manufacturer>Fox Sports Interactive</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="F-Zero X (USA) (Translated PtBr)" index="" image="">
+    <description>F-Zero X (USA)</description>
+    <cloneof />
+    <crc>9408C2C1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.4</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gauntlet Legends (USA) (Translated PtBr)" index="true" image="g">
+    <description>Gauntlet Legends (USA)</description>
+    <cloneof />
+    <crc>7E90C0A8</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gex 3 - Deep Cover Gecko (USA) (Translated PtBr)" index="" image="">
+    <description>Gex 3: Deep Cover Gecko (USA)</description>
+    <cloneof />
+    <crc>3571F3BD</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Gex 64 - Enter the Gecko (USA) (Translated PtBr)" index="" image="">
+    <description>Gex 64: Enter the Gecko (USA)</description>
+    <cloneof />
+    <crc>3F90E7C2</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Glover (USA) (Translated PtBr)" index="" image="">
+    <description>Glover (USA)</description>
+    <cloneof />
+    <crc>D024893A</crc>
+    <manufacturer>Hasbro Interactive</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Goemon's Great Adventure (USA) (Translated PtBr)" index="" image="">
+    <description>Goemon's Great Adventure (USA)</description>
+    <cloneof />
+    <crc>E3C7A184</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Golden Nugget 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Golden Nugget 64 (USA)</description>
+    <cloneof />
+    <crc>9670A4B7</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>1998</year>
+    <genre>Casino</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="GT64 - Championship Edition (USA) (Translated PtBr)" index="" image="">
+    <description>GT64: Championship Edition (USA)</description>
+    <cloneof />
+    <crc>B6DC4CFD</crc>
+    <manufacturer>Ocean</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Harukanaru Augusta - Masters '98 (Japan) (Translated PtBr)" index="true" image="h">
+    <description>Harukanaru Augusta: Masters '98 (Japan)</description>
+    <cloneof />
+    <crc>AD4720E2</crc>
+    <manufacturer>T&amp;E Soft</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Golf</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Harvest Moon 64 (USA) (Translated PtBr)" index="true" image="">
+    <description>Harvest Moon 64 (USA)</description>
+    <cloneof />
+    <crc>D2EE315F</crc>
+    <manufacturer>Natsume</manufacturer>
+    <year>1999</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hercules - The Legendary Journeys (USA) (Translated PtBr)" index="" image="">
+    <description>Hercules: The Legendary Journeys (USA)</description>
+    <cloneof />
+    <crc>CF90BC4A</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hexen (USA) (Translated PtBr)" index="" image="">
+    <description>Hexen (USA)</description>
+    <cloneof />
+    <crc>D2B22343</crc>
+    <manufacturer>GT Interactive Software</manufacturer>
+    <year>1997</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hey You, Pikachu! (USA) (Translated PtBr)" index="" image="">
+    <description>Hey You, Pikachu! (USA)</description>
+    <cloneof />
+    <crc>0149E9F6</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hot Wheels - Turbo Racing (USA) (Translated PtBr)" index="" image="">
+    <description>Hot Wheels: Turbo Racing (USA)</description>
+    <cloneof />
+    <crc>525E8F8F</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hybrid Heaven (USA) (Translated PtBr)" index="" image="">
+    <description>Hybrid Heaven (USA)</description>
+    <cloneof />
+    <crc>7CE3EA39</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Hydro Thunder (USA) (Translated PtBr)" index="" image="">
+    <description>Hydro Thunder (USA)</description>
+    <cloneof />
+    <crc>6B78C2C8</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Water</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Iggy's Reckin' Balls (USA) (Translated PtBr)" index="true" image="i">
+    <description>Iggy's Reckin' Balls (USA)</description>
+    <cloneof />
+    <crc>5953567E</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Indiana Jones and the Infernal Machine (USA) (Translated PtBr)" index="" image="">
+    <description>Indiana Jones and the Infernal Machine (USA)</description>
+    <cloneof />
+    <crc>A8F86EB6</crc>
+    <manufacturer>LucasArts</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Indy Racing 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Indy Racing 2000 (USA)</description>
+    <cloneof />
+    <crc>1C622354</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="In-Fisherman - Bass Hunter 64 (USA) (Translated PtBr)" index="" image="">
+    <description>In-Fisherman: Bass Hunter 64 (USA)</description>
+    <cloneof />
+    <crc>88279F19</crc>
+    <manufacturer>Take2 Interactive</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Fishing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Superstar Soccer 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>International Superstar Soccer 2000 (USA)</description>
+    <cloneof />
+    <crc>BB1824B8</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Superstar Soccer 64 (USA) (Translated PtBr)" index="" image="">
+    <description>International Superstar Soccer 64 (USA)</description>
+    <cloneof />
+    <crc>91CB6803</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Superstar Soccer '98 (USA) (Translated PtBr)" index="" image="">
+    <description>International Superstar Soccer '98 (USA)</description>
+    <cloneof />
+    <crc>D685F2EC</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="International Track &amp; Field 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>International Track &amp; Field 2000 (USA)</description>
+    <cloneof />
+    <crc>F93868A3</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Olympic</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="J-League Dynamite Soccer 64 (Japan) (Translated PtBr)" index="true" image="j">
+    <description>J-League Dynamite Soccer 64 (Japan)</description>
+    <cloneof />
+    <crc>67EC5F38</crc>
+    <manufacturer>A-Max/Imagineer</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="J-League Eleven Beat 1997 (Japan) (Translated PtBr)" index="" image="">
+    <description>J-League Eleven Beat 1997 (Japan)</description>
+    <cloneof />
+    <crc>B2D77747</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="J-League Live 64 (Japan) (Translated PtBr)" index="" image="">
+    <description>J-League Live 64 (Japan)</description>
+    <cloneof />
+    <crc>8A48DE94</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jeopardy! (USA) (Translated PtBr)" index="true" image="">
+    <description>Jeopardy! (USA)</description>
+    <cloneof />
+    <crc>82B2AB69</crc>
+    <manufacturer>GameTek</manufacturer>
+    <year>1998</year>
+    <genre>Game Show</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jeremy McGrath Supercross 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Jeremy McGrath Supercross 2000 (USA)</description>
+    <cloneof />
+    <crc>67BF293B</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>2000</year>
+    <genre>Motorcycle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jet Force Gemini (USA) (Translated PtBr)" index="" image="">
+    <description>Jet Force Gemini (USA)</description>
+    <cloneof />
+    <crc>B5932174</crc>
+    <manufacturer>Rareware</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jikkyou J-League 1999 - Perfect Striker 2 (Japan) (Translated PtBr)" index="" image="">
+    <description>Jikkyou J-League 1999: Perfect Striker 2 (Japan)</description>
+    <cloneof />
+    <crc>B4131606</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Jikkyou J-League Perfect Striker (Japan) (Translated PtBr)" index="" image="">
+    <description>Jikkyou J-League Perfect Striker (Japan)</description>
+    <cloneof />
+    <crc>97E1BCE2</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1996</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="John Romero's Daikatana (USA) (Translated PtBr)" index="" image="">
+    <description>John Romero's Daikatana (USA)</description>
+    <cloneof />
+    <crc>CB126EA9</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ken Griffey Jr.'s Slugfest (USA) (Translated PtBr)" index="true" image="k">
+    <description>Ken Griffey Jr.'s Slugfest (USA)</description>
+    <cloneof />
+    <crc>42D1ED42</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Killer Instinct Gold (USA) (Translated PtBr)" index="" image="">
+    <description>Killer Instinct Gold (USA)</description>
+    <cloneof />
+    <crc>8E1DB3C2</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kirby 64 - The Crystal Shards (USA) (Translated PtBr)" index="" image="">
+    <description>Kirby 64: The Crystal Shards (USA)</description>
+    <cloneof />
+    <crc>8EB3565B</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Knife Edge - Nose Gunner (USA) (Translated PtBr)" index="" image="">
+    <description>Knife Edge: Nose Gunner (USA)</description>
+    <cloneof />
+    <crc>CF204405</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Knockout Kings 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Knockout Kings 2000 (USA)</description>
+    <cloneof />
+    <crc>A26533FC</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Boxing</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Kobe Bryant's NBA Courtside (USA) (Translated PtBr)" index="" image="">
+    <description>Kobe Bryant's NBA Courtside (USA)</description>
+    <cloneof />
+    <crc>0FF8C439</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend of Zelda, The - Majora's Mask (USA) (Translated PtBr)" index="true" image="l">
+    <description>Legend of Zelda, The: Majora's Mask (USA)</description>
+    <cloneof />
+    <crc>3EE3F2D1</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>1</players>
+    <score>4.6</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Legend of Zelda, The - Ocarina of Time (USA) (Rev 2) (Translated PtBr)" index="" image="">
+    <description>Legend of Zelda, The: Ocarina of Time (USA)</description>
+    <cloneof />
+    <crc>3C7DBF5B</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>1</players>
+    <score>4.7</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="LEGO Racers (USA) (Translated PtBr)" index="" image="">
+    <description>LEGO Racers (USA)</description>
+    <cloneof />
+    <crc>3339E557</crc>
+    <manufacturer>Lego Media</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Lode Runner 3-D (USA) (Translated PtBr)" index="" image="">
+    <description>Lode Runner 3-D (USA)</description>
+    <cloneof />
+    <crc>5AF38589</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mace - The Dark Age (USA) (Translated PtBr)" index="true" image="m">
+    <description>Mace: The Dark Age (USA)</description>
+    <cloneof />
+    <crc>E49D603A</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden Football 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Madden Football 64 (USA)</description>
+    <cloneof />
+    <crc>43B28179</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden NFL 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Madden NFL 2000 (USA)</description>
+    <cloneof />
+    <crc>F41B2332</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden NFL 2001 (USA) (Translated PtBr)" index="" image="">
+    <description>Madden NFL 2001 (USA)</description>
+    <cloneof />
+    <crc>3B49EC33</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden NFL 2002 (USA) (Translated PtBr)" index="" image="">
+    <description>Madden NFL 2002 (USA)</description>
+    <cloneof />
+    <crc>0C711DFE</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>2001</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Madden NFL 99 (USA) (Translated PtBr)" index="" image="">
+    <description>Madden NFL 99 (USA)</description>
+    <cloneof />
+    <crc>AC21A5BF</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Magical Tetris Challenge (USA) (Translated PtBr)" index="" image="">
+    <description>Magical Tetris Challenge (USA)</description>
+    <cloneof />
+    <crc>167C60E6</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Major League Baseball featuring Ken Griffey Jr. (USA) (Translated PtBr)" index="" image="">
+    <description>Major League Baseball featuring Ken Griffey Jr. (USA)</description>
+    <cloneof />
+    <crc>7542D45D</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Golf (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Golf (USA)</description>
+    <cloneof />
+    <crc>CEB5B977</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Kart 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Kart 64 (USA)</description>
+    <cloneof />
+    <crc>2BCEE11C</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Party (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Party (USA)</description>
+    <cloneof />
+    <crc>4717CD1B</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Party</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Party 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Party 2 (USA)</description>
+    <cloneof />
+    <crc>3BA5471B</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Party</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Party 3 (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Party 3 (USA)</description>
+    <cloneof />
+    <crc>A1BEE3F8</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2001</year>
+    <genre>Pinball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mario Tennis (USA) (Translated PtBr)" index="" image="">
+    <description>Mario Tennis (USA)</description>
+    <cloneof />
+    <crc>995C9F24</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Tennis</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.1</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mega Man 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Mega Man 64 (USA)</description>
+    <cloneof />
+    <crc>B57DD0E4</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>2001</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mia Hamm Soccer 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Mia Hamm Soccer 64 (USA)</description>
+    <cloneof />
+    <crc>3AA4BFF5</crc>
+    <manufacturer>SouthPeak Interactive</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mickey's Speedway USA (USA) (Translated PtBr)" index="" image="">
+    <description>Mickey's Speedway USA (USA)</description>
+    <cloneof />
+    <crc>6E589C47</crc>
+    <manufacturer>Rareware/Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Micro Machines 64 Turbo (USA) (Translated PtBr)" index="" image="">
+    <description>Micro Machines 64 Turbo (USA)</description>
+    <cloneof />
+    <crc>02790693</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Midway's Greatest Arcade Hits - Volume 1 (USA) (Translated PtBr)" index="" image="">
+    <description>Midway's Greatest Arcade Hits: Volume 1 (USA)</description>
+    <cloneof />
+    <crc>202A2718</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Miscellaneous</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mike Piazza's StrikeZone (USA) (Translated PtBr)" index="" image="">
+    <description>Mike Piazza's StrikeZone (USA)</description>
+    <cloneof />
+    <crc>9042CB8E</crc>
+    <manufacturer>GT Interactive Software</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Milo's Astro Lanes (USA) (Translated PtBr)" index="" image="">
+    <description>Milo's Astro Lanes (USA)</description>
+    <cloneof />
+    <crc>DFF1BA7E</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Bowling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mischief Makers (USA) (Translated PtBr)" index="" image="">
+    <description>Mischief Makers (USA)</description>
+    <cloneof />
+    <crc>C454E245</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mission Impossible (USA) (Translated PtBr)" index="" image="">
+    <description>Mission Impossible (USA)</description>
+    <cloneof />
+    <crc>2DBD815D</crc>
+    <manufacturer>Ocean</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monaco Grand Prix (USA) (Translated PtBr)" index="" image="">
+    <description>Monaco Grand Prix (USA)</description>
+    <cloneof />
+    <crc>30079403</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monopoly (USA) (Translated PtBr)" index="" image="">
+    <description>Monopoly (USA)</description>
+    <cloneof />
+    <crc>416B1F8F</crc>
+    <manufacturer>Hasbro Interactive</manufacturer>
+    <year>1999</year>
+    <genre>Board Games</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Monster Truck Madness 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Monster Truck Madness 64 (USA)</description>
+    <cloneof />
+    <crc>B8D03FFB</crc>
+    <manufacturer>Rockstar Games</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat 4 (USA) (Translated PtBr)" index="" image="">
+    <description>Mortal Kombat 4 (USA)</description>
+    <cloneof />
+    <crc>AA865B66</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat Mythologies - Sub-Zero (USA) (Translated PtBr)" index="" image="">
+    <description>Mortal Kombat Mythologies: Sub-Zero (USA)</description>
+    <cloneof />
+    <crc>F0F7D9E3</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Platform</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mortal Kombat Trilogy (USA) (Translated PtBr)" index="" image="">
+    <description>Mortal Kombat Trilogy (USA)</description>
+    <cloneof />
+    <crc>E58597D7</crc>
+    <manufacturer>Williams Entertainment Inc.</manufacturer>
+    <year>1996</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="MRC - Multi Racing Championship (USA) (Translated PtBr)" index="" image="">
+    <description>MRC: Multi Racing Championship (USA)</description>
+    <cloneof />
+    <crc>2F30B7FE</crc>
+    <manufacturer>Ocean</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ms. Pac-Man - Maze Madness (USA) (Translated PtBr)" index="" image="">
+    <description>Ms. Pac-Man: Maze Madness (USA)</description>
+    <cloneof />
+    <crc>D5017D76</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mystical Ninja Starring Goemon (USA) (Translated PtBr)" index="" image="">
+    <description>Mystical Ninja Starring Goemon (USA)</description>
+    <cloneof />
+    <crc>81C10AD9</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nagano Winter Olympics '98 (USA) (Translated PtBr)" index="true" image="n">
+    <description>Nagano Winter Olympics '98 (USA)</description>
+    <cloneof />
+    <crc>1F8D21FB</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Olympic</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Namco Museum 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Namco Museum 64 (USA)</description>
+    <cloneof />
+    <crc>03776764</crc>
+    <manufacturer>Namco</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NASCAR 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NASCAR 2000 (USA)</description>
+    <cloneof />
+    <crc>D07AD471</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NASCAR 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NASCAR 99 (USA)</description>
+    <cloneof />
+    <crc>2D234FB7</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Courtside 2 featuring Kobe Bryant (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Courtside 2 featuring Kobe Bryant (USA)</description>
+    <cloneof />
+    <crc>7A8FD7D3</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Hangtime (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Hangtime (USA)</description>
+    <cloneof />
+    <crc>72E2ACA9</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA in the Zone 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA in the Zone 2000 (USA)</description>
+    <cloneof />
+    <crc>D850CFA3</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA in the Zone '98 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA in the Zone '98 (USA)</description>
+    <cloneof />
+    <crc>2BB83C0E</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA in the Zone '99 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA in the Zone '99 (USA)</description>
+    <cloneof />
+    <crc>C15AFC69</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Jam 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Jam 2000 (USA)</description>
+    <cloneof />
+    <crc>65A3BD1C</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Jam 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Jam 99 (USA)</description>
+    <cloneof />
+    <crc>F40C871A</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Live 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Live 2000 (USA)</description>
+    <cloneof />
+    <crc>94FC12D3</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Live 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Live 99 (USA)</description>
+    <cloneof />
+    <crc>74BC96BE</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NBA Showtime - NBA on NBC (USA) (Translated PtBr)" index="" image="">
+    <description>NBA Showtime: NBA on NBC (USA)</description>
+    <cloneof />
+    <crc>A9302DEE</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Basketball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Neon Genesis Evangelion (Japan) (Translated PtBr)" index="" image="">
+    <description>Neon Genesis Evangelion (Japan)</description>
+    <cloneof />
+    <crc>4B8B23DC</crc>
+    <manufacturer>Bandai</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="New Tetris, The (USA) (Translated PtBr)" index="" image="">
+    <description>New Tetris, The (USA)</description>
+    <cloneof />
+    <crc>82A76DC9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Blitz - Special Edition (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Blitz: Special Edition (USA)</description>
+    <cloneof />
+    <crc>3DD3EB64</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2001</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Blitz (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Blitz (USA)</description>
+    <cloneof />
+    <crc>5FA3455D</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Blitz 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Blitz 2000 (USA)</description>
+    <cloneof />
+    <crc>E4B42E6A</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Blitz 2001 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Blitz 2001 (USA)</description>
+    <cloneof />
+    <crc>E18211E5</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Quarterback Club 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Quarterback Club 2000 (USA)</description>
+    <cloneof />
+    <crc>B61D114A</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Quarterback Club 2001 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Quarterback Club 2001 (USA)</description>
+    <cloneof />
+    <crc>2C0D748B</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Quarterback Club 98 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Quarterback Club 98 (USA)</description>
+    <cloneof />
+    <crc>94368DB1</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NFL Quarterback Club 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NFL Quarterback Club 99 (USA)</description>
+    <cloneof />
+    <crc>CE525BC5</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Football</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NHL 99 (USA)</description>
+    <cloneof />
+    <crc>50F81F73</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL Blades of Steel '99 (USA) (Translated PtBr)" index="" image="">
+    <description>NHL Blades of Steel '99 (USA)</description>
+    <cloneof />
+    <crc>5EF28CFB</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL Breakaway 98 (USA) (Translated PtBr)" index="" image="">
+    <description>NHL Breakaway 98 (USA)</description>
+    <cloneof />
+    <crc>F59B082F</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="NHL Breakaway 99 (USA) (Translated PtBr)" index="" image="">
+    <description>NHL Breakaway 99 (USA)</description>
+    <cloneof />
+    <crc>9F774781</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nightmare Creatures (USA) (Translated PtBr)" index="" image="">
+    <description>Nightmare Creatures (USA)</description>
+    <cloneof />
+    <crc>134C09DA</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1998</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Nuclear Strike 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Nuclear Strike 64 (USA)</description>
+    <cloneof />
+    <crc>1A70D11A</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Off Road Challenge (USA) (Translated PtBr)" index="true" image="o">
+    <description>Off Road Challenge (USA)</description>
+    <cloneof />
+    <crc>129BADCC</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ogre Battle 64 - Person of Lordly Caliber (USA) (Translated PtBr)" index="" image="">
+    <description>Ogre Battle 64: Person of Lordly Caliber (USA)</description>
+    <cloneof />
+    <crc>50C78D4C</crc>
+    <manufacturer>Atlus</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Olympic Hockey 98 (USA) (Translated PtBr)" index="" image="">
+    <description>Olympic Hockey 98 (USA)</description>
+    <cloneof />
+    <crc>C57C7643</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Paper Mario (USA) (Translated PtBr)" index="true" image="p">
+    <description>Paper Mario (USA)</description>
+    <cloneof />
+    <crc>D56D1C89</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2001</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>1</players>
+    <score>4.5</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Paperboy (USA) (Translated PtBr)" index="" image="">
+    <description>Paperboy (USA)</description>
+    <cloneof />
+    <crc>2FCEEFF6</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Penny Racers (USA) (Translated PtBr)" index="" image="">
+    <description>Penny Racers (USA)</description>
+    <cloneof />
+    <crc>06BEEA3F</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Perfect Dark (USA) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>Perfect Dark (USA)</description>
+    <cloneof />
+    <crc>F85A16F1</crc>
+    <manufacturer>Rareware</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+	<players>4</players>
+    <score>4.5</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="PGA European Tour (USA) (Translated PtBr)" index="" image="">
+    <description>PGA European Tour (USA)</description>
+    <cloneof />
+    <crc>2B07F591</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pilotwings 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Pilotwings 64 (USA)</description>
+    <cloneof />
+    <crc>C445F7E3</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Simulation</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Puzzle League (USA) (Translated PtBr)" index="" image="">
+    <description>Pokemon Puzzle League (USA)</description>
+    <cloneof />
+    <crc>281AFB0D</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Snap (USA) (Translated PtBr)" index="" image="">
+    <description>Pokemon Snap (USA)</description>
+    <cloneof />
+    <crc>DF387848</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Stadium (USA) (Translated PtBr)" index="" image="">
+    <description>Pokemon Stadium (USA)</description>
+    <cloneof />
+    <crc>9DEDBA0E</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pokemon Stadium (USA) (Rev 2) (Translated PtBr)" index="" image="">
+    <description>Pokemon Stadium 2 (USA)</description>
+    <cloneof />
+    <crc>FBFF058A</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2001</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Polaris SnoCross (USA) (Translated PtBr)" index="" image="">
+    <description>Polaris SnoCross (USA)</description>
+    <cloneof />
+    <crc>BA3EC852</crc>
+    <manufacturer>Vatical Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Water</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Power League 64 (Japan) (Translated PtBr)" index="" image="">
+    <description>Power League 64 (Japan)</description>
+    <cloneof />
+    <crc>BC7E2494</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Baseball</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Power Rangers - Lightspeed Rescue (USA) (Translated PtBr)" index="" image="">
+    <description>Power Rangers: Lightspeed Rescue (USA)</description>
+    <cloneof />
+    <crc>EB8CE95B</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2000</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Powerpuff Girls, The - Chemical X-Traction (USA) (Translated PtBr)" index="" image="">
+    <description>Powerpuff Girls, The: Chemical X-Traction (USA)</description>
+    <cloneof />
+    <crc>4EE7CD7E</crc>
+    <manufacturer>Bam Entertainment</manufacturer>
+    <year>2001</year>
+    <genre>Action</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Premier Manager 64 (Europe) (Translated PtBr)" index="" image="">
+    <description>Premier Manager 64 (Europe)</description>
+    <cloneof />
+    <crc>74A0C415</crc>
+    <manufacturer>Gremlin Interactive</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Soccer</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Puyo Puyo 4 - Puyo Puyon Party (Japan) (Translated PtBr)" index="" image="">
+    <description>Puyo Puyo 4: Puyo Puyon Party (Japan)</description>
+    <cloneof />
+    <crc>9C32ADEB</crc>
+    <manufacturer>Compile</manufacturer>
+    <year>1999</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Puyo Puyo Sun 64 (Japan) (Translated PtBr)" index="" image="">
+    <description>Puyo Puyo Sun 64 (Japan)</description>
+    <cloneof />
+    <crc>C256544C</crc>
+    <manufacturer>Compile</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quake 64 (USA) (Translated PtBr)" index="true" image="q">
+    <description>Quake 64 (USA)</description>
+    <cloneof />
+    <crc>06D5CDBB</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quake II (USA) (Translated PtBr)" index="" image="">
+    <description>Quake II (USA)</description>
+    <cloneof />
+    <crc>5D880E55</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Quest 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Quest 64 (USA)</description>
+    <cloneof />
+    <crc>E90856E8</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1998</year>
+    <genre>Role-Playing</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rakuga Kids (Europe) (Translated PtBr)" index="true" image="r">
+    <description>Rakuga Kids (Europe)</description>
+    <cloneof />
+    <crc>2146409A</crc>
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rally Challenge 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Rally Challenge 2000 (USA)</description>
+    <cloneof />
+    <crc>FAF5C3B6</crc>
+    <manufacturer>SouthPeak Interactive</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rampage - World Tour (USA) (Translated PtBr)" index="" image="">
+    <description>Rampage: World Tour (USA)</description>
+    <cloneof />
+    <crc>6FE4DA23</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rampage 2 - Universal Tour (USA) (Translated PtBr)" index="" image="">
+    <description>Rampage 2: Universal Tour (USA)</description>
+    <cloneof />
+    <crc>75E8C2AD</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rat Attack! (USA) (Translated PtBr)" index="" image="">
+    <description>Rat Attack! (USA)</description>
+    <cloneof />
+    <crc>78F6FFA2</crc>
+    <manufacturer>Mindscape Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rayman 2 - The Great Escape (USA) (Translated PtBr)" index="" image="">
+    <description>Rayman 2: The Great Escape (USA)</description>
+    <cloneof />
+    <crc>72EE54B2</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Razor Freestyle Scooter (USA) (Translated PtBr)" index="" image="">
+    <description>Razor Freestyle Scooter (USA)</description>
+    <cloneof />
+    <crc>208350C5</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>2001</year>
+    <genre>Sports</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ready 2 Rumble Boxing - Round 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Ready 2 Rumble Boxing: Round 2 (USA)</description>
+    <cloneof />
+    <crc>A64FDF28</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Boxing</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Ready 2 Rumble Boxing (USA) (Translated PtBr)" index="" image="">
+    <description>Ready 2 Rumble Boxing (USA)</description>
+    <cloneof />
+    <crc>E8D926F3</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Boxing</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Resident Evil 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Resident Evil 2 (USA)</description>
+    <cloneof />
+    <crc>6A0D64BB</crc>
+    <manufacturer>Capcom</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Re-Volt (USA) (Translated PtBr)" index="" image="">
+    <description>Re-Volt (USA)</description>
+    <cloneof />
+    <crc>9366C53C</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Road Rash 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Road Rash 64 (USA)</description>
+    <cloneof />
+    <crc>2DA44585</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Motorcycle</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Roadsters Trophy (USA) (Translated PtBr)" index="" image="">
+    <description>Roadsters Trophy (USA)</description>
+    <cloneof />
+    <crc>F68D139E</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Robotron 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Robotron 64 (USA)</description>
+    <cloneof />
+    <crc>123D44CC</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Action</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rocket - Robot on Wheels (USA) (Translated PtBr)" index="" image="">
+    <description>Rocket: Robot on Wheels (USA)</description>
+    <cloneof />
+    <crc>B0F36D79</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="RR64 - Ridge Racer 64 (USA) (Translated PtBr)" index="" image="">
+    <description>RR64: Ridge Racer 64 (USA)</description>
+    <cloneof />
+    <crc>7CCB9749</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rugrats - Scavenger Hunt (USA) (Translated PtBr)" index="" image="">
+    <description>Rugrats: Scavenger Hunt (USA)</description>
+    <cloneof />
+    <crc>EA79AD0A</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Board Games</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rugrats in Paris - The Movie (USA) (Translated PtBr)" index="" image="">
+    <description>Rugrats in Paris: The Movie (USA)</description>
+    <cloneof />
+    <crc>8F09AF37</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rush 2 - Extreme Racing USA (USA) (Translated PtBr)" index="" image="">
+    <description>Rush 2: Extreme Racing USA (USA)</description>
+    <cloneof />
+    <crc>5412916B</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="S.C.A.R.S. (USA) (Translated PtBr)" index="true" image="s">
+    <description>S.C.A.R.S. (USA)</description>
+    <cloneof />
+    <crc>6594B593</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="San Francisco Rush - Extreme Racing (USA) (Translated PtBr)" index="" image="">
+    <description>San Francisco Rush: Extreme Racing (USA)</description>
+    <cloneof />
+    <crc>32E250BA</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="San Francisco Rush 2049 (USA) (Translated PtBr)" index="" image="">
+    <description>San Francisco Rush 2049 (USA)</description>
+    <cloneof />
+    <crc>1A03B9DE</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Scooby-Doo! - Classic Creep Capers (USA) (Translated PtBr)" index="" image="">
+    <description>Scooby-Doo!: Classic Creep Capers (USA)</description>
+    <cloneof />
+    <crc>E3A2F1E7</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2001</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shadow Man (USA) (Translated PtBr)" index="" image="">
+    <description>Shadow Man (USA)</description>
+    <cloneof />
+    <crc>47E05128</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shadowgate 64 - Trials of the Four Towers (USA) (Translated PtBr)" index="" image="">
+    <description>Shadowgate 64: Trials of the Four Towers (USA)</description>
+    <cloneof />
+    <crc>1E9986E5</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1999</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan) (Translated PtBr)" index="" image="">
+    <description>Shin Nihon Pro Wrestling Toukon Road: Brave Spirits (Japan)</description>
+    <cloneof />
+    <crc>62C99DE2</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan) (Translated PtBr)" index="" image="">
+    <description>Shin Nihon Pro Wrestling Toukon Road 2: The Next Generation (Japan)</description>
+    <cloneof />
+    <crc>BE0FC7E8</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Snowboard Kids (USA) (Translated PtBr)" index="" image="">
+    <description>Snowboard Kids (USA)</description>
+    <cloneof />
+    <crc>540C190B</crc>
+    <manufacturer>Atlus</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Snowboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Snowboard Kids 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Snowboard Kids 2 (USA)</description>
+    <cloneof />
+    <crc>CA84AACE</crc>
+    <manufacturer>Atlus</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Snowboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="South Park - Chef's Luv Shack (USA) (Translated PtBr)" index="" image="">
+    <description>South Park: Chef's Luv Shack (USA)</description>
+    <cloneof />
+    <crc>67D38382</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Party</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="South Park (USA) (Translated PtBr)" index="" image="">
+    <description>South Park (USA)</description>
+    <cloneof />
+    <crc>FAAE9AA3</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="South Park Rally (USA) (Translated PtBr)" index="" image="">
+    <description>South Park Rally (USA)</description>
+    <cloneof />
+    <crc>2C1F0859</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Space Invaders (USA) (Translated PtBr)" index="" image="">
+    <description>Space Invaders (USA)</description>
+    <cloneof />
+    <crc>62E6DEFF</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1999</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SpaceStation Silicon Valley (USA) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>SpaceStation Silicon Valley (USA)</description>
+    <cloneof />
+    <crc>76DB1DA1</crc>
+    <manufacturer>Take2 Interactive</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Spider-Man (USA) (Translated PtBr)" index="" image="">
+    <description>Spider-Man (USA)</description>
+    <cloneof />
+    <crc>A2866A6E</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>2000</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Fox 64 (USA) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>Star Fox 64 (USA)</description>
+    <cloneof />
+    <crc>D71902B0</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>4</players>
+    <score>4.4</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Soldier - Vanishing Earth (USA) (Translated PtBr)" index="" image="">
+    <description>Star Soldier: Vanishing Earth (USA)</description>
+    <cloneof />
+    <crc>052945E7</crc>
+    <manufacturer>Electro Brain Corp</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Wars - Rogue Squadron (USA) (Translated PtBr)" index="" image="">
+    <description>Star Wars: Rogue Squadron (USA)</description>
+    <cloneof />
+    <crc>4A479574</crc>
+    <manufacturer>LucasArts</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Wars - Shadows of the Empire (USA) (Translated PtBr)" index="" image="">
+    <description>Star Wars: Shadows of the Empire (USA)</description>
+    <cloneof />
+    <crc>F4E546D1</crc>
+    <manufacturer>LucasArts/Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Wars Episode I - Battle for Naboo (USA) (Translated PtBr)" index="" image="">
+    <description>Star Wars Episode I: Battle for Naboo (USA)</description>
+    <cloneof />
+    <crc>97EBBEA8</crc>
+    <manufacturer>LucasArts</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Star Wars Episode I - Racer (USA) (Translated PtBr)" index="" image="">
+    <description>Star Wars Episode I: Racer (USA)</description>
+    <cloneof />
+    <crc>494C667A</crc>
+    <manufacturer>LucasArts</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="StarCraft 64 (USA) (Translated PtBr)" index="" image="">
+    <description>StarCraft 64 (USA)</description>
+    <cloneof />
+    <crc>14C77369</crc>
+    <manufacturer>Blizzard Entertainment/Nintendo</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Starshot - Space Circus Fever (USA) (Translated PtBr)" index="" image="">
+    <description>Starshot: Space Circus Fever (USA)</description>
+    <cloneof />
+    <crc>64370749</crc>
+    <manufacturer>Infogrames Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Stunt Racer 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Stunt Racer 64 (USA)</description>
+    <cloneof />
+    <crc>F60613DE</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Bowling (USA) (Translated PtBr)" index="" image="">
+    <description>Super Bowling (USA)</description>
+    <cloneof />
+    <crc>E651CBAA</crc>
+    <manufacturer>UFO</manufacturer>
+    <year>2001</year>
+    <genre>Sports/Bowling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Mario 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Super Mario 64 (USA)</description>
+    <cloneof />
+    <crc>42C43204</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>1</players>
+    <score>4.7</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Robot Spirits (Japan) (Translated PtBr)" index="" image="">
+    <description>Super Robot Spirits (Japan)</description>
+    <cloneof />
+    <crc>DAB52B89</crc>
+    <manufacturer>Banpresto</manufacturer>
+    <year>1998</year>
+    <genre>Fighter</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Super Smash Bros. (USA) (Translated PtBr)" index="" image="">
+    <description>Super Smash Bros. (USA)</description>
+    <cloneof />
+    <crc>DD2DF6D9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1999</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Supercross 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Supercross 2000 (USA)</description>
+    <cloneof />
+    <crc>5A8A721D</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1999</year>
+    <genre>Motorcycle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Superman (USA) (Translated PtBr)" index="" image="">
+    <description>Superman (USA)</description>
+    <cloneof />
+    <crc>F10D66F0</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1999</year>
+    <genre>Adventure</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan) (Translated PtBr)" index="" image="">
+    <description>Susume! Taisen Puzzle Dama: Toukon! Marutama Chou (Japan)</description>
+    <cloneof />
+    <crc>DC83BCD3</crc>
+    <manufacturer>KCEK/Konami</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tarzan (USA) (Translated PtBr)" index="true" image="t">
+    <description>Tarzan (USA)</description>
+    <cloneof />
+    <crc>2B59490B</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Taz Express (Europe) (Translated PtBr)" index="" image="">
+    <description>Taz Express (Europe)</description>
+    <cloneof />
+    <crc>85382541</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetris 64 (Japan) (En) (Translated PtBr)" index="" image="">
+    <description>Tetris 64 (Japan) (En)</description>
+    <cloneof />
+    <crc>08B4CA1B</crc>
+    <manufacturer>Seta</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tetrisphere (USA) (Translated PtBr)" index="" image="">
+    <description>Tetrisphere (USA)</description>
+    <cloneof />
+    <crc>5DB18578</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1997</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tigger's Honey Hunt (USA) (Translated PtBr)" index="" image="">
+    <description>Tigger's Honey Hunt (USA)</description>
+    <cloneof />
+    <crc>79F8BF3B</crc>
+    <manufacturer>NewKidCo</manufacturer>
+    <year>2000</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tom and Jerry in Fists of Furry (USA) (Translated PtBr)" index="" image="">
+    <description>Tom and Jerry in Fists of Furry (USA)</description>
+    <cloneof />
+    <crc>F0BFC6AB</crc>
+    <manufacturer>NewKidCo</manufacturer>
+    <year>2000</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tom Clancy's Rainbow Six (USA) (Translated PtBr)" index="" image="">
+    <description>Tom Clancy's Rainbow Six (USA)</description>
+    <cloneof />
+    <crc>67F3D120</crc>
+    <manufacturer>Red Storm Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tonic Trouble (USA) (Translated PtBr)" index="" image="">
+    <description>Tonic Trouble (USA)</description>
+    <cloneof />
+    <crc>0ECD289A</crc>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tony Hawk's Pro Skater (USA) (Translated PtBr)" index="" image="">
+    <description>Tony Hawk's Pro Skater (USA)</description>
+    <cloneof />
+    <crc>1BE278C1</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Skateboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tony Hawk's Pro Skater 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Tony Hawk's Pro Skater 2 (USA)</description>
+    <cloneof />
+    <crc>6DF2D58E</crc>
+    <manufacturer>Activision O2</manufacturer>
+    <year>2001</year>
+    <genre>Sports/Skateboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tony Hawk's Pro Skater 3 (USA) (Translated PtBr)" index="" image="">
+    <description>Tony Hawk's Pro Skater 3 (USA)</description>
+    <cloneof />
+    <crc>ED73272E</crc>
+    <manufacturer>Activision O2</manufacturer>
+    <year>2002</year>
+    <genre>Sports/Skateboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Top Gear Hyper-Bike (USA) (Translated PtBr)" index="" image="">
+    <description>Top Gear Hyper-Bike (USA)</description>
+    <cloneof />
+    <crc>3E9CE2AF</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>2000</year>
+    <genre>Motorcycle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Top Gear Overdrive (USA) (Translated PtBr)" index="" image="">
+    <description>Top Gear Overdrive (USA)</description>
+    <cloneof />
+    <crc>B5B23053</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Top Gear Rally (USA) (Translated PtBr)" index="" image="">
+    <description>Top Gear Rally (USA)</description>
+    <cloneof />
+    <crc>A04F1CC0</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Top Gear Rally 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Top Gear Rally 2 (USA)</description>
+    <cloneof />
+    <crc>7E4E181C</crc>
+    <manufacturer>Kemco</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Toy Story 2 (USA) (Translated PtBr)" index="" image="">
+    <description>Toy Story 2 (USA)</description>
+    <cloneof />
+    <crc>F7A72276</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1999</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Transformers - Beast Wars Transmetals (USA) (Translated PtBr)" index="" image="">
+    <description>Transformers: Beast Wars Transmetals (USA)</description>
+    <cloneof />
+    <crc>14C6B5E3</crc>
+    <manufacturer>Bam Entertainment</manufacturer>
+    <year>2000</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Triple Play 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>Triple Play 2000 (USA)</description>
+    <cloneof />
+    <crc>BFB124FC</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Baseball</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Turok - Dinosaur Hunter (USA) (Translated PtBr)" index="" image="">
+    <description>Turok: Dinosaur Hunter (USA)</description>
+    <cloneof />
+    <crc>AF6EA1B8</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1997</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Turok - Rage Wars (USA) (Translated PtBr)" index="" image="">
+    <description>Turok: Rage Wars (USA)</description>
+    <cloneof />
+    <crc>416474D8</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Turok 2 - Seeds of Evil (USA) (Rev 1) (Translated PtBr)" index="" image="">
+    <description>Turok 2: Seeds of Evil (USA)</description>
+    <cloneof />
+    <crc>ADEC745F</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1998</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Turok 3 - Shadow of Oblivion (USA) (Translated PtBr)" index="" image="">
+    <description>Turok 3: Shadow of Oblivion (USA)</description>
+    <cloneof />
+    <crc>E0D0D902</crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>2000</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Twisted Edge - Extreme Snowboarding (USA) (Translated PtBr)" index="" image="">
+    <description>Twisted Edge: Extreme Snowboarding (USA)</description>
+    <cloneof />
+    <crc>3A572B23</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Snowboarding</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan) (Translated PtBr)" index="true" image="u">
+    <description>Utchan Nanchan no Hono no Challenger: Denryuu Ira Ira Bou (Japan)</description>
+    <cloneof />
+    <crc>CB8C642B</crc>
+    <manufacturer>Hudson</manufacturer>
+    <year>1997</year>
+    <genre>Action</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Vigilante 8 - 2nd Offense (USA) (Translated PtBr)" index="" image="">
+    <description>Vigilante 8: 2nd Offense (USA)</description>
+    <cloneof />
+    <crc>764ABDB3</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>2000</year>
+    <genre>Driving</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Vigilante 8 (USA) (Translated PtBr)" index="" image="">
+    <description>Vigilante 8 (USA)</description>
+    <cloneof />
+    <crc>B445EDCD</crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Virtual Chess 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Virtual Chess 64 (USA)</description>
+    <cloneof />
+    <crc>3CD894C4</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1998</year>
+    <genre>Board Games</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Virtual Pool 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Virtual Pool 64 (USA)</description>
+    <cloneof />
+    <crc>584B2A5F</crc>
+    <manufacturer>Crave Entertainment</manufacturer>
+    <year>1998</year>
+    <genre>Pool and Dart</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Virtual Pro Wrestling 2 - Oudou Keishou (Japan) (Translated PtBr)" index="" image="">
+    <description>Virtual Pro Wrestling 2: Oudou Keishou (Japan)</description>
+    <cloneof />
+    <crc>8E33C3AF</crc>
+    <manufacturer>Asmik Ace Entertainment Inc.</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Virtual Pro Wrestling 64 (Japan) (Translated PtBr)" index="" image="">
+    <description>Virtual Pro Wrestling 64 (Japan)</description>
+    <cloneof />
+    <crc>2B4B9BEF</crc>
+    <manufacturer>Asmik</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="V-Rally Edition 99 (USA) (Translated PtBr)" index="true" image="v">
+    <description>V-Rally Edition 99 (USA)</description>
+    <cloneof />
+    <crc>BFEF13E9</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Waialae Country Club - True Golf Classics (USA) (Translated PtBr)" index="true" image="w">
+    <description>Waialae Country Club: True Golf Classics (USA)</description>
+    <cloneof />
+    <crc>76EBDB18</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Golf</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="War Gods (USA) (Translated PtBr)" index="" image="">
+    <description>War Gods (USA)</description>
+    <cloneof />
+    <crc>10635B27</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - M (Mature)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wave Race 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Wave Race 64 (USA)</description>
+    <cloneof />
+    <crc>DD2BB7B6</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1996</year>
+    <genre>Water</genre>
+    <rating>ESRB - E (Everyone)</rating>
+	<players>2</players>
+    <score>4.2</score>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wayne Gretzky's 3D Hockey (USA) (Translated PtBr)" index="" image="">
+    <description>Wayne Gretzky's 3D Hockey (USA)</description>
+    <cloneof />
+    <crc>6E5A30ED</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1996</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wayne Gretzky's 3D Hockey '98 (USA) (Translated PtBr)" index="" image="">
+    <description>Wayne Gretzky's 3D Hockey '98 (USA)</description>
+    <cloneof />
+    <crc>5C593E2E</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Hockey</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WCW Backstage Assault (USA) (Translated PtBr)" index="" image="">
+    <description>WCW Backstage Assault (USA)</description>
+    <cloneof />
+    <crc>D3A9F234</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WCW Mayhem (USA) (Translated PtBr)" index="" image="">
+    <description>WCW Mayhem (USA)</description>
+    <cloneof />
+    <crc>A1911368</crc>
+    <manufacturer>Electronic Arts</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WCW Nitro (USA) (Translated PtBr)" index="" image="">
+    <description>WCW Nitro (USA)</description>
+    <cloneof />
+    <crc>AC1909A9</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WCW vs. nWo - World Tour (USA) (Translated PtBr)" index="" image="">
+    <description>WCW vs. nWo: World Tour (USA)</description>
+    <cloneof />
+    <crc>85E0C097</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1997</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WCW-nWo Revenge (USA) (Translated PtBr)" index="" image="">
+    <description>WCW-nWo Revenge (USA)</description>
+    <cloneof />
+    <crc>2257FD02</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wetrix (USA) (Translated PtBr)" index="" image="">
+    <description>Wetrix (USA)</description>
+    <cloneof />
+    <crc>4EDA94C1</crc>
+    <manufacturer>Ocean</manufacturer>
+    <year>1998</year>
+    <genre>Puzzle</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wheel of Fortune (USA) (Translated PtBr)" index="" image="">
+    <description>Wheel of Fortune (USA)</description>
+    <cloneof />
+    <crc>C2571693</crc>
+    <manufacturer>GameTek</manufacturer>
+    <year>1997</year>
+    <genre>Game Show</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WinBack - Covert Operations (USA) (Translated PtBr)" index="" image="">
+    <description>WinBack: Covert Operations (USA)</description>
+    <cloneof />
+    <crc>1A6334D0</crc>
+    <manufacturer>Koei</manufacturer>
+    <year>1999</year>
+    <genre>Shooter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wipeout 64 (USA) (Translated PtBr)" index="" image="">
+    <description>Wipeout 64 (USA)</description>
+    <cloneof />
+    <crc>3E8CCE96</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1998</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Wonder Project J2 - Josette of the Corlo Forest (Japan) (Translated En) (Translated PtBr)" index="" image="">
+    <description>Wonder Project J2: Josette of the Corlo Forest (Japan) (Translated En)</description>
+    <cloneof />
+    <crc>E1094E29</crc>
+    <manufacturer>Enix</manufacturer>
+    <year>1996</year>
+    <genre>Role-Playing</genre>
+    <rating>HSRS - GA (General Audience)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="World Cup 98 (USA) (Translated PtBr)" index="" image="">
+    <description>World Cup 98 (USA)</description>
+    <cloneof />
+    <crc>B875CD94</crc>
+    <manufacturer>EA Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Soccer</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="World Driver Championship (USA) (Translated PtBr)" index="" image="">
+    <description>World Driver Championship (USA)</description>
+    <cloneof />
+    <crc>DCD9D2D2</crc>
+    <manufacturer>Midway</manufacturer>
+    <year>1999</year>
+    <genre>Driving</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Worms Armageddon (USA) (Translated PtBr)" index="" image="">
+    <description>Worms Armageddon (USA)</description>
+    <cloneof />
+    <crc>556268B7</crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>2000</year>
+    <genre>Strategy</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WWF Attitude (USA) (Translated PtBr)" index="" image="">
+    <description>WWF Attitude (USA)</description>
+    <cloneof />
+    <crc>F694DB1E</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WWF No Mercy (USA) (Translated PtBr)" index="" image="">
+    <description>WWF No Mercy (USA)</description>
+    <cloneof />
+    <crc>AFBC514E</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>2000</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WWF War Zone (USA) (Translated PtBr)" index="" image="">
+    <description>WWF War Zone (USA)</description>
+    <cloneof />
+    <crc>6CFE13A8</crc>
+    <manufacturer>Acclaim Sports</manufacturer>
+    <year>1998</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="WWF WrestleMania 2000 (USA) (Translated PtBr)" index="" image="">
+    <description>WWF WrestleMania 2000 (USA)</description>
+    <cloneof />
+    <crc>D514E83C</crc>
+    <manufacturer>THQ</manufacturer>
+    <year>1999</year>
+    <genre>Sports/Wrestling</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Xena - Warrior Princess - The Talisman of Fate (USA) (Translated PtBr)" index="true" image="x">
+    <description>Xena: Warrior Princess - The Talisman of Fate (USA)</description>
+    <cloneof />
+    <crc>7CB26725</crc>
+    <manufacturer>Titus</manufacturer>
+    <year>1999</year>
+    <genre>Fighter</genre>
+    <rating>ESRB - T (Teen)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Yoshi's Story (USA) (Translated PtBr)" index="true" image="y">
+    <description>Yoshi's Story (USA)</description>
+    <cloneof />
+    <crc>01A4B1E9</crc>
+    <manufacturer>Nintendo</manufacturer>
+    <year>1998</year>
+    <genre>Platform</genre>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>

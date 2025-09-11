@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Shooter / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="ganbare" index="" image="">
+	<description>Ganbare! Marine Kun (Japan 2K0411)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>2000</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gundmct" index="" image="">
+	<description>Mobile Suit Gundam: Federation Vs. Zeon</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Banpresto / Capcom</manufacturer>
+	<year>2001</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gundmgd" index="" image="">
+	<description>Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Banpresto</manufacturer>
+	<year>2001</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gundmxgd" index="" image="">
+	<description>Mobile Suit Gundam: Federation Vs. Zeon DX (USA, Japan) (GDL-0006)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom</manufacturer>
+	<year>2001</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gundzaft" index="" image="">
+	<description>Gundam Seed: Federation vs. Z.A.F.T. (SED1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Banpresto</manufacturer>
+	<year>2005</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="mpang" index="" image="">
+	<description>Mighty! Pang (Euro 001010)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Mitchell (Capcom license)</manufacturer>
+	<year>2000</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="spawn" index="" image="">
+	<description>Spawn: In the Demon&apos;s Hand (Rev B)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Todd McFarlane / Capcom</manufacturer>
+	<year>1999</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zgundm" index="" image="">
+	<description>Mobile Suit Z-Gundam: A.E.U.G. vs Titans (ZGA1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Banpresto</manufacturer>
+	<year>2003</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="zgundmdx" index="" image="">
+	<description>Mobile Suit Z-Gundam: A.E.U.G. vs Titans DX (ZDX1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Banpresto</manufacturer>
+	<year>2004</year>
+	<genre>Shooter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

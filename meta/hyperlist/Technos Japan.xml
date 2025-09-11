@@ -1,0 +1,156 @@
+﻿<menu>
+        <game name="dogfgt">
+                <description>Acrobatic Dog-Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="battlane">
+                <description>Battle Lane! Vol. 5</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Taito license)</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="bogeyman">
+                <description>Bogey Manor</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="dommy">
+                <description>Dommy</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Move and Sort</genre>
+        </game>
+        <game name="doubledr">
+                <description>Double Dragon</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="ddragon3">
+                <description>Double Dragon 3 - The Rosetta Stone</description>
+                <cloneof></cloneof>
+                <manufacturer>East Technology</manufacturer>
+                <year>1990</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="ddragon2">
+                <description>Double Dragon II - The Revenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="maniach">
+                <description>Mania Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Taito America license)</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="matmania">
+                <description>Mat Mania</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Taito America license)</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="mystston">
+                <description>Mysterious Stones - Dr. John's Adventure</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="renegade">
+                <description>Renegade</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Taito America license)</manufacturer>
+                <year>1986</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="scregg">
+                <description>Scrambled Egg</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Defeat Enemies</genre>
+        </game>
+        <game name="shadfrce">
+                <description>Shadow Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="spdodgeb">
+                <description>Super Dodge Ball</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Dodgeball</genre>
+        </game>
+        <game name="sdodgeb">
+                <description>Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Dodgeball</genre>
+        </game>
+        <game name="bigprowr">
+                <description>The Big Pro Wrestling!</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="ctribe">
+                <description>The Combatribes</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1990</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="vball">
+                <description>U.S. Championship V'ball</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Volleyball</genre>
+        </game>
+        <game name="gowcaizr">
+                <description>Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="wwfsstar">
+                <description>WWF Superstars</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="wwfwfest">
+                <description>WWF WrestleFest</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Tecmo license)</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Wrestling</genre>
+        </game>
+        <game name="xsleena">
+                <description>Xain'd Sleena</description>
+                <cloneof></cloneof>
+                <manufacturer>Technos Japan (Taito license)</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+</menu>

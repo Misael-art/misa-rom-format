@@ -1,0 +1,93 @@
+﻿<menu>
+        <game name="denjinmk">
+                <description>Denjin Makai</description>
+                <cloneof></cloneof>
+                <manufacturer>Winkysoft (Banpresto license)</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="dbz">
+                <description>Dragon Ball Z</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="dbz2">
+                <description>Dragon Ball Z 2 - Super Battle</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="gegege">
+                <description>GeGeGe no Kitarou Youkai Slot</description>
+                <cloneof></cloneof>
+                <manufacturer>Sigma</manufacturer>
+                <year>1997</year>
+                <genre>Slot Machine / Video Slot</genre>
+        </game>
+        <game name="grdians">
+                <description>Guardians / Denjin Makai II</description>
+                <cloneof></cloneof>
+                <manufacturer>Winkysoft (Banpresto license)</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="gundhara">
+                <description>Gundhara</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="macrossp">
+                <description>Macross Plus</description>
+                <cloneof></cloneof>
+                <manufacturer>MOSS</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="gundamex">
+                <description>Mobile Suit Gundam EX Revue</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="pururun">
+                <description>Pururun</description>
+                <cloneof></cloneof>
+                <manufacturer>Metro</manufacturer>
+                <year>1995</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="puzzli">
+                <description>Puzzli</description>
+                <cloneof></cloneof>
+                <manufacturer>Metro</manufacturer>
+                <year>1995</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="samuraia">
+                <description>Samurai Aces</description>
+                <cloneof></cloneof>
+                <manufacturer>Psikyo (Banpresto license)</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="macross">
+                <description>Super Spacefortress Macross / Chou-Jikuu Yousai Macross</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="macross2">
+                <description>Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II</description>
+                <cloneof></cloneof>
+                <manufacturer>Banpresto</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+</menu>

@@ -1,0 +1,149 @@
+﻿<menu>
+        <game name="backfirt">
+                <description>Back Fire</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="deroon">
+                <description>Deroon DeroDero</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1995</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="eightfrc">
+                <description>Eight Forces</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="fstarfrc">
+                <description>Final Star Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ginkun">
+                <description>Ganbare Ginkun</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1995</year>
+                <genre>Multiplay / Mini-Games</genre>
+        </game>
+        <game name="gemini">
+                <description>Gemini Wing</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="gunnail">
+                <description>GunNail</description>
+                <cloneof></cloneof>
+                <manufacturer>NMK</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="stratof">
+                <description>Raiga - Strato Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="rygar">
+                <description>Rygar</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="sabotenb">
+                <description>Saboten Bombers</description>
+                <cloneof></cloneof>
+                <manufacturer>NMK</manufacturer>
+                <year>1992</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="shadoww">
+                <description>Shadow Warriors</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="silkworm">
+                <description>Silk Worm</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Misc. Horizontal</genre>
+        </game>
+        <game name="solomon">
+                <description>Solomon's Key</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1986</year>
+                <genre>Puzzle / Maze</genre>
+        </game>
+        <game name="stg">
+                <description>Strike Gunner S.T.G</description>
+                <cloneof></cloneof>
+                <manufacturer>Athena</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tbowl">
+                <description>Tecmo Bowl</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1987</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="twcup90">
+                <description>Tecmo World Cup '90</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="twsoc96">
+                <description>Tecmo World Soccer '96</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="tdragon">
+                <description>Thunder Dragon</description>
+                <cloneof></cloneof>
+                <manufacturer>NMK (Tecmo license)</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tkdensho">
+                <description>Toukidenshou - Angel Eyes</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1996</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="wildfang">
+                <description>Wild Fang / Tecmo Knight</description>
+                <cloneof></cloneof>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="zingzip">
+                <description>Zing Zing Zip</description>
+                <cloneof></cloneof>
+                <manufacturer>Allumer</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+</menu>

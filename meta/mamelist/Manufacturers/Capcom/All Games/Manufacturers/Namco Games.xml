@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Capcom / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="fateulc" index="" image="">
+	<description>Fate: Unlimited Codes (FUD1 ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Namco</manufacturer>
+	<year>2008</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="fghtjam" index="" image="">
+	<description>Capcom Fighting Jam (JAM1 Ver. A)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Namco</manufacturer>
+	<year>2004</year>
+	<genre>Fighter</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="gunsur2" index="" image="">
+	<description>Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Capcom / Namco</manufacturer>
+	<year>2001</year>
+	<genre>Gun</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>

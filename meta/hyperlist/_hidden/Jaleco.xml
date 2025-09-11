@@ -1,0 +1,338 @@
+﻿<menu>
+        <game name="64street">
+                <description>64th. Street - A Detective Story</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="argus">
+                <description>Argus</description>
+                <cloneof></cloneof>
+                <manufacturer>NMK (Jaleco license)</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="avspirit">
+                <description>Avenging Spirit</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="bbbxing">
+                <description>Best Bout Boxing</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="bigrun">
+                <description>Big Run</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1989</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="bigstrik">
+                <description>Big Striker</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1992</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="bombsa">
+                <description>Bombs Away</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="chameleo">
+                <description>Chameleon</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="cischeat">
+                <description>Cisco Heat</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1990</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="citycon">
+                <description>City Connection</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="cybattlr">
+                <description>Cybattler</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ddayjlc">
+                <description>D-Day</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="desertwr">
+                <description>Desert War / Wangan Sensou</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="dingo">
+                <description>Dingo</description>
+                <cloneof></cloneof>
+                <manufacturer>Ashby Computers and Graphics Ltd. (Jaleco license)</manufacturer>
+                <year>1983</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="dynashot">
+                <description>Dynamic Shoot Kyousou</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="edf">
+                <description>E.D.F. : Earth Defense Force</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="exerion">
+                <description>Exerion</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="f1gpstr2">
+                <description>F-1 Grand Prix Star II</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1993</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="formatz">
+                <description>Formation Z</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Misc. Horizontal</genre>
+        </game>
+        <game name="ganjaja">
+                <description>Ganbare Jajamaru Saisho wa Goo / Ganbare Jajamaru Hop Step   Jump</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1990</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="ginganin">
+                <description>Ginga NinkyouDen</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="f1gpstar">
+                <description>Grand Prix Star</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1992</year>
+                <genre>Driving / Race (chase view)</genre>
+        </game>
+        <game name="grasspin">
+                <description>Grasspin</description>
+                <cloneof></cloneof>
+                <manufacturer>Zilec Electronics</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Maze</genre>
+        </game>
+        <game name="gratia">
+                <description>Gratia - Second Earth</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="hachoo">
+                <description>Hachoo!</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="inyourfa">
+                <description>In Your Face</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1991</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="lomakai">
+                <description>Legend of Makai</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="magerror">
+                <description>Magical Error wo Sagase</description>
+                <cloneof></cloneof>
+                <manufacturer>Technosoft</manufacturer>
+                <year>1994</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="naughtyb">
+                <description>Naughty Boy</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="nhomerun">
+                <description>NEW Moero!! Pro Yakyuu Homerun Kyousou</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="kazan">
+                <description>Ninja Kazan</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="p47">
+                <description>P-47 - The Phantom Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="p47aces">
+                <description>P-47 Aces</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="pturn">
+                <description>Parallel Turn</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1984</year>
+                <genre>Sports / Skiing</genre>
+        </game>
+        <game name="pinbo">
+                <description>Pinbo</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1984</year>
+                <genre>Arcade / Pinball</genre>
+        </game>
+        <game name="plusalph">
+                <description>Plus Alpha</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="popflame">
+                <description>Pop Flamer</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="rodland">
+                <description>Rod-Land</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="stdragon">
+                <description>Saint Dragon</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="saturnzi">
+                <description>Saturn</description>
+                <cloneof></cloneof>
+                <manufacturer>Zilec Electronics</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="scudhamm">
+                <description>Scud Hammer</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1994</year>
+                <genre>Medal Game / Stone-Scissor-Paper</genre>
+        </game>
+        <game name="skyfox">
+                <description>Sky Fox</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco (Nichibutsu USA license)</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="soldam">
+                <description>Soldam</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1992</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="astyanax">
+                <description>The Astyanax</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="gametngk">
+                <description>The Game Paradise - Master of Shooting! / Game Tengoku - The Game Paradise</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="toprollr">
+                <description>Top Roller</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1983</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="valtric">
+                <description>Valtric</description>
+                <cloneof></cloneof>
+                <manufacturer>NMK (Jaleco license)</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="wpksocv2">
+                <description>World PK Soccer V2</description>
+                <cloneof></cloneof>
+                <manufacturer>Jaleco</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+</menu>

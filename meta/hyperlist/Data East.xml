@@ -1,0 +1,534 @@
+﻿<menu>
+        <game name="progolf">
+                <description>18 Holes Pro Golf</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1981</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="actfancr">
+                <description>Act-Fancer Cybernetick Hyper Weapon</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="astrof">
+                <description>Astro Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1979</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="avengrgs">
+                <description>Avengers In Galactic Storm</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1995</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="baddudes">
+                <description>Bad Dudes vs. Dragonninja</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="battlera">
+                <description>Battle Rangers</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="boogwing">
+                <description>Boogie Wings</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Misc. Horizontal</genre>
+        </game>
+        <game name="boomrang">
+                <description>Boomer Rang'r / Genesis</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="bouldash">
+                <description>Boulder Dash / Boulder Dash Part 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation (licensed from First Star)</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Digging</genre>
+        </game>
+        <game name="brkthru">
+                <description>Break Thru</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Driving Horizontal</genre>
+        </game>
+        <game name="btime">
+                <description>Burger Time</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1982</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="brubber">
+                <description>Burnin' Rubber</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1982</year>
+                <genre>Driving / Race</genre>
+        </game>
+        <game name="csilver">
+                <description>Captain Silver</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="cninja">
+                <description>Caveman Ninja</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="chainrec">
+                <description>Chain Reaction</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1995</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="chanbara">
+                <description>Chanbara</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="chelnov">
+                <description>Chelnov - Atomic Runner</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="cobracom">
+                <description>Cobra-Command</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="compgolf">
+                <description>Competition Golf Final Round</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="cbuster">
+                <description>Crude Buster</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="darkseal">
+                <description>Dark Seal</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1990</year>
+                <genre>Maze / Fighter</genre>
+        </game>
+        <game name="dietgo">
+                <description>Diet Go Go</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1992</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="disco">
+                <description>Disco No.1</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Outline</genre>
+        </game>
+        <game name="dragngun">
+                <description>Dragon Gun</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+        <game name="dsoccr94">
+                <description>Dream Soccer '94</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (Data East Corporation license)</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="exprraid">
+                <description>Express Raider</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="fghthist">
+                <description>Fighter's History</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="firetrap">
+                <description>Fire Trap</description>
+                <cloneof></cloneof>
+                <manufacturer>Woodplace Inc. (Data East USA license)</manufacturer>
+                <year>1986</year>
+                <genre>Climbing / Building</genre>
+        </game>
+        <game name="ghostlop">
+                <description>Ghostlop</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="gondo">
+                <description>Gondomania</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="hbarrel">
+                <description>Heavy Barrel</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="hvysmsh">
+                <description>Heavy Smash</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1993</year>
+                <genre>Sports / Handball</genre>
+        </game>
+        <game name="hippodrm">
+                <description>Hippodrome</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="joemacr">
+                <description>Joe   Mac Returns</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="kamikcab">
+                <description>Kamikaze Cabbie</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Driving</genre>
+        </game>
+        <game name="kchamp">
+                <description>Karate Champ</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1984</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="karnov">
+                <description>Karnov</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="karnovr">
+                <description>Karnov's Revenge / Fighter's History Dynamite</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="lastmisn">
+                <description>Last Mission</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="lemmings">
+                <description>Lemmings</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1991</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="liberate">
+                <description>Liberation</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="lnc">
+                <description>Lock'n'Chase</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1981</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="madalien">
+                <description>Mad Alien</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="magdrop2">
+                <description>Magical Drop II</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="magdrop3">
+                <description>Magical Drop III</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1997</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="midres">
+                <description>Midnight Resistance</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="mutantf">
+                <description>Mutant Fighter</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="nslasher">
+                <description>Night Slashers</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="nitrobal">
+                <description>Nitro Ball</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="prosoccr">
+                <description>Pro Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Soccer</genre>
+        </game>
+        <game name="prosport">
+                <description>Pro Sports - Bowling, Tennis, and Golf</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Multiplay</genre>
+        </game>
+        <game name="oscar">
+                <description>Psycho-Nics Oscar</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="robocop">
+                <description>Robocop</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="secretag">
+                <description>Secret Agent</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="shackled">
+                <description>Shackled</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1986</year>
+                <genre>Maze / Shooter Large</genre>
+        </game>
+        <game name="shangkid">
+                <description>Shanghai Kid</description>
+                <cloneof></cloneof>
+                <manufacturer>Taiyo System (Data East license)</manufacturer>
+                <year>1985</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="shootout">
+                <description>Shoot Out</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="sidepckt">
+                <description>Side Pocket</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1986</year>
+                <genre>Sports / Pool</genre>
+        </game>
+        <game name="spinmast">
+                <description>Spin Master / Miracle Adventure</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1993</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="stadhr96">
+                <description>Stadium Hero '96</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1996</year>
+                <genre>Sports / Baseball</genre>
+        </game>
+        <game name="strhoop">
+                <description>Street Hoop / Street Slam / Dunk Dream</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Basketball</genre>
+        </game>
+        <game name="supbtime">
+                <description>Super Burger Time</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="sdtennis">
+                <description>Super Doubles Tennis</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Tennis</genre>
+        </game>
+        <game name="srdarwin">
+                <description>Super Real Darwin</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="tattass">
+                <description>Tattoo Assassins</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Pinball</manufacturer>
+                <year>1994</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="edrandy">
+                <description>The Cliffhanger - Edward Randy</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1990</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="ghostb">
+                <description>The Real Ghostbusters</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="thndzone">
+                <description>Thunder Zone</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="tomahawk">
+                <description>Tomahawk 777</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="triothep">
+                <description>Trio The Punch - Never Forget Me...</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="tumblep">
+                <description>Tumble Pop</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="vaportra">
+                <description>Vapor Trail - Hyper Offence Formation</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="wjammers">
+                <description>Windjammers / Flying Power Disc</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Misc.</genre>
+        </game>
+        <game name="wizdfire">
+                <description>Wizard Fire</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="zaviga">
+                <description>Zaviga</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East Corporation</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Misc. Vertical</genre>
+        </game>
+        <game name="zoar">
+                <description>Zoar</description>
+                <cloneof></cloneof>
+                <manufacturer>Data East USA</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+</menu>

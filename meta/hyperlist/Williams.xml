@@ -1,0 +1,93 @@
+﻿<menu>
+        <game name="bubbles">
+                <description>Bubbles</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1982</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="defender">
+                <description>Defender</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="hiimpact">
+                <description>High Impact Football</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1990</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="inferno">
+                <description>Inferno</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1984</year>
+                <genre>Maze / Shooter Small</genre>
+        </game>
+        <game name="joust">
+                <description>Joust</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1982</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="joust2">
+                <description>Joust 2 - Survival of the Fittest</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="narc">
+                <description>Narc</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="playball">
+                <description>PlayBall!</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1983</year>
+                <genre>Ball and Paddle / Jump and Touch</genre>
+        </game>
+        <game name="sinistar">
+                <description>Sinistar</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="smashtv">
+                <description>Smash T.V.</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="spdball">
+                <description>Speed Ball - Contest at Neonworld</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1985</year>
+                <genre>Sports / Misc.</genre>
+        </game>
+        <game name="splat">
+                <description>Splat!</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Field</genre>
+        </game>
+        <game name="tshoot">
+                <description>Turkey Shoot</description>
+                <cloneof></cloneof>
+                <manufacturer>Williams</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Gun</genre>
+        </game>
+</menu>

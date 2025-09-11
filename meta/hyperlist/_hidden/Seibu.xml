@@ -1,0 +1,135 @@
+﻿<menu>
+        <game name="deadang">
+                <description>Dead Angle</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="dynduke">
+                <description>Dynamite Duke</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / 3rd Person</genre>
+        </game>
+        <game name="empcity">
+                <description>Empire City: 1931</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1986</year>
+                <genre>Shooter / 1st Person</genre>
+        </game>
+        <game name="feversoc">
+                <description>Fever Soccer</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>2004</year>
+                <genre>Slot Machine / Video Slot</genre>
+        </game>
+        <game name="kncljoe">
+                <description>Knuckle Joe</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="kungfut">
+                <description>Kung-Fu Taikun</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Fighter</genre>
+        </game>
+        <game name="raiden">
+                <description>Raiden</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="raidendx">
+                <description>Raiden DX</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="rdft">
+                <description>Raiden Fighters</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Tuning license)</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="rdft2">
+                <description>Raiden Fighters 2 - Operation Hell Dive</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Tuning license)</manufacturer>
+                <year>1997</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="rfjet">
+                <description>Raiden Fighters Jet</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Tuning license)</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="raiden2">
+                <description>Raiden II</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Fabtek license)</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="r2dx_v33">
+                <description>Raiden II New / Raiden DX</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1996</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="scion">
+                <description>Scion</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Denshi</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="shtrider">
+                <description>Shot Rider</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1985</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="stinger">
+                <description>Stinger</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Denshi</manufacturer>
+                <year>1983</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="darkmist">
+                <description>The Lost Castle In Darkmist</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="viprp1">
+                <description>Viper Phase 1</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1995</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="wiz">
+                <description>Wiz</description>
+                <cloneof></cloneof>
+                <manufacturer>Seibu Kaihatsu</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+</menu>

@@ -1,0 +1,94 @@
+﻿<menu>
+
+        <game name="arbalest">
+                <description>Arbalester</description>
+                <cloneof></cloneof>
+                <manufacturer>Jordan I.S.</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="calibr50">
+                <description>Caliber 50</description>
+                <cloneof></cloneof>
+                <manufacturer>Athena</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Walking</genre>
+        </game>
+        <game name="downtown">
+                <description>DownTown / Mokugeki</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / Vertical</genre>
+        </game>
+        <game name="drgnunit">
+                <description>Dragon Unit / Castle of Dragon</description>
+                <cloneof></cloneof>
+                <manufacturer>Athena</manufacturer>
+                <year>1989</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="metafox">
+                <description>Meta Fox</description>
+                <cloneof></cloneof>
+                <manufacturer>Jordan I.S.</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="nratechu">
+                <description>Neratte Chu</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle / Toss</genre>
+        </game>
+        <game name="starsldr">
+                <description>Star Soldier: Vanishing Earth</description>
+                <cloneof></cloneof>
+                <manufacturer>Hudson</manufacturer>
+                <year>1998</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="speglsht">
+                <description>Super Eagle Shot</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1994</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="thunderl">
+                <description>Thunder   Lightning</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1990</year>
+                <genre>Ball and Paddle / Breakout</genre>
+        </game>
+        <game name="tndrcade">
+                <description>Thundercade / Twin Formation</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta (Taito license)</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="twineagl">
+                <description>Twin Eagle - Revenge Joe's Brother</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta (Taito license)</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="twineag2">
+                <description>Twin Eagle II - The Rescue Mission</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1994</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="usclssic">
+                <description>U.S. Classic</description>
+                <cloneof></cloneof>
+                <manufacturer>Seta</manufacturer>
+                <year>1989</year>
+                <genre>Sports / Golf</genre>
+        </game>
+</menu>

@@ -1,0 +1,338 @@
+﻿<menu>
+        <game name="10yard">
+                <description>10-Yard Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Football</genre>
+        </game>
+        <game name="airass">
+                <description>Air Assault</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="airduel">
+                <description>Air Duel</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1990</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="bchopper">
+                <description>Battle Chopper</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying</genre>
+        </game>
+        <game name="bmaster">
+                <description>Blade Master</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="bbmanw">
+                <description>Bomber Man World / New Dyna Blaster - Global Quest</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Maze / Collect</genre>
+        </game>
+        <game name="cosmccop">
+                <description>Cosmic Cop</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="dbreed">
+                <description>Dragon Breed</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="dynablst">
+                <description>Dynablaster / Bomber Man</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+                <year>1991</year>
+                <genre>Maze / Defeat Enemies</genre>
+        </game>
+        <game name="gunforc2">
+                <description>Gun Force II</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1994</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="gunforce">
+                <description>Gunforce - Battle Fire Engulfed Terror Island</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1991</year>
+                <genre>Platform / Shooter Scrolling</genre>
+        </game>
+        <game name="hharry">
+                <description>Hammerin' Harry</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1990</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="hook">
+                <description>Hook</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="horizon">
+                <description>Horizon</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1985</year>
+                <genre>Shooter / Driving Horizontal</genre>
+        </game>
+        <game name="imgfight">
+                <description>Image Fight</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1988</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="inthunt">
+                <description>In The Hunt</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1993</year>
+                <genre>Shooter / Misc. Horizontal</genre>
+        </game>
+        <game name="kidniki">
+                <description>Kid Niki - Radical Ninja</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1986</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="kungfum">
+                <description>Kung-Fu Master</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1984</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="loht">
+                <description>Legend of Hero Tonma</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1989</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="lethalth">
+                <description>Lethal Thunder</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1991</year>
+                <genre>Shooter / Flying Vertical</genre>
+        </game>
+        <game name="ltswords">
+                <description>Lightning Swords</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1991</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="ldrun">
+                <description>Lode Runner</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="ldrun2">
+                <description>Lode Runner II - The Bungeling Strikes Back</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="ldrun3">
+                <description>Lode Runner III - The Golden Labyrinth</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run Jump</genre>
+        </game>
+        <game name="lotlot">
+                <description>Lot Lot</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Tokuma Shoten)</manufacturer>
+                <year>1985</year>
+                <genre>Puzzle / Misc.</genre>
+        </game>
+        <game name="majtitle">
+                <description>Major Title</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1990</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="majtitl2">
+                <description>Major Title 2</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Sports / Golf</genre>
+        </game>
+        <game name="mpatrol">
+                <description>Moon Patrol</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1982</year>
+                <genre>Shooter / Driving Horizontal</genre>
+        </game>
+        <game name="mysticri">
+                <description>Mystic Riders</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="nbbatman">
+                <description>Ninja Baseball Bat Man</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="nspirit">
+                <description>Ninja Spirit</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1988</year>
+                <genre>Fighter / 2D</genre>
+        </game>
+        <game name="panther">
+                <description>Panther</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="poundfor">
+                <description>Pound for Pound</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1990</year>
+                <genre>Sports / Boxing</genre>
+        </game>
+        <game name="rtype">
+                <description>R-Type</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1987</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="rtype2">
+                <description>R-Type II</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="rtypeleo">
+                <description>R-Type Leo</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+        <game name="redalert">
+                <description>Red Alert</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (GDI license)</manufacturer>
+                <year>1981</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="riskchal">
+                <description>Risky Challenge</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1993</year>
+                <genre>Puzzle / Drop</genre>
+        </game>
+        <game name="spelunkr">
+                <description>Spelunker</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+                <year>1985</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="ssoldier">
+                <description>Superior Soldiers</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem America</manufacturer>
+                <year>1993</year>
+                <genre>Fighter / Versus</genre>
+        </game>
+        <game name="battroad">
+                <description>The Battle-Road</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1984</year>
+                <genre>Shooter / Driving Vertical</genre>
+        </game>
+        <game name="travrusa">
+                <description>Traverse USA / Zippy Race</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1983</year>
+                <genre>Driving / Motorbike</genre>
+        </game>
+        <game name="troangel">
+                <description>Tropical Angel</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1983</year>
+                <genre>Sports / Skiing</genre>
+        </game>
+        <game name="uccops">
+                <description>Undercover Cops</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1992</year>
+                <genre>Fighter / 2.5D</genre>
+        </game>
+        <game name="uniwars">
+                <description>UniWar S</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1980</year>
+                <genre>Shooter / Gallery</genre>
+        </game>
+        <game name="vigilant">
+                <description>Vigilante</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1988</year>
+                <genre>Platform / Fighter Scrolling</genre>
+        </game>
+        <game name="wilytowr">
+                <description>Wily Tower</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1984</year>
+                <genre>Platform / Run, Jump and Scrolling</genre>
+        </game>
+        <game name="xmultipl">
+                <description>X Multiply</description>
+                <cloneof></cloneof>
+                <manufacturer>Irem</manufacturer>
+                <year>1989</year>
+                <genre>Shooter / Flying Horizontal</genre>
+        </game>
+</menu>

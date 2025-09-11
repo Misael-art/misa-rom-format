@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+<header>
+	<listname>Educational / All Games</listname>
+	<lastlistupdate>12/18/2022</lastlistupdate>
+	<listversion>Mame 0.250</listversion>
+	<exporterversion>http://r0man0.free.fr</exporterversion>
+</header>
+<game name="minnadk" index="" image="">
+	<description>Minna de Kitaeru Zenno Training (Ver. 1.50)</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Namco</manufacturer>
+	<year>2007</year>
+	<genre>Educational</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+<game name="sawatte" index="" image="">
+	<description>Sawatte</description>
+	<cloneof/>
+	<crc/>
+	<manufacturer>Sega</manufacturer>
+	<year>1996?</year>
+	<genre>Educational</genre>
+	<rating/>
+	<enabled>Yes</enabled>
+</game>
+</menu>
