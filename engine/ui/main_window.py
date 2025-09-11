@@ -107,7 +107,7 @@ class MainWindow(tk.Tk):
             self.verify_button = ttk.Button(
                 self.top_frame,
                 text="Verificar ROMs",
-                command=lambda: self._verify_roms()
+                command=self.verify_roms
             )
             self.verify_button.pack(side=tk.LEFT, padx=5)
             
@@ -455,7 +455,7 @@ class MainWindow(tk.Tk):
             )
             
             def update_progress(value: float):
-                progress.update(value)
+                progress.update_progress(value)
                 
             # Importa em thread
             def import_thread():
@@ -466,24 +466,24 @@ class MainWindow(tk.Tk):
                     )
                     
                     if success:
-                        messagebox.showinfo(
+                        self.after(0, lambda: messagebox.showinfo(
                             "Sucesso",
                             "Arquivo DAT importado com sucesso!"
-                        )
+                        ))
                     else:
-                        messagebox.showerror(
+                        self.after(0, lambda: messagebox.showerror(
                             "Erro",
                             "Erro ao importar arquivo DAT.\nVerifique o log para mais detalhes."
-                        )
+                        ))
                         
                 except Exception as e:
                     logging.error(f"Erro na thread de importação: {str(e)}", exc_info=True)
-                    messagebox.showerror(
+                    self.after(0, lambda: messagebox.showerror(
                         "Erro",
                         "Erro ao importar arquivo DAT.\nVerifique o log para mais detalhes."
-                    )
+                    ))
                 finally:
-                    progress.close()
+                    progress.cancel()
                     self.update_tables_list()
                     
             # Inicia thread
@@ -563,7 +563,7 @@ class MainWindow(tk.Tk):
             )
             
             def update_progress(value: float):
-                progress.update(value)
+                progress.update_progress(value)
                 
             # Verifica em thread
             def verify_thread():
@@ -574,24 +574,24 @@ class MainWindow(tk.Tk):
                     )
                     
                     if success:
-                        messagebox.showinfo(
+                        self.after(0, lambda: messagebox.showinfo(
                             "Sucesso",
                             "Verificação concluída com sucesso!"
-                        )
+                        ))
                     else:
-                        messagebox.showerror(
+                        self.after(0, lambda: messagebox.showerror(
                             "Erro",
                             "Erro ao verificar ROMs.\nVerifique o log para mais detalhes."
-                        )
+                        ))
                         
                 except Exception as e:
                     logging.error(f"Erro na thread de verificação: {str(e)}", exc_info=True)
-                    messagebox.showerror(
+                    self.after(0, lambda: messagebox.showerror(
                         "Erro",
                         "Erro ao verificar ROMs.\nVerifique o log para mais detalhes."
-                    )
+                    ))
                 finally:
-                    progress.close()
+                    progress.cancel()
                     
             # Inicia thread
             thread = Thread(target=verify_thread)

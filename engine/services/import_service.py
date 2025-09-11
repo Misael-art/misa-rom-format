@@ -41,7 +41,7 @@ class ImportService:
         """
         try:
             # Verifica conexão
-            if not self.db_manager.connection():
+            if not self.db_manager.is_connected:
                 raise ValueError("Banco não conectado")
                 
             # Abre arquivo com tratamento de erro XML
@@ -97,33 +97,31 @@ class ImportService:
             if not games_data:
                 return True
             
-            # Batch insert games
-            conn = self.db_manager.connection()
-            if not conn:
-                raise ValueError("Falha na conexão durante batch insert")
-            cursor = conn.cursor()
-            
-            # Insere games em batch
-            cursor.executemany("""
-                INSERT INTO games (name, description)
-                VALUES (?, ?)
-            """, games_data)
-            game_ids = [cursor.lastrowid - len(games_data) + i + 1 for i in range(len(games_data))]
-            
-            # Atualiza roms_data com game_ids corretos
-            all_roms = []
-            for idx, temp_roms in enumerate(roms_data):
-                game_id = game_ids[idx]
-                for rom in temp_roms:
-                    all_roms.append((game_id,) + rom[1:])
-            
-            # Insere roms em batch
-            cursor.executemany("""
-                INSERT INTO roms (game_id, name, size_file, crc, md5, sha1)
-                VALUES (?, ?, ?, ?, ?, ?)
-            """, all_roms)
-            
-            conn.commit()
+            # Batch insert games usando transaction
+            with self.db_manager.transaction() as conn:
+                cursor = conn.cursor()
+                
+                # Insere games em batch
+                cursor.executemany("""
+                    INSERT INTO games (name, description)
+                    VALUES (?, ?)
+                """, games_data)
+                game_ids = [cursor.lastrowid - len(games_data) + i + 1 for i in range(len(games_data))]
+                
+                # Atualiza roms_data com game_ids corretos
+                all_roms = []
+                for idx, temp_roms in enumerate(roms_data):
+                    game_id = game_ids[idx]
+                    for rom in temp_roms:
+                        all_roms.append((game_id,) + rom[1:])
+                
+                # Insere roms em batch
+                cursor.executemany("""
+                    INSERT INTO roms (game_id, name, size_file, crc, md5, sha1)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                """, all_roms)
+                
+                # Commit é feito automaticamente pela transação
             
             logger.info(f"Importado {len(games_data)} jogos e {len(all_roms)} ROMs em batch")
             return True

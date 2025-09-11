@@ -635,6 +635,49 @@ class UnifiedDatabaseManager:
         
         return status
     
+    def get_tables(self) -> List[str]:
+        """Retorna lista de tabelas do banco de dados."""
+        if not self.is_connected:
+            return []
+        
+        try:
+            query = "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name"
+            results = self.execute_query(query)
+            return [row[0] for row in results]
+        except Exception as e:
+            logger.error(f"Erro ao obter tabelas: {e}")
+            return []
+    
+    def get_table_info(self, table_name: str) -> List[Tuple]:
+        """Retorna informações das colunas de uma tabela."""
+        if not self.is_connected:
+            return []
+        
+        try:
+            query = f"PRAGMA table_info({table_name})"
+            return self.execute_query(query)
+        except Exception as e:
+            logger.error(f"Erro ao obter info da tabela {table_name}: {e}")
+            return []
+    
+    def get_row_count(self, table_name: str) -> int:
+        """Retorna número de registros em uma tabela."""
+        if not self.is_connected:
+            return 0
+        
+        try:
+            query = f"SELECT COUNT(*) FROM {table_name}"
+            result = self.execute_query(query)
+            return result[0][0] if result else 0
+        except Exception as e:
+            logger.error(f"Erro ao contar registros da tabela {table_name}: {e}")
+            return 0
+    
+    @property
+    def connection(self):
+        """Propriedade de compatibilidade para connection."""
+        return self.is_connected
+    
     def __enter__(self):
         """Context manager entry."""
         return self
