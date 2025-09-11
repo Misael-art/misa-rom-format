@@ -42,6 +42,13 @@ logs/
 *.db
 *.sqlite3
 
+# Arquivos grandes
+meta/launchbox/import_log.txt
+meta/launchbox/Metadata.xml
+meta/NoIntro/No-Intro Love Pack (Standard) (2024-03-27)/Unofficial/
+tests/sample_rom.bin
+*.dat
+
 # Outros
 .DS_Store
 Thumbs.db
