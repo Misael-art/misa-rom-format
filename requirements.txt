@@ -23,4 +23,4 @@ pillow>=9.5.0  # Para ícones e imagens
 requests>=2.25.0  # Para web scraping
 dependency_injector>=4.41.0  # Para DI container
 pydantic>=2.0.0  # Para models and validation
-lz4==4.4.4  # Para compressão de ROMs
+lz4==4.4.5  # Para compressão de ROMs
